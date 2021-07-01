@@ -1,0 +1,910 @@
+similarity,sentence1,sentence2
+1,một người đàn ông trẻ chơi trò chơi điện tử xe mô tô,trò chơi điện tử có xe máy
+0,một người đàn ông trẻ chơi trò chơi điện tử xe mô tô,thanh niên lái máy cày
+0,một người đàn ông trẻ chơi trò chơi điện tử xe mô tô,chàng trai trẻ đang trong trò chơi điện tử
+0,một đứa trẻ mặc áo vàng đang chơi trò chơi điện tử màu đỏ,đứa trẻ da trắng
+0,một đứa trẻ mặc áo vàng đang chơi trò chơi điện tử màu đỏ,đứa trẻ đang ngủ trên giường
+1,một đứa trẻ mặc áo vàng đang chơi trò chơi điện tử màu đỏ,một đứa trẻ đang chơi
+1,một đứa trẻ cưỡi một chiếc xe máy,một đứa trẻ đang trên một chuyến đi
+0,một đứa trẻ cưỡi một chiếc xe máy,đứa trẻ đang ngồi trên ghế ô tô
+0,một đứa trẻ cưỡi một chiếc xe máy,chuyến đi thật vui
+1,một cậu bé đang chơi một trò chơi arcade đua xe,một cậu bé đang chơi một trò chơi điện tử
+0,một cậu bé đang chơi một trò chơi arcade đua xe,một người đàn ông ăn kem trên sa mạc
+0,một cậu bé đang chơi một trò chơi arcade đua xe,một cậu bé đang chơi trò chơi điện tử yêu thích của mình
+0,họa mi tóc nâu tạo dáng chụp ảnh giữa cánh đồng hoa hướng dương,đứa trẻ ở trong một cánh đồng tuyết
+0,họa mi tóc nâu tạo dáng chụp ảnh giữa cánh đồng hoa hướng dương,đứa trẻ rất vui khi được chụp ảnh
+1,họa mi tóc nâu tạo dáng chụp ảnh giữa cánh đồng hoa hướng dương,một đứa trẻ đang chụp ảnh của chúng
+1,một cậu bé há to miệng thích thú trước cánh đồng hoa hướng dương khổng lồ,một cậu bé đang ở bên ngoài
+0,một cậu bé há to miệng thích thú trước cánh đồng hoa hướng dương khổng lồ,một cậu bé đang tận hưởng kỳ nghỉ hè trên cánh đồng
+0,một cậu bé há to miệng thích thú trước cánh đồng hoa hướng dương khổng lồ,một cậu bé bị bệnh cúm trên giường
+1,có một cậu bé đang há miệng bên cạnh rất nhiều hoa hướng dương,có một đứa trẻ bên cạnh một số cây
+0,có một cậu bé đang há miệng bên cạnh rất nhiều hoa hướng dương,cô gái nhỏ đang hái hoa
+0,có một cậu bé đang há miệng bên cạnh rất nhiều hoa hướng dương,đứa trẻ đang ngửi hoa
+0,một cậu bé với nụ cười rất tươi trên khuôn mặt ẩn trong cánh đồng hoa,một cậu bé đang ở trong một vùng tuyết
+1,một cậu bé với nụ cười rất tươi trên khuôn mặt ẩn trong cánh đồng hoa,một cậu bé đang ở trong một cánh đồng
+0,một nhóm người trong đám cưới,nhóm đang ở trong một nhà thờ
+0,một nhóm người trong đám cưới,nhóm đang ở một buổi hòa nhạc rock
+1,một nhóm người trong đám cưới,đám đông đang xem lời thề được thực hiện
+0,một tay đua ngựa đang cưỡi lạc đà cắm cờ mỹ xuống đường đua,một con lạc đà ở sở thú đang nhổ nước bọt từ những người ngoài cuộc
+1,một tay đua ngựa đang cưỡi lạc đà cắm cờ mỹ xuống đường đua,một con lạc đà khoác lá cờ mỹ đang được cưỡi bởi một người cưỡi ngựa trên đường đua
+0,một tay đua ngựa đang cưỡi lạc đà cắm cờ mỹ xuống đường đua,một con lạc đà mang cờ mỹ đang được cưỡi trên đường đua bởi một con ngựa đua trong một cuộc biểu tình
+0,học sinh đợi trước khi đến lớp,các học sinh đang chờ đợi để học
+1,học sinh đợi trước khi đến lớp,các sinh viên đang chờ đợi
+0,học sinh đợi trước khi đến lớp,học sinh đang đợi để về nhà
+0,một người đàn ông đang đua lạc đà như thể đó là một con ngựa,một người đàn ông cưỡi lạc đà
+0,một người đàn ông đang đua lạc đà như thể đó là một con ngựa,một người phụ nữ cưỡi ngựa
+1,một người đàn ông đang đua lạc đà như thể đó là một con ngựa,một người đàn ông đang đua trên lạc đà
+0,học sinh với ba lô đang thản nhiên bước đi,hai con cá vàng đang đạp xe trong đống khoai tây nghiền khổng lồ
+0,học sinh với ba lô đang thản nhiên bước đi,các sinh viên đều là bạn
+1,học sinh với ba lô đang thản nhiên bước đi,các bạn sinh viên đừng vội về đích
+1,lạc đà jockey cưỡi lạc đà trắng,có một con vật đang được cưỡi
+0,lạc đà jockey cưỡi lạc đà trắng,con lừa lạc đà trông sợ hãi
+0,lạc đà jockey cưỡi lạc đà trắng,không có gì trên lưng lạc đà
+0,một gia đình chụp ảnh cưới cô dâu mặc váy trắng,gia đình chú rể cũng đến dự đám cưới
+0,một gia đình chụp ảnh cưới cô dâu mặc váy trắng,cô dâu không có gia đình
+1,một gia đình chụp ảnh cưới cô dâu mặc váy trắng,gia đình cô dâu dự đám cưới
+1,một người đàn ông mặc áo sơ mi xanh đeo ba lô đi qua cửa,mọi người sử dụng cửa để ra vào tòa nhà
+0,một người đàn ông mặc áo sơ mi xanh đeo ba lô đi qua cửa,một người đàn ông chạy vào một cánh cửa
+0,một người đàn ông mặc áo sơ mi xanh đeo ba lô đi qua cửa,người đàn ông đang tham gia một lớp học
+0,hai phụ nữ khiêu vũ trong một quán rượu,hai người phụ nữ đang cưỡi ngựa
+1,hai phụ nữ khiêu vũ trong một quán rượu,những người phụ nữ đang di chuyển cơ thể của họ
+0,hai phụ nữ khiêu vũ trong một quán rượu,đàn ông đang quan sát phụ nữ
+0,hai người phụ nữ mặc đồ đỏ và đen đang bị theo dõi khi ở trong một chiếc lồng màu đỏ,hai người phụ nữ mặc áo trắng và vàng
+1,hai người phụ nữ mặc đồ đỏ và đen đang bị theo dõi khi ở trong một chiếc lồng màu đỏ,hai người phụ nữ đang ở trong một cái lồng
+0,hai người phụ nữ mặc đồ đỏ và đen đang bị theo dõi khi ở trong một chiếc lồng màu đỏ,hai người phụ nữ ở trong lồng với một con khỉ
+1,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai người phụ nữ đang mặc trang phục
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai nữ tu sĩ ăn súp tại một nhà hàng gia đình
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,đám đông đang ngủ trong công viên
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai vũ nữ mặc thường phục
+1,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,một đám đông đang tụ tập và được giải trí bởi những phụ nữ trẻ múa lồng trông giống nhau mặc trang phục màu đỏ và đen mặc dù một cô gái tóc vàng và một cô gái tóc nâu
+1,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,có những người phụ nữ đang nhảy múa trước mặt mọi người
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai phụ nữ trẻ mặc trang phục sặc sỡ và nhảy múa trong lồng đang tụ tập một đám đông để xem họ
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,những người phụ nữ là vũ nữ thoát y
+1,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai vũ công trong lồng di chuyển theo điệu nhạc trước đám đông
+1,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,những người phụ nữ đang làm việc
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai người phụ nữ đang khiêu vũ tại một buổi hòa nhạc
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai vũ công không mặc trang phục
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai phụ nữ trẻ nhảy trong lồng tại bữa tiệc khiêu vũ điện tử
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,hai người phụ nữ đang mỉm cười với đám đông
+0,hai vũ công phụ nữ trẻ một người tóc nâu và một người tóc vàng mặc trang phục màu đỏ và đen tương tự nhau và chiếm một lồng khiêu vũ có màu sắc tương tự để giải trí cho một đám đông tụ tập,những người phụ nữ đang hát trong nhà thờ
+0,hai vũ công trên sân khấu trong một câu lạc bộ,hai vũ công tung tăng bên ngoài câu lạc bộ
+1,hai vũ công trên sân khấu trong một câu lạc bộ,hai vũ công trên sân khấu
+0,hai vũ công trên sân khấu trong một câu lạc bộ,hai vũ công biểu diễn trên sân khấu
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người rời mắt khỏi hai người phụ nữ đang khiêu vũ trong quán rượu
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người đang xem đang say mê với điệu nhảy
+1,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,hai người phụ nữ đang khiêu vũ
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,không có phụ nữ trong quán rượu
+1,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,một màn khiêu vũ của hai người phụ nữ
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người xem hai vũ công múa bụng mặc đồ đen và đỏ trong một quán rượu
+1,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,có những người đang nhảy múa
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,hai người phụ nữ say rượu và khiêu vũ
+1,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người đang nhảy múa
+1,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người xem một buổi biểu diễn khiêu vũ tại một quán rượu
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người đang hạnh phúc
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,mọi người đang ở trong nhà thờ
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,hai người phụ nữ đang khiêu vũ cùng nhau
+0,mọi người xem hai người phụ nữ mặc đồ đỏ và đen khiêu vũ trong quán rượu,không ai đang nhảy
+1,hai người đàn ông và một phụ nữ trò chuyện trong một ngày tuyết rơi,mọi người nói chuyện trong tuyết
+0,hai người đàn ông và một phụ nữ trò chuyện trong một ngày tuyết rơi,mọi người nói chuyện vào một ngày nắng
+0,hai người đàn ông và một phụ nữ trò chuyện trong một ngày tuyết rơi,mọi người nói chuyện trên đường đến lớp
+0,ba người lớn hai người đàn ông và một phụ nữ nói chuyện với nhau trong trang phục mùa đông trong tuyết,một vài người lớn đang giao lưu bên ngoài với trang phục mùa hè trong tuyết
+0,ba người lớn hai người đàn ông và một phụ nữ nói chuyện với nhau trong trang phục mùa đông trong tuyết,một vài người lớn nhảy xuống hồ bơi
+1,ba người lớn hai người đàn ông và một phụ nữ nói chuyện với nhau trong trang phục mùa đông trong tuyết,một vài người lớn đang giao lưu bên ngoài
+0,hai người đàn ông và một phụ nữ cố gắng trượt tuyết trong chương trình sử dụng áo khoác và nhựa thay vì xe trượt tuyết,người cao đang cố gắng trượt tuyết
+1,hai người đàn ông và một phụ nữ cố gắng trượt tuyết trong chương trình sử dụng áo khoác và nhựa thay vì xe trượt tuyết,con người cố gắng trượt tuyết
+0,hai người đàn ông và một phụ nữ cố gắng trượt tuyết trong chương trình sử dụng áo khoác và nhựa thay vì xe trượt tuyết,không ai đang cố gắng
+0,một con chó há miệng,một con mèo ngủ ngoài trời
+0,một con chó há miệng,một con chó lớn há miệng gầm gừ
+1,một con chó há miệng,một con vật há miệng
+0,hai người đàn ông và một người phụ nữ nằm trên tuyết sau khi tuyết rơi,ba người nhảy bungie
+1,hai người đàn ông và một người phụ nữ nằm trên tuyết sau khi tuyết rơi,ba người nằm trên tuyết
+0,hai người đàn ông và một người phụ nữ nằm trên tuyết sau khi tuyết rơi,ba người bạn nói dối trong tuyết
+1,những người đàn ông này đang xây dựng một tòa nhà,những người đàn ông này là công nhân xây dựng
+0,những người đàn ông này đang xây dựng một tòa nhà,những người đàn ông này đang xây dựng tòa án mới
+0,những người đàn ông này đang xây dựng một tòa nhà,những người đàn ông này là thây ma
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,con chó đang ngủ bên cạnh người đàn ông
+1,một người đàn ông đang chơi trò kéo co với con chó của mình,một người đàn ông đang chơi với một con chó
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,một người đàn ông và một con mèo đang chơi
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,một người đàn ông và con chó của mình thư giãn trong bóng râm
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,đây là những gì sẽ xảy ra khi cả hai đều muốn đồ chơi giống nhau
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,người đàn ông và con chó đang ở bên ngoài
+1,một người đàn ông đang chơi trò kéo co với con chó của mình,một người đàn ông đang chơi với một con chó
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,một con chó đang đánh người đàn ông
+1,một người đàn ông đang chơi trò kéo co với con chó của mình,có hai sinh vật sống trong bức tranh
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,con chó thích chơi trò chơi này
+1,một người đàn ông đang chơi trò kéo co với con chó của mình,người bạn thân nhất của con người và con người trong trò chơi kéo co
+1,một người đàn ông đang chơi trò kéo co với con chó của mình,người đàn ông đang chơi trò chơi với con chó
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,người đàn ông đang chơi với một con mèo
+0,một người đàn ông đang chơi trò kéo co với con chó của mình,người đàn ông và con chó đang ngủ
+1,nhóm công nhân đứng xung quanh khung tòa nhà,công nhân đứng xung quanh khung tòa nhà
+0,nhóm công nhân đứng xung quanh khung tòa nhà,những người thợ tô điểm thêm những nét hoàn thiện cho một ngôi nhà
+0,nhóm công nhân đứng xung quanh khung tòa nhà,công nhân đứng quanh khu chung cư đang xây dở dang
+0,một nhóm nam nữ mang theo các dụng cụ làm mộc đứng xung quanh khuôn khổ của một ngôi nhà,một nhóm đang sửa nhà
+0,một nhóm nam nữ mang theo các dụng cụ làm mộc đứng xung quanh khuôn khổ của một ngôi nhà,một nhóm đang chạy marathon
+1,một nhóm nam nữ mang theo các dụng cụ làm mộc đứng xung quanh khuôn khổ của một ngôi nhà,một nhóm đang mang đồ đạc
+0,một nhóm người xây dựng khung của một tòa nhà,mọi người đang xây dựng một cái gì đó cho một tòa nhà
+1,một nhóm người xây dựng khung của một tòa nhà,một nhóm người đang xây dựng một khung cấu trúc
+0,một nhóm người xây dựng khung của một tòa nhà,một nhóm người đang phá hủy khung của một tòa nhà
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông sắp đi đến sở thú
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông đang chơi với con gái của mình
+1,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông đang mặc một chiếc áo sơ mi
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông đi dạo bên một con mèo
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông đi dạo bên con chó nhỏ
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông cúi xuống để cưng nựng một con chó được bao quanh bởi những con gấu bông
+1,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông có một con chó nhỏ
+1,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông nghiêng về phía một con chó nhỏ trên chăn
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông nuôi một con chó
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông mặc áo sơ mi xanh nuôi một con chó
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông muốn đưa con chó nhỏ về nhà
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông đang làm việc tại một công trường xây dựng
+1,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,người đàn ông đang nhìn con chó nhỏ trên chăn
+0,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông chuẩn bị đón con chó nhỏ của mình
+1,một người đàn ông mặc áo sơ mi đỏ và đeo kính đang cúi xuống đối mặt với một con chó nhỏ trên một chiếc chăn có vài con thú nhồi bông,một người đàn ông cúi người về phía một con chó
+1,một con chó đen và trắng đang chơi với một con cừu trên cánh đồng,các con vật đang chơi với nhau
+0,một con chó đen và trắng đang chơi với một con cừu trên cánh đồng,những con chó đang đuổi cừu
+0,một con chó đen và trắng đang chơi với một con cừu trên cánh đồng,những con mèo đang đánh nhau
+0,người đàn ông mặc áo khoác vàng đang đi xe máy qua khu chợ đường phố chật kín người và người bán hàng,áo khoác màu đỏ
+0,người đàn ông mặc áo khoác vàng đang đi xe máy qua khu chợ đường phố chật kín người và người bán hàng,người đàn ông tài năng
+1,người đàn ông mặc áo khoác vàng đang đi xe máy qua khu chợ đường phố chật kín người và người bán hàng,có một chiếc áo khoác màu vàng
+1,một người đàn ông mặc áo xanh nhảy chiếc xe đạp đất của mình trong một khu rừng mù sương,một người đàn ông tập nhảy trên chiếc xe đạp đất của mình trên con đường rừng
+0,một người đàn ông mặc áo xanh nhảy chiếc xe đạp đất của mình trong một khu rừng mù sương,một người đàn ông đạp xe đất của mình trong rừng
+0,một người đàn ông mặc áo xanh nhảy chiếc xe đạp đất của mình trong một khu rừng mù sương,một người đàn ông nhâm nhi tách trà với công chúa của narnia
+1,người đi xe đạp nhảy khỏi một đoạn đường dốc trong rừng,một người đi xe đạp đang nhảy ngoài trời khỏi một đoạn đường dốc
+0,người đi xe đạp nhảy khỏi một đoạn đường dốc trong rừng,một người đang đi dạo trong rừng
+0,người đi xe đạp nhảy khỏi một đoạn đường dốc trong rừng,người đi xe đạp đang đi xuống một con đường mòn trong rừng
+1,một người đàn ông mặc đồ màu tím trắng và vàng đi cà kheo,một người đàn ông đi cà kheo
+0,một người đàn ông mặc đồ màu tím trắng và vàng đi cà kheo,một người đàn ông đi cà kheo trong cuộc diễu hành
+0,một người đàn ông mặc đồ màu tím trắng và vàng đi cà kheo,một người đàn ông đi xe đạp cao trong cuộc diễu hành
+0,một người đi xe đạp trong rừng,một con chó cưỡi trong rừng
+0,một người đi xe đạp trong rừng,một người đi xe đạp béo trong rừng
+1,một người đi xe đạp trong rừng,một người đi xe đạp bên ngoài
+1,một đứa trẻ đang đứng một mình trên những tảng đá lởm chởm,một đứa trẻ đang đứng trên đá
+0,một đứa trẻ đang đứng một mình trên những tảng đá lởm chởm,một đứa trẻ ở gần đại dương
+0,một đứa trẻ đang đứng một mình trên những tảng đá lởm chởm,một đứa trẻ đang ngồi trong lớp học
+0,một đứa trẻ mặc bộ đồ ngủ sọc đỏ đang mỉm cười,một đứa trẻ rất vui khi nhận được một món quà
+1,một đứa trẻ mặc bộ đồ ngủ sọc đỏ đang mỉm cười,một đứa trẻ đang mỉm cười
+0,một đứa trẻ mặc bộ đồ ngủ sọc đỏ đang mỉm cười,một đứa trẻ đang khóc
+1,người chơi khúc côn cầu có cú đánh,một cầu thủ khúc côn cầu giành lấy mảnh trò chơi trung tâm
+0,người chơi khúc côn cầu có cú đánh,một cầu thủ khúc côn cầu nắm lấy quả bóng để sẵn sàng thực hiện một cú tát
+0,người chơi khúc côn cầu có cú đánh,một vận động viên khúc côn cầu đang đập băng bằng một quả bóng te nít
+0,một số người đàn ông đang chơi một trò chơi khúc côn cầu,trò chơi bị ràng buộc
+1,một số người đàn ông đang chơi một trò chơi khúc côn cầu,một trò chơi đang được chơi
+0,một số người đàn ông đang chơi một trò chơi khúc côn cầu,một số người đàn ông đang chơi bóng đá
+1,một nhóm người chơi một trò chơi với quả bóng te nít trên bãi biển,mọi người chơi trên bãi biển
+0,một nhóm người chơi một trò chơi với quả bóng te nít trên bãi biển,mọi người chơi đánh bắt trên bãi biển
+0,một nhóm người chơi một trò chơi với quả bóng te nít trên bãi biển,những người chạy trốn sóng thần
+0,một cầu thủ khúc côn cầu áo trắng cố gắng ghi bàn trong khi hai cầu thủ áo xanh lam bảo vệ lưới của họ,vận động viên khúc côn cầu đang ngồi
+1,một cầu thủ khúc côn cầu áo trắng cố gắng ghi bàn trong khi hai cầu thủ áo xanh lam bảo vệ lưới của họ,có một người chơi khúc côn cầu
+0,một cầu thủ khúc côn cầu áo trắng cố gắng ghi bàn trong khi hai cầu thủ áo xanh lam bảo vệ lưới của họ,vận động viên khúc côn cầu là người da trắng
+0,những người chơi khúc côn cầu chơi nhảy cầu trong trận đấu,các cầu thủ khúc côn cầu đã chơi trong 30 phút
+1,những người chơi khúc côn cầu chơi nhảy cầu trong trận đấu,các cầu thủ khúc côn cầu đang trên băng
+0,những người chơi khúc côn cầu chơi nhảy cầu trong trận đấu,các cầu thủ khúc côn cầu đang chơi bóng đá
+0,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đốt cháy hàng rào
+1,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông nó bên ngoài cưa gỗ
+0,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đang sử dụng máy băm gỗ
+1,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đang làm việc
+0,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông cưa một phần hàng rào gỗ bị hỏng
+0,một người đàn ông cưa gỗ trên hàng rào,ngoài trời nắng trong khi một người đàn ông đang đốn gỗ
+1,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đang cưa gỗ
+0,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông dùng xẻng đào lỗ
+1,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông cắt gỗ
+0,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông không có cưa
+0,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đang lấy gỗ cho mùa đông
+0,một người đàn ông cưa gỗ trên hàng rào,người đàn ông đã làm cho hàng rào thậm chí
+0,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông đang cưa gỗ không có hai tay
+1,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông cưa hàng rào bằng gỗ
+0,một người đàn ông cưa gỗ trên hàng rào,một người đàn ông cao đang cắt
+1,cô này đang tập nhảy cao trên chiếc xe đạp mới của mình,cô gái đang thực hành thủ thuật của mình
+0,cô này đang tập nhảy cao trên chiếc xe đạp mới của mình,người phụ nữ bị ngã xe đạp
+0,cô này đang tập nhảy cao trên chiếc xe đạp mới của mình,người phụ nữ đang tập luyện cho một chương trình
+1,một cậu bé đội mũ bảo hiểm màu hồng vừa nhảy ở công viên xe đạp và đang bay giữa không trung,cậu bé đang đội mũ bảo vệ đầu
+0,một cậu bé đội mũ bảo hiểm màu hồng vừa nhảy ở công viên xe đạp và đang bay giữa không trung,cậu bé đang ở một công viên xe tay ga
+0,một cậu bé đội mũ bảo hiểm màu hồng vừa nhảy ở công viên xe đạp và đang bay giữa không trung,cậu bé đang làm trò
+0,người phụ nữ chạy bộ xuống một con đường mòn trên núi với những ngọn núi trong nền,người phụ nữ chạy bộ xuống một con đường mòn trên núi dưới bầu trời đầy nắng với những ngọn núi trong nền
+0,người phụ nữ chạy bộ xuống một con đường mòn trên núi với những ngọn núi trong nền,người phụ nữ chạy bộ xuống phố cùng bạn thân
+1,người phụ nữ chạy bộ xuống một con đường mòn trên núi với những ngọn núi trong nền,một người đang ở ngoài trời
+1,một cậu bé đi xe đạp địa hình đang biểu diễn trên đường mòn trước khán giả dưới lều,một cậu bé đang đạp xe bên trong
+0,một cậu bé đi xe đạp địa hình đang biểu diễn trên đường mòn trước khán giả dưới lều,một cậu bé đang đọc sách trên giường của mình
+0,một cậu bé đi xe đạp địa hình đang biểu diễn trên đường mòn trước khán giả dưới lều,một cậu bé đang thực hiện trò lừa xe đạp cho đám đông
+0,một nữ vận động viên chạy một mình gần núi,cô ấy chạy hàng ngày
+0,một nữ vận động viên chạy một mình gần núi,cô ấy đang ở trên đỉnh núi
+1,một nữ vận động viên chạy một mình gần núi,người phụ nữ thích chạy
+1,một nhóm theo phong cách chiết trung biểu diễn buổi hòa nhạc của họ hoàn chỉnh với áo choàng có mũ trùm đầu,có một sự ngạc nhiên đối với công chúng khi những chiếc áo choàng trùm đầu đến và trình diễn
+0,người biểu diễn xe đạp hoàn thành cú nhảy,cậu bé mặc áo đỏ nhảy bằng xe đạp
+0,người biểu diễn xe đạp hoàn thành cú nhảy,một gia đình đạp xe chậm rãi trên con đường dành cho xe đạp
+1,người biểu diễn xe đạp hoàn thành cú nhảy,một người đi xe đạp thực hiện một pha nhào lộn
+0,một người leo núi đeo ba lô đỏ nhìn cảnh đẹp,một người leo núi đang ngủ
+0,một người leo núi đeo ba lô đỏ nhìn cảnh đẹp,leo núi là đi bộ đường dài
+1,một người leo núi đeo ba lô đỏ nhìn cảnh đẹp,một người leo núi đeo ba lô
+0,một người mang ba lô màu cam đang nhìn vào đống đổ nát,một du khách ngắm nhìn những tàn tích cổ ở ý
+1,một người mang ba lô màu cam đang nhìn vào đống đổ nát,một người khảo sát khung cảnh đổ nát
+0,một người mang ba lô màu cam đang nhìn vào đống đổ nát,một người nhìn vào cồn cát trống rỗng
+0,người mang ba lô màu cam đi bộ đường dài,người chuẩn bị đi trượt tuyết
+0,người mang ba lô màu cam đi bộ đường dài,người có đồ đi bộ đường dài trong ba lô
+1,người mang ba lô màu cam đi bộ đường dài,người đang mang một ba lô
+1,một phụ nữ đang đi bộ đường dài trên núi,một phụ nữ đang ở bên ngoài
+0,một phụ nữ đang đi bộ đường dài trên núi,một phụ nữ đang xem ti vi
+0,một phụ nữ đang đi bộ đường dài trên núi,một phụ nữ đang đi giày
+1,một người phụ nữ mặc áo khoác nâu đang nhìn thứ gì đó trên đùi của mình,người phụ nữ nhìn vào lòng
+0,một người phụ nữ mặc áo khoác nâu đang nhìn thứ gì đó trên đùi của mình,người phụ nữ mặc áo khoác trắng
+0,một người phụ nữ mặc áo khoác nâu đang nhìn thứ gì đó trên đùi của mình,người phụ nữ có một con mèo trong lòng
+0,những người lính đứng thành đội hình bên ngoài một tòa nhà và một người đàn ông mặc quần áo đường phố đứng gần họ,họ sắp hành quân
+0,những người lính đứng thành đội hình bên ngoài một tòa nhà và một người đàn ông mặc quần áo đường phố đứng gần họ,họ hiện đang hành quân
+1,những người lính đứng thành đội hình bên ngoài một tòa nhà và một người đàn ông mặc quần áo đường phố đứng gần họ,những người lính đang đứng thành đội hình
+0,người đàn ông sửa xe đạp lật ngửa sau ô tô mở cốp,một người đàn ông sửa xe đạp bên trong cửa hàng cơ khí của mình
+0,người đàn ông sửa xe đạp lật ngửa sau ô tô mở cốp,một người đàn ông sửa chữa một chuồng chim trong một tòa nhà
+1,người đàn ông sửa xe đạp lật ngửa sau ô tô mở cốp,một người đàn ông sửa xe đạp bên cạnh chiếc ô tô đang mở của mình
+1,bốn người nuôi chó đứng với ba con chó đoạt giải của họ,một nhóm người nuôi chó tạo dáng với những chú chó của họ
+0,bốn người nuôi chó đứng với ba con chó đoạt giải của họ,người chiến thắng cuộc thi chó tạo dáng với những chú chó của họ sau buổi biểu diễn
+0,bốn người nuôi chó đứng với ba con chó đoạt giải của họ,một đàn bò ăn cỏ bên ngoài
+1,một con chó chạy qua bãi cỏ khô,con chó đang chạy
+0,một con chó chạy qua bãi cỏ khô,con chó đang chạy theo một quả bóng
+0,một con chó chạy qua bãi cỏ khô,con chó bị mắc kẹt trong giếng
+1,một con chó đen trắng đang nhảy trên bãi cỏ cao màu vàng,con chó đen trắng nhảy qua bãi cỏ cao
+0,một con chó đen trắng đang nhảy trên bãi cỏ cao màu vàng,một con chó vàng đang ngủ
+0,một con chó đen trắng đang nhảy trên bãi cỏ cao màu vàng,một con chó đen trắng đuổi một con thỏ qua bãi cỏ
+0,con chó đen trắng chạy qua cánh đồng,một con chó chạy trốn khỏi nhà
+0,con chó đen trắng chạy qua cánh đồng,một con mèo chạy trong thành phố
+1,con chó đen trắng chạy qua cánh đồng,một con chó chạy qua một cánh đồng
+0,một cô gái trẻ có một cô gái đeo yếm nhựa màu xanh lá cây cô gái màu tím đang ở trong nhà bếp phía sau cô ấy,một cô gái trẻ mặc yếm vải đang vào bếp một mình
+1,một cô gái trẻ có một cô gái đeo yếm nhựa màu xanh lá cây cô gái màu tím đang ở trong nhà bếp phía sau cô ấy,một cô gái trẻ có một cái yếm
+0,một cô gái trẻ có một cô gái đeo yếm nhựa màu xanh lá cây cô gái màu tím đang ở trong nhà bếp phía sau cô ấy,một cô gái trẻ có một cô gái mặc yếm màu tím đang ở đằng sau cô ấy cầm một chiếc vòng cổ
+0,một cô gái trẻ mặc áo sơ mi xanh đang cầm một đồ vật màu xanh lá cây bên bàn trong nhà của cô ấy,một cô gái trẻ đang đứng bên bàn
+0,một cô gái trẻ mặc áo sơ mi xanh đang cầm một đồ vật màu xanh lá cây bên bàn trong nhà của cô ấy,một cô gái trẻ đang chạy qua nhà
+1,một cô gái trẻ mặc áo sơ mi xanh đang cầm một đồ vật màu xanh lá cây bên bàn trong nhà của cô ấy,một cô gái trẻ đang cầm thứ gì đó bên bàn của mình
+1,mọi người đang đi giữa lều và bóng bay,mọi người đang đi bộ
+0,mọi người đang đi giữa lều và bóng bay,mọi người đi bộ giữa các lều tại rạp xiếc
+0,mọi người đang đi giữa lều và bóng bay,mọi người đi qua một cửa hàng đông đúc
+0,một số lượng lớn người đi bộ xung quanh một lễ hội ngoài trời,lễ hội chỉ có một vài người
+1,một số lượng lớn người đi bộ xung quanh một lễ hội ngoài trời,những người không ở trong nhà
+0,một số lượng lớn người đi bộ xung quanh một lễ hội ngoài trời,mọi người đang cố gắng tìm thức ăn để ăn
+1,hai người mỹ gốc phi đi dạo tại lễ hội ngoài trời,hai người da đen đang ở trong một lễ hội
+0,hai người mỹ gốc phi đi dạo tại lễ hội ngoài trời,hai người đàn ông đang ở một lễ hội âm nhạc
+1,một cô gái trẻ mặc váy hoa mùa hè và đội mũ bóng chày màu xanh đi dọc theo đám đông tại lễ hội mùa hè,một cô gái đang đi dạo quanh một lễ hội
+0,một người điều khiển xe mô tô màu xanh trong một đường đua,người đàn ông chỉ chạy trên chiếc xe máy màu xanh lá cây của mình
+1,một người điều khiển xe mô tô màu xanh trong một đường đua,người đàn ông đã có chiếc mô tô màu xanh của mình tại đường đua vào ngày hôm đó
+0,một người điều khiển xe mô tô màu xanh trong một đường đua,người đàn ông đã sử dụng màu xanh lam trên chiếc xe đạp của mình vì đó là màu may mắn của anh ta
+1,một cậu bé đang dựa vào bức tường gạch gần một số cây,có một cậu bé và những cái cây gần một tòa nhà bằng gạch
+0,một cậu bé đang dựa vào bức tường gạch gần một số cây,một cậu bé đang dựa vào bức tường gạch gần một số cây trụi lá
+0,một cậu bé đang dựa vào bức tường gạch gần một số cây,một cậu bé đang dựa vào cánh cửa gỗ gần băng ghế
+1,cậu bé mặc áo sọc đỏ trắng dựa vào tường và đưa tay che mắt,cậu bé bị che mắt
+0,cậu bé mặc áo sọc đỏ trắng dựa vào tường và đưa tay che mắt,cậu bé mặc đồ màu hồng
+0,cậu bé mặc áo sọc đỏ trắng dựa vào tường và đưa tay che mắt,cậu bé đang chơi trốn tìm
+0,một cậu bé lấy tay che mắt và đang dựa đầu vào bức tường đỏ rực,cô gái che miệng
+1,một cậu bé lấy tay che mắt và đang dựa đầu vào bức tường đỏ rực,cậu bé che mắt
+0,một cậu bé lấy tay che mắt và đang dựa đầu vào bức tường đỏ rực,cậu bé bịt mắt đếm khi chơi trốn tìm
+0,một cậu bé ấn độ đang dựa vào tường mặc áo sơ mi sọc trắng đỏ và che mắt,chim đại bàng đuổi theo
+1,một cậu bé ấn độ đang dựa vào tường mặc áo sơ mi sọc trắng đỏ và che mắt,cậu bé dựa vào tường
+0,một cậu bé ấn độ đang dựa vào tường mặc áo sơ mi sọc trắng đỏ và che mắt,cậu bé đang khóc
+1,bến tàu với những nhóm người một số người với những chiếc thuyền đánh cá trên mặt nước và các tòa nhà và đài tưởng niệm trong nền,bến tàu có nhiều người
+0,bến tàu với những nhóm người một số người với những chiếc thuyền đánh cá trên mặt nước và các tòa nhà và đài tưởng niệm trong nền,bến tàu vắng tanh
+0,bến tàu với những nhóm người một số người với những chiếc thuyền đánh cá trên mặt nước và các tòa nhà và đài tưởng niệm trong nền,bến tàu có nhiều người tây ban nha
+0,một đứa trẻ che mắt và đối mặt với bức tường gạch,một đứa trẻ ngồi trên xích đu
+1,một đứa trẻ che mắt và đối mặt với bức tường gạch,đứa trẻ không thể nhìn thấy bất cứ điều gì
+0,một đứa trẻ che mắt và đối mặt với bức tường gạch,đứa trẻ đang chơi trốn tìm
+1,hai đứa trẻ đang ăn gì đó bên ngoài,hai đứa trẻ đang tiêu thụ thức ăn
+0,hai đứa trẻ đang ăn gì đó bên ngoài,hai đứa trẻ đang đánh nhau
+0,hai đứa trẻ đang ăn gì đó bên ngoài,hai đứa trẻ đang đói
+0,hai cậu bé đứng trên sườn đồi đất giữa ánh sáng ban ngày,hai cô gái xây dựng một đế chế
+0,hai cậu bé đứng trên sườn đồi đất giữa ánh sáng ban ngày,hai cậu bé chơi trò vua của ngọn đồi
+1,hai cậu bé đứng trên sườn đồi đất giữa ánh sáng ban ngày,hai thanh niên đứng trên mặt phẳng nghiêng
+0,một ngư dân đội mũ lưỡi trai đỏ kéo lưới khỏi làn nước nâu đục,một người đàn ông đang ngủ trong phòng ngủ của mình
+1,một ngư dân đội mũ lưỡi trai đỏ kéo lưới khỏi làn nước nâu đục,một người đàn ông đang kéo lưới lên khỏi mặt nước
+0,một cậu bé mặc áo vàng và một cậu bé khác mặc áo xanh đang đi dọc theo bức tường gạch vỡ,con trai đi bộ gần bởi công việc co lại
+1,một cậu bé mặc áo vàng và một cậu bé khác mặc áo xanh đang đi dọc theo bức tường gạch vỡ,con trai đang đi dạo gần một bức tường
+0,một cậu bé mặc áo vàng và một cậu bé khác mặc áo xanh đang đi dọc theo bức tường gạch vỡ,trẻ em xây một ngôi nhà mới
+0,một số người đàn ông và phụ nữ đang có một trận chiến dưới nước với chai nước và súng phun,một nhóm lớn người đang tham gia vào trận đấu súng bắn súng hàng năm của hoàng gia
+1,một số người đàn ông và phụ nữ đang có một trận chiến dưới nước với chai nước và súng phun,mọi người đang phun nước vào nhau
+0,một số người đàn ông và phụ nữ đang có một trận chiến dưới nước với chai nước và súng phun,một số trẻ em đánh nhau bằng cách ném bóng nước đầy nước tiểu vào nhau
+0,labrador vàng uống nước từ vòi,một con chó đang nằm trên sàn nhà
+1,labrador vàng uống nước từ vòi,labrador đang uống nước trực tiếp từ vòi
+0,labrador vàng uống nước từ vòi,một con chó đang uống nước từ một cái bát
+0,nhóm thiếu nữ dùng súng bắn nước chống nhóm thanh niên,những người phụ nữ là một phần của một hội nữ sinh
+1,nhóm thiếu nữ dùng súng bắn nước chống nhóm thanh niên,phụ nữ làm ướt đàn ông
+0,nhóm thiếu nữ dùng súng bắn nước chống nhóm thanh niên,những người phụ nữ đang ngủ
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một chàng trai và bạn gái của anh ấy mặc áo khoác
+1,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,mọi người đang đi chơi
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một chàng trai và một cô gái đang chụp ảnh nhau dưới nước trong bộ đồ lặn màu đỏ
+1,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,hai người đang mặc áo khoác trong khi một người nghe điện thoại di động
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,hai người đang xem phim tại rạp chiếu phim
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,mọi người đang mặc đồ tắm
+1,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một chàng trai mặc áo khoác nghe thiết bị di động
+1,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,có những người mặc áo khoác
+1,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một chàng trai nghe thiết bị di động của mình trong khi một cô gái đứng gần đó
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,có những người bên ngoài mặc áo khoác xanh
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,mọi người lạnh lùng
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một người phụ nữ nghe thiết bị di động của cô ấy
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một người đàn ông và một người phụ nữ ở bên ngoài trong khi người nam nghe podcast
+0,chàng trai và cô gái mặc áo khoác trong khi anh chàng nghe thiết bị di động,một chàng trai nghe tin nhắn thư thoại từ thiết bị di động của mình
+1,anh ấy đứng trong bộ đồng phục chỉ có cái bóng của anh ấy là công ty,anh ấy đứng trong quần áo
+0,anh ấy đứng trong bộ đồng phục chỉ có cái bóng của anh ấy là công ty,anh ấy đứng trong bộ đồng phục và suy nghĩ về cái bóng của mình
+0,anh ấy đứng trong bộ đồng phục chỉ có cái bóng của anh ấy là công ty,anh ấy khỏa thân đứng chỉ với cái bóng của mình vì bạn
+0,một người mặc đồng phục đang đứng và bóng của họ đang đổ bên cạnh họ,thường dân mặc thường phục
+1,một người mặc đồng phục đang đứng và bóng của họ đang đổ bên cạnh họ,một người đang mặc đồng phục
+0,một người mặc đồng phục đang đứng và bóng của họ đang đổ bên cạnh họ,một sĩ quan quân đội đang mặc quân phục
+1,một người đàn ông mặc bộ đồ màu nâu nhìn từ trên cao đứng chắp tay sau lưng,người đàn ông mặc một bộ đồ
+0,một người đàn ông mặc bộ đồ màu nâu nhìn từ trên cao đứng chắp tay sau lưng,người đàn ông làm việc cho google
+0,một người đàn ông mặc bộ đồ màu nâu nhìn từ trên cao đứng chắp tay sau lưng,người đàn ông đang ngủ
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông đang đi bộ
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,người đàn ông với bộ đồ màu nâu đang ở trong một nhà thờ
+1,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông nắm tay nhau
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,người đàn ông đang đứng lên giơ bảng hiệu hòa bình
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông lo lắng dùng tay nghịch ngợm
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông mặc bộ đồ màu nâu vươn vai
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông với bộ đồ màu nâu đang trồng cây chuối
+1,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông ăn mặc đẹp đang đứng yên
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông mặc bộ đồ màu nâu và đội mũ quả dưa đang đứng
+1,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,người đàn ông chống tay sau lưng
+1,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông với bộ đồ màu nâu đang đứng chắp tay sau lưng
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người đàn ông đang vật tay
+0,một người đàn ông với bộ đồ màu nâu đang đứng lên và nắm tay nhau sau lưng,một người phụ nữ đợi một ly cà phê trong quán cà phê
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,người đàn ông đang nhìn nước chảy ra từ vòi và anh ta tự hỏi liệu anh ta có thể cứu bãi cỏ của mình khỏi cái nóng như thiêu như đốt không
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,anh ấy đang đứng cạnh một tòa nhà
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông đang đứng bên ngoài dưới ánh mặt trời rực rỡ
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông mặc quần áo mùa đông nhìn lên bầu trời không một gợn mây khi chụp từ bên dưới
+1,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,anh ấy đang ở bên ngoài vào một ngày nắng
+1,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,có một người đàn ông trong bức tranh này
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông mặc đồ nâu đang ăn trưa tại văn phòng
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người mặc bộ đồ màu nâu đang đợi ai đó bên sông
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông đang ở trong một đám cưới
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,ở nhà một người đàn ông mặc bộ đồ ngủ
+0,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,anh ấy đang ở bên trong xem ti vi
+1,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông mặc bộ đồ màu nâu đang đứng chắp tay sau lưng chúng tôi thấy bóng của anh ta
+1,người đàn ông mặc bộ đồ màu nâu đứng chắp tay sau lưng và bóng của anh ta đổ xuống dòng chảy khi chụp từ trên cao,một người đàn ông mặc một bộ đồ màu nâu
+0,những người đàn ông chơi trò chơi trong công viên,một số người đàn ông chơi vì tiền
+1,những người đàn ông chơi trò chơi trong công viên,đàn ông ở ngoài trời
+0,những người đàn ông chơi trò chơi trong công viên,một số người đàn ông đang ở trong một hồ bơi
+0,nam giới trong khu vực cộng đồng tập thể dục,tù nhân nam trong sân đang tập thể dục
+1,nam giới trong khu vực cộng đồng tập thể dục,có những người đàn ông đang tập thể dục
+0,nam giới trong khu vực cộng đồng tập thể dục,có một nhóm phụ nữ đứng xung quanh không làm gì
+1,bốn người đàn ông đang chơi trên một khu vực lát đá,một số người đàn ông đang chơi
+1,bốn người đàn ông đang chơi trên một khu vực lát đá,bốn người đàn ông đang chơi bên ngoài
+0,bốn người đàn ông đang chơi trên một khu vực lát đá,bốn người đàn ông đang ngồi bên ngoài
+1,một người đàn ông châu á trong nhóm bốn người uống rượu,một người làm rơi đồ uống
+0,một người đàn ông châu á trong nhóm bốn người uống rượu,một người đàn ông châu á trong một nhóm với ba người da đen
+0,một người đàn ông châu á trong nhóm bốn người uống rượu,bốn người da đen một trong số họ đang uống rượu
+0,một người nhảy khỏi một tảng đá cao,một người đàn ông nhảy khỏi một tảng đá và vào hố bơi
+1,một người nhảy khỏi một tảng đá cao,ai đó đã nhảy khỏi một tảng đá
+0,một vận động viên thể dục biểu diễn trên xà thăng bằng trong khi đồng đội và huấn luyện viên của cô ấy nhìn vào,một vận động viên thể dục nam đang thực hiện bài tập trên sàn trong một sân vận động trống
+1,một vận động viên thể dục biểu diễn trên xà thăng bằng trong khi đồng đội và huấn luyện viên của cô ấy nhìn vào,vận động viên thể dục cách mặt đất vài bước chân
+0,một vận động viên thể dục biểu diễn trên xà thăng bằng trong khi đồng đội và huấn luyện viên của cô ấy nhìn vào,các vận động viên thể dục đều mặc đồng phục màu đỏ
+1,hai cô gái trẻ đang đi xe đạp phân khối lớn bên lề đường,cô gái đi xe đạp
+0,hai cô gái trẻ đang đi xe đạp phân khối lớn bên lề đường,người đàn ông uống coca
+0,hai cô gái trẻ đang đi xe đạp phân khối lớn bên lề đường,cô gái có xe đạp mới
+0,một cô gái đang tập thể dục và nhảy trong khi hai cô gái tóc vàng khác đang nhìn cô ấy và ba người và một hình con hổ sang trọng ở phía sau,cả hai người xem đều có mái tóc đỏ và đang cổ vũ cho vận động viên thể dục
+0,một cô gái đang tập thể dục và nhảy trong khi hai cô gái tóc vàng khác đang nhìn cô ấy và ba người và một hình con hổ sang trọng ở phía sau,vận động viên thể dục đang cạnh tranh cho một vị trí trong đội
+1,một cô gái đang tập thể dục và nhảy trong khi hai cô gái tóc vàng khác đang nhìn cô ấy và ba người và một hình con hổ sang trọng ở phía sau,vận động viên thể dục biểu diễn trong khi những người khác nhìn vào
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai anh chị em trẻ đang đi xe đạp trong khu phố của họ
+1,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,chàng trai và cô gái đang đi xe đạp của họ
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,trai gái đua nhau
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,một vài đứa trẻ ngồi trên sàn trải thảm xung quanh là đồ chơi
+1,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,một vài đứa trẻ đang đi xuống một con phố qua một số cây
+1,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai đứa trẻ đang đi xe đạp
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,những đứa trẻ đang cưỡi ngựa
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai người lớn đang đi dọc bến tàu
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai đứa trẻ đang ngồi bên trong một tòa nhà
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,chàng trai đang đuổi theo cô gái trên chiếc xe đạp của họ
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,một vài đứa trẻ đội mũ bảo hiểm màu xanh đeo ba lô màu đỏ
+1,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,có trẻ em đi xe đạp
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,chàng trai và cô gái đang bơi
+1,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai đứa trẻ đang ở ngoài
+0,một chàng trai và một cô gái trẻ đi xe đạp trên một con phố với bụi bẩn và những cây nhỏ xung quanh họ,hai đứa trẻ mặc áo xanh
+1,hai người đàn ông đứng nhìn ra biển tại một khu nghỉ mát nhiệt đới,đại dương bao la và đẹp
+0,hai người đàn ông đứng nhìn ra biển tại một khu nghỉ mát nhiệt đới,hai người đàn ông này là bạn đời của nhau
+0,hai người đàn ông đứng nhìn ra biển tại một khu nghỉ mát nhiệt đới,hai người đàn ông đang đi bộ qua một công viên
+1,hai người đàn ông đang quan sát những người khác trên bờ biển,hai chàng trai trên bãi biển
+0,hai người đàn ông đang quan sát những người khác trên bờ biển,một người đàn ông lái xe limo
+0,những người mặc đồ tắm đang ở trên bãi biển nhìn địa hình ở phía xa,những người mặc đồ tắm đang ở ngoài trời nhìn vào địa hình gần họ
+1,những người mặc đồ tắm đang ở trên bãi biển nhìn địa hình ở phía xa,những người mặc đồ tắm đang ở ngoài trời nhìn xa xăm
+0,những người mặc đồ tắm đang ở trên bãi biển nhìn địa hình ở phía xa,những người mặc đồ tắm ở ngoài trời nhìn xuống đất
+0,hai cô gái nhỏ đi xe đạp lớn xuống phố,hai cô gái nhỏ đi xe xuống phố
+0,hai cô gái nhỏ đi xe đạp lớn xuống phố,một ông già với chiếc lon chậm rãi đi qua khu rừng
+1,hai cô gái nhỏ đi xe đạp lớn xuống phố,hai cô gái nhỏ đi xe đạp lớn
+0,cô dâu một chú rể 3 nam và 3 nữ,tiệc cưới cử hành trong tiệc chiêu đãi
+0,cô dâu một chú rể 3 nam và 3 nữ,những người không liên quan đi lang thang không mục đích
+1,cô dâu một chú rể 3 nam và 3 nữ,tiệc cưới
+0,một nhóm người với quần áo sặc sỡ đi xuống phố chơi nhạc cụ tự chế,những người là những chú hề
+1,một nhóm người với quần áo sặc sỡ đi xuống phố chơi nhạc cụ tự chế,những người mặc quần áo đầy màu sắc
+0,một nhóm người với quần áo sặc sỡ đi xuống phố chơi nhạc cụ tự chế,mọi người đang chạy lên một con hẻm
+1,tiệc cưới tạo dáng chụp ảnh trước nhà thờ luân phiên,tiệc cưới chụp ảnh kỷ yếu
+0,tiệc cưới tạo dáng chụp ảnh trước nhà thờ luân phiên,tiệc cưới chụp hình cuối cùng trong ngày
+1,một cô dâu và chú rể là trung tâm của bức ảnh này với ba phù dâu mặc váy đỏ ở bên trái và phù rể ở bên phải,tiệc cưới đang tạo dáng chụp ảnh
+0,một cô dâu và chú rể là trung tâm của bức ảnh này với ba phù dâu mặc váy đỏ ở bên trái và phù rể ở bên phải,cô dâu chú rể lẻ bóng trong ảnh
+0,một cô dâu và chú rể là trung tâm của bức ảnh này với ba phù dâu mặc váy đỏ ở bên trái và phù rể ở bên phải,cô dâu và chú rể đang đứng trên ghế đẩu
+0,một cặp đôi chụp ảnh cưới trong tiệc cưới của họ,không có ai ở đây
+0,một cặp đôi chụp ảnh cưới trong tiệc cưới của họ,người cao
+1,một cặp đôi chụp ảnh cưới trong tiệc cưới của họ,một số người đang chụp ảnh
+0,một chiếc xe buýt du lịch chật cứng mọi người khi tất cả họ đều nhìn sang trái và căng mắt vào đối tượng mà hướng dẫn viên đã chỉ ra,mọi người đang đi tàu điện ngầm để đi làm
+1,một chiếc xe buýt du lịch chật cứng mọi người khi tất cả họ đều nhìn sang trái và căng mắt vào đối tượng mà hướng dẫn viên đã chỉ ra,khách du lịch đang đi xe buýt
+0,một chiếc xe buýt du lịch chật cứng mọi người khi tất cả họ đều nhìn sang trái và căng mắt vào đối tượng mà hướng dẫn viên đã chỉ ra,khách du lịch đang nhìn thấy các điểm tham quan của rome
+1,một nhóm người chơi nhạc ở nơi công cộng trên các nhạc cụ độc đáo,mọi người chơi nhạc
+0,một nhóm người chơi nhạc ở nơi công cộng trên các nhạc cụ độc đáo,mọi người đang bị nuốt chửng bởi những công cụ độc đáo
+1,một nhóm thanh niên chơi nhiều loại nhạc cụ khác nhau như trống và kèn trên đường phố khi mọi người đi qua,một nhóm nhạc trẻ chơi bên ngoài
+0,một nhóm thanh niên chơi nhiều loại nhạc cụ khác nhau như trống và kèn trên đường phố khi mọi người đi qua,một đứa trẻ ậm ừ
+1,một nhóm những người quan tâm đến nghệ thuật tụ tập xung quanh một nghệ sĩ biểu diễn đường phố âm nhạc thể hiện rất nhiều niềm hạnh phúc và hứng thú,người biểu diễn đang được xem
+0,một nhóm những người quan tâm đến nghệ thuật tụ tập xung quanh một nghệ sĩ biểu diễn đường phố âm nhạc thể hiện rất nhiều niềm hạnh phúc và hứng thú,người biểu diễn đang chống đẩy ở nhà
+0,một nhóm những người quan tâm đến nghệ thuật tụ tập xung quanh một nghệ sĩ biểu diễn đường phố âm nhạc thể hiện rất nhiều niềm hạnh phúc và hứng thú,người biểu diễn đang biểu diễn bài hát yêu thích của anh ấy
+0,mọi người tụ tập xung quanh xem những người biểu diễn đường phố chơi nhiều loại nhạc cụ khác nhau,mọi người đã tụ tập để xem một buổi biểu diễn nhạc rock ngẫu hứng của một ban nhạc rock
+0,mọi người tụ tập xung quanh xem những người biểu diễn đường phố chơi nhiều loại nhạc cụ khác nhau,mọi người đã tụ tập để xem những người biểu diễn đường phố chơi nhiều loại nhạc cụ khác nhau
+1,mọi người tụ tập xung quanh xem những người biểu diễn đường phố chơi nhiều loại nhạc cụ khác nhau,mọi người đã tụ tập để xem buổi biểu diễn âm nhạc của những người biểu diễn đường phố
+0,một đám trẻ đu cùng nhau trong một chiếc xích đu lớn hình cái rổ,trẻ em đang tập thể dục trong rừng
+0,một đám trẻ đu cùng nhau trong một chiếc xích đu lớn hình cái rổ,trẻ em đang ở sân chơi
+1,một đám trẻ đu cùng nhau trong một chiếc xích đu lớn hình cái rổ,trẻ em đang trên xích đu
+1,một đàn chim bay lên từ đường phố dựa vào bức tường sơn,một đứa trẻ đã ở đó
+0,một đàn chim bay lên từ đường phố dựa vào bức tường sơn,cỏ đã xanh
+0,một đàn chim bay lên từ đường phố dựa vào bức tường sơn,các chàng trai đã tức giận
+1,một người đàn ông mặc áo sơ mi trắng cúi người trước máy bán vé đậu xe cố gắng lấy tiền lẻ của mình ra khỏi khe đồng xu,một người đàn ông cố gắng lấy lại tiền từ một chiếc máy
+0,một người đàn ông mặc áo sơ mi trắng cúi người trước máy bán vé đậu xe cố gắng lấy tiền lẻ của mình ra khỏi khe đồng xu,một người phụ nữ đợi xe buýt để đón con trong mưa
+0,một người đàn ông mặc áo sơ mi trắng cúi người trước máy bán vé đậu xe cố gắng lấy tiền lẻ của mình ra khỏi khe đồng xu,một ông già mặc đồ trắng đứng trước máy bán vé màu xanh đang cố gắng lấy lại số tiền của mình từ khe đồng xu
+1,đây là một người đàn ông cúi xuống khi bỏ tiền vào đồng hồ đậu xe,người đàn ông đang trả tiền để đậu xe
+0,đây là một người đàn ông cúi xuống khi bỏ tiền vào đồng hồ đậu xe,người đàn ông đang đi mua sắm
+0,đây là một người đàn ông cúi xuống khi bỏ tiền vào đồng hồ đậu xe,người đàn ông chiếc xe của anh ấy
+1,một người đàn ông đang cúi xuống cố gắng sử dụng một loại máy móc nào đó,người đàn ông không đứng
+0,một người đàn ông đang cúi xuống cố gắng sử dụng một loại máy móc nào đó,người đàn ông đang nằm trên giường
+0,một người đàn ông đang cúi xuống cố gắng sử dụng một loại máy móc nào đó,người đàn ông đang sửa máy
+0,một người đàn ông đang quỳ gối trước máy thanh toán,một người đàn ông đang xếp hàng chờ tại máy atm
+1,một người đàn ông đang quỳ gối trước máy thanh toán,một người đàn ông đang ở phía trước của một cái máy
+0,một người đàn ông đang quỳ gối trước máy thanh toán,người đàn ông đang cố gắng sửa máy
+0,một nhóm lớn một số người cầm bảng hiệu màu đỏ gần một loạt các tòa nhà,một nhóm người đang ở gần bãi biển
+1,một nhóm lớn một số người cầm bảng hiệu màu đỏ gần một loạt các tòa nhà,một đám đông cầm một số biển báo màu đỏ tụ tập lại gần một số tòa nhà
+0,một nhóm lớn một số người cầm bảng hiệu màu đỏ gần một loạt các tòa nhà,một nhóm người cầm bảng hiệu đang ở gần các tòa nhà chính phủ ở trung tâm thành phố
+0,một người đàn ông ăn mặc kỳ lạ đeo mặt nạ,một người đàn ông đang đeo mặt nạ
+0,một người đàn ông ăn mặc kỳ lạ đeo mặt nạ,người đàn ông mặc trang phục họa sĩ điển hình
+1,một người đàn ông ăn mặc kỳ lạ đeo mặt nạ,một người đàn ông đeo mặt nạ đang mặc một bộ quần áo kỳ lạ
+1,hai người đàn ông ở các đội đối lập đang chạy theo một quả bóng đá,có những người chạy xung quanh
+0,hai người đàn ông ở các đội đối lập đang chạy theo một quả bóng đá,những người đàn ông chơi trò chơi nhặt bóng thân thiện trên đường phố
+0,hai người đàn ông ở các đội đối lập đang chạy theo một quả bóng đá,những người đàn ông chờ đợi khi trận đấu bóng chày của họ bắt đầu
+0,một phụ nữ trẻ vui vẻ ngắm nhìn một bình trà nâu,một người phụ nữ đang pha trà
+0,một phụ nữ trẻ vui vẻ ngắm nhìn một bình trà nâu,một người phụ nữ đang nhìn vào chảo rán của cô ấy
+1,một phụ nữ trẻ vui vẻ ngắm nhìn một bình trà nâu,một người phụ nữ đang nhìn vào một bình trà
+1,một người đàn ông đeo kính râm đeo mặt nạ và mặc trang phục bộ lạc nhảy múa trên đường phố,một người đàn ông đang khiêu vũ
+0,một người đàn ông đeo kính râm đeo mặt nạ và mặc trang phục bộ lạc nhảy múa trên đường phố,một người phụ nữ đang nhảy múa trên đường phố
+0,một người đàn ông đeo kính râm đeo mặt nạ và mặc trang phục bộ lạc nhảy múa trên đường phố,một người đàn ông đang biểu diễn cho các mẹo
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,hãy giải thích cho tôi biết là có phải mọi lề đường đều được phép đỗ xe không
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,trong trường hợp nào cảnh sát giao thông được phép mặc thường phục khi đang làm nhiệm vụ
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,hãy giải thích cho tôi trong trường hợp nào cảnh sát giao thông được phép mặc thường phục khi đang làm nhiệm vụ
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,hãy giải thích cho tôi biết là trong trường hợp nào cảnh sát giao thông được phép mặc thường phục khi đang làm nhiệm vụ
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,cho tôi biết rằng trong trường hợp nào cảnh sát giao thông được phép mặc thường phục khi đang làm nhiệm vụ
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,cho tôi biết hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,cho tôi biết rằng hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,giải thích cho tôi biết rằng hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện những quy tắc gì
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,hãy giải thích cho tôi biết rằng người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện những quy tắc gì
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,cho tôi biết là người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện những quy tắc gì
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện những quy tắc gì
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,vận chuyển người vượt biên trái phép thì bị xử phạt như thế nào
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,cho tôi biết vận chuyển người vượt biên trái phép thì bị xử phạt như thế nào
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,giải thích vận chuyển người vượt biên trái phép thì bị xử phạt như thế nào
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,giải thích vận chuyển người vượt biên trái phép thì bị xử phạt như thế nào
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,che giấu người vượt biên trái phép thì bị phạt bao nhiêu
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,giải thích cho tôi biết là che giấu người vượt biên trái phép thì bị phạt bao nhiêu
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,hãy cho tôi biết rằng che giấu người vượt biên trái phép thì bị phạt bao nhiêu
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,giải thích cho tôi biết rằng là che giấu người vượt biên trái phép thì bị phạt bao nhiêu
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy cho tôi biết hãy cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,cho tôi biết rằng là hãy cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,giải thích hãy cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,khi dừng xe đỗ xe tại nơi được phép trên đường phố có những quy định gì dành cho người điều khiển phương tiện
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy cho tôi biết rằng khi dừng xe đỗ xe tại nơi được phép trên đường phố có những quy định gì dành cho người điều khiển phương tiện
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố có những quy định gì dành cho người điều khiển phương tiện
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy cho tôi biết khi dừng xe đỗ xe tại nơi được phép trên đường phố có những quy định gì dành cho người điều khiển phương tiện
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,vừa lái xe vừa nghe điện thoại là đúng hay sai
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy giải thích cho tôi vừa lái xe vừa nghe điện thoại là đúng hay sai
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,giải thích cho tôi biết rằng vừa lái xe vừa nghe điện thoại là đúng hay sai
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,cho tôi biết rằng vừa lái xe vừa nghe điện thoại là đúng hay sai
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,sử dụng điện thoại trong lúc đang lái xe có vi phạm luật giao thông đường bộ không
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,cho tôi biết rằng là sử dụng điện thoại trong lúc đang lái xe có vi phạm luật giao thông đường bộ không
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,cho tôi biết rằng là sử dụng điện thoại trong lúc đang lái xe có vi phạm luật giao thông đường bộ không
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,giải thích sử dụng điện thoại trong lúc đang lái xe có vi phạm luật giao thông đường bộ không
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy cho tôi biết là hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,giải thích cho tôi biết là hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,cho tôi biết rằng hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,giải thích khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,cho tôi biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,vừa lái xe vừa đeo tai nghe nhạc có nguy hiểm không
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,cho tôi biết vừa lái xe vừa đeo tai nghe nhạc có nguy hiểm không
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy cho tôi biết là vừa lái xe vừa đeo tai nghe nhạc có nguy hiểm không
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,giải thích cho tôi biết rằng vừa lái xe vừa đeo tai nghe nhạc có nguy hiểm không
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,còi xe quá to gây ảnh hưởng gì đến an toàn giao thông
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,cho tôi biết rằng còi xe quá to gây ảnh hưởng gì đến an toàn giao thông
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,giải thích còi xe quá to gây ảnh hưởng gì đến an toàn giao thông
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy giải thích cho tôi còi xe quá to gây ảnh hưởng gì đến an toàn giao thông
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy cho biết xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho tôi biết rằng là hãy cho biết xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho tôi biết hãy cho biết xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,giải thích cho tôi biết là hãy cho biết xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,khi nào xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy cho biết khi nào xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho tôi biết rằng là khi nào xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho tôi biết rằng là khi nào xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,vận chuyển người trái phép là như thế nào
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho biết vận chuyển người trái phép là như thế nào
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy giải thích cho tôi vận chuyển người trái phép là như thế nào
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,cho tôi biết là vận chuyển người trái phép là như thế nào
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,xe buýt hoạt động vào những khung giờ nào trong ngày
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy giải thích cho tôi biết là xe buýt hoạt động vào những khung giờ nào trong ngày
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy giải thích cho tôi xe buýt hoạt động vào những khung giờ nào trong ngày
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy giải thích cho tôi biết là xe buýt hoạt động vào những khung giờ nào trong ngày
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy cho biết những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,giải thích hãy cho biết những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy cho tôi biết rằng hãy cho biết những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,cho biết hãy cho biết những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,những loại xe khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông là những loại nào
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy cho tôi biết những loại xe khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông là những loại nào
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,cho tôi biết rằng là những loại xe khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông là những loại nào
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,giải thích cho tôi biết là những loại xe khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông là những loại nào
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,tại sao xe mang biển số màu xanh và đỏ được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,cho tôi biết tại sao xe mang biển số màu xanh và đỏ được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,giải thích cho tôi biết rằng là tại sao xe mang biển số màu xanh và đỏ được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy giải thích cho tôi biết rằng tại sao xe mang biển số màu xanh và đỏ được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,tại sao xe mang biển số màu trắng lại không được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy giải thích cho tôi tại sao xe mang biển số màu trắng lại không được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,giải thích cho tôi biết rằng tại sao xe mang biển số màu trắng lại không được phép vượt đèn đỏ
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy giải thích cho tôi biết là tại sao xe mang biển số màu trắng lại không được phép vượt đèn đỏ
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy trình bày khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy giải thích cho tôi biết là hãy trình bày khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,cho tôi biết hãy trình bày khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy giải thích cho tôi hãy trình bày khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,khi có tín hiệu của xe ưu tiên hành động nào người tham gia giao thông phải làm
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,cho tôi biết khi có tín hiệu của xe ưu tiên hành động nào người tham gia giao thông phải làm
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy giải thích cho tôi biết là khi có tín hiệu của xe ưu tiên hành động nào người tham gia giao thông phải làm
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,cho tôi biết khi có tín hiệu của xe ưu tiên hành động nào người tham gia giao thông phải làm
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,ngồi trên xe buýt cần lưu ý những gì
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy cho tôi biết rằng ngồi trên xe buýt cần lưu ý những gì
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,cho tôi biết là ngồi trên xe buýt cần lưu ý những gì
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy giải thích cho tôi ngồi trên xe buýt cần lưu ý những gì
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,quy định số lượng người ngồi trên xe buýt như thế nào
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy giải thích cho tôi biết rằng quy định số lượng người ngồi trên xe buýt như thế nào
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy cho tôi biết rằng quy định số lượng người ngồi trên xe buýt như thế nào
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,giải thích cho tôi biết là quy định số lượng người ngồi trên xe buýt như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy cho biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy giải thích cho tôi biết rằng hãy cho biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy cho tôi biết là hãy cho biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,cho tôi biết rằng là hãy cho biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau được quy định như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy giải thích cho tôi biết là thứ tự xe được ưu tiên đi trước khi qua đường giao nhau được quy định như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,cho tôi biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau được quy định như thế nào
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy giải thích cho tôi biết là thứ tự xe được ưu tiên đi trước khi qua đường giao nhau được quy định như thế nào
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,tại sao phải phạt nặng những hành vi cản trở giao thông
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy giải thích cho tôi biết rằng tại sao phải phạt nặng những hành vi cản trở giao thông
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,giải thích cho tôi biết rằng là tại sao phải phạt nặng những hành vi cản trở giao thông
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy cho tôi biết tại sao phải phạt nặng những hành vi cản trở giao thông
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,tội chống đối người thi hành công vụ là nặng hay nhẹ
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,cho tôi biết rằng là tội chống đối người thi hành công vụ là nặng hay nhẹ
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,giải thích cho tôi biết là tội chống đối người thi hành công vụ là nặng hay nhẹ
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,giải thích tội chống đối người thi hành công vụ là nặng hay nhẹ
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy cho biết khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy giải thích cho tôi biết rằng hãy cho biết khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,cho tôi biết rằng hãy cho biết khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy giải thích cho tôi rằng là hãy cho biết khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,khi qua nhà qua cầu phao người lái xe cần lưu ý những điều gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,cho tôi biết khi qua nhà qua cầu phao người lái xe cần lưu ý những điều gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy cho biết khi qua nhà qua cầu phao người lái xe cần lưu ý những điều gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy cho tôi biết là khi qua nhà qua cầu phao người lái xe cần lưu ý những điều gì để bảo đảm an toàn
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,trọng tải xe vận chuyển được quy định như thế nào
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,giải thích cho tôi biết rằng là trọng tải xe vận chuyển được quy định như thế nào
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,cho biết trọng tải xe vận chuyển được quy định như thế nào
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,giải thích trọng tải xe vận chuyển được quy định như thế nào
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,xe chở quá khối lượng hàng hoá cho phép sẽ gây ra những hậu quả gì
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy cho tôi biết xe chở quá khối lượng hàng hoá cho phép sẽ gây ra những hậu quả gì
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,cho tôi biết rằng xe chở quá khối lượng hàng hoá cho phép sẽ gây ra những hậu quả gì
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy giải thích cho tôi xe chở quá khối lượng hàng hoá cho phép sẽ gây ra những hậu quả gì
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,cho tôi biết là hãy cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy giải thích cho tôi hãy cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy cho tôi biết rằng hãy cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến khi nào người điều khiển phương tiện phải nhường đường
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,cho tôi biết rằng là tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến khi nào người điều khiển phương tiện phải nhường đường
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến khi nào người điều khiển phương tiện phải nhường đường
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy giải thích cho tôi tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến khi nào người điều khiển phương tiện phải nhường đường
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,khi lái xe xuống dốc cần lưu ý những gì
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy giải thích cho tôi biết rằng khi lái xe xuống dốc cần lưu ý những gì
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,giải thích cho tôi biết rằng là khi lái xe xuống dốc cần lưu ý những gì
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,giải thích cho tôi biết là khi lái xe xuống dốc cần lưu ý những gì
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,quy định đường một chiều như thế nào
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,giải thích quy định đường một chiều như thế nào
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy cho tôi biết quy định đường một chiều như thế nào
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,cho tôi biết quy định đường một chiều như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy cho biết tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy cho tôi biết là hãy cho biết tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,cho tôi biết rằng hãy cho biết tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy giải thích cho tôi biết rằng hãy cho biết tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,tại nơi đường giao nhau khi nào người lái xe đang đi trên đường không ưu tiên phải nhường đường
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy giải thích cho tôi rằng là tại nơi đường giao nhau khi nào người lái xe đang đi trên đường không ưu tiên phải nhường đường
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy cho tôi biết tại nơi đường giao nhau khi nào người lái xe đang đi trên đường không ưu tiên phải nhường đường
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,giải thích cho tôi biết rằng tại nơi đường giao nhau khi nào người lái xe đang đi trên đường không ưu tiên phải nhường đường
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,cần làm gì để giải quyết vấn đề tắc nghẽn giao thông
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy giải thích cho tôi cần làm gì để giải quyết vấn đề tắc nghẽn giao thông
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy cho biết cần làm gì để giải quyết vấn đề tắc nghẽn giao thông
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy giải thích cho tôi biết là cần làm gì để giải quyết vấn đề tắc nghẽn giao thông
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,ổ gà trên mặt đường là do đâu
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,cho tôi biết rằng là ổ gà trên mặt đường là do đâu
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,cho tôi biết ổ gà trên mặt đường là do đâu
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,giải thích ổ gà trên mặt đường là do đâu
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy cho biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,cho tôi biết hãy cho biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,cho biết hãy cho biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,cho biết hãy cho biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến việc nhường đường được người điều khiển phương tiện thực hiện như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy cho tôi biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến việc nhường đường được người điều khiển phương tiện thực hiện như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy cho tôi biết rằng tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến việc nhường đường được người điều khiển phương tiện thực hiện như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy giải thích cho tôi tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến việc nhường đường được người điều khiển phương tiện thực hiện như thế nào là đúng quy tắc giao thông
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,ô tô phóng quá nhanh trên đường gây ra những hậu quả gì
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,giải thích cho tôi biết là ô tô phóng quá nhanh trên đường gây ra những hậu quả gì
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy cho biết ô tô phóng quá nhanh trên đường gây ra những hậu quả gì
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,cho tôi biết là ô tô phóng quá nhanh trên đường gây ra những hậu quả gì
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,biển số xe thuộc các khu vực khác nhau thì có thể giống nhau không
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy giải thích cho tôi rằng là biển số xe thuộc các khu vực khác nhau thì có thể giống nhau không
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy giải thích cho tôi biết rằng biển số xe thuộc các khu vực khác nhau thì có thể giống nhau không
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy giải thích cho tôi biết là biển số xe thuộc các khu vực khác nhau thì có thể giống nhau không
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy cho biết trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,giải thích cho tôi biết rằng hãy cho biết trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy giải thích cho tôi rằng là hãy cho biết trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy cho tôi biết là hãy cho biết trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện được quyền ưu tiên đi trước phải thoả mãn những điều kiện gì
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy giải thích cho tôi rằng là trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện được quyền ưu tiên đi trước phải thoả mãn những điều kiện gì
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy giải thích cho tôi trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện được quyền ưu tiên đi trước phải thoả mãn những điều kiện gì
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy cho tôi biết rằng trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện được quyền ưu tiên đi trước phải thoả mãn những điều kiện gì
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,tại sao biển số xe của các tỉnh phải khác nhau
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy giải thích cho tôi biết rằng tại sao biển số xe của các tỉnh phải khác nhau
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,cho tôi biết rằng là tại sao biển số xe của các tỉnh phải khác nhau
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy cho tôi biết rằng tại sao biển số xe của các tỉnh phải khác nhau
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,xe máy có được phép đi lên đường ray không
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,giải thích cho tôi biết là xe máy có được phép đi lên đường ray không
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,cho tôi biết rằng là xe máy có được phép đi lên đường ray không
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy giải thích cho tôi biết rằng xe máy có được phép đi lên đường ray không
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy cho biết tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,giải thích cho tôi biết rằng hãy cho biết tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy giải thích cho tôi rằng là hãy cho biết tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,giải thích cho tôi biết là hãy cho biết tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,tìm hiểu nội dung vấn đề tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cho biết tìm hiểu nội dung vấn đề tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy giải thích cho tôi tìm hiểu nội dung vấn đề tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy cho biết tìm hiểu nội dung vấn đề tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,có bao nhiêu ga tàu trên cả nước
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cho tôi biết là có bao nhiêu ga tàu trên cả nước
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cho biết có bao nhiêu ga tàu trên cả nước
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,giải thích cho tôi biết là có bao nhiêu ga tàu trên cả nước
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cảng hàng không nào của nước ta là cảng hàng không quốc tế
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy giải thích cho tôi biết là cảng hàng không nào của nước ta là cảng hàng không quốc tế
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cho tôi biết rằng là cảng hàng không nào của nước ta là cảng hàng không quốc tế
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy cho tôi biết là cảng hàng không nào của nước ta là cảng hàng không quốc tế
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy cho biết người lái xe phải làm gì khi đều khiển xe vào đường cao tốc
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy cho tôi biết rằng hãy cho biết người lái xe phải làm gì khi đều khiển xe vào đường cao tốc
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,cho tôi biết là hãy cho biết người lái xe phải làm gì khi đều khiển xe vào đường cao tốc
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy cho tôi biết rằng hãy cho biết người lái xe phải làm gì khi đều khiển xe vào đường cao tốc
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,những việc người lái xe phải làm khi đều khiển xe vào đường cao tốc là gì
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,cho tôi biết rằng là những việc người lái xe phải làm khi đều khiển xe vào đường cao tốc là gì
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích những việc người lái xe phải làm khi đều khiển xe vào đường cao tốc là gì
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích cho tôi biết là những việc người lái xe phải làm khi đều khiển xe vào đường cao tốc là gì
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,tại sao không được ném gạch đá xuống đường cao tốc
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích cho tôi biết là tại sao không được ném gạch đá xuống đường cao tốc
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy cho tôi biết rằng tại sao không được ném gạch đá xuống đường cao tốc
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích cho tôi biết rằng tại sao không được ném gạch đá xuống đường cao tốc
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,khi trời mưa to cần lưu ý gì khi lái xe
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy giải thích cho tôi rằng là khi trời mưa to cần lưu ý gì khi lái xe
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích cho tôi biết là khi trời mưa to cần lưu ý gì khi lái xe
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,giải thích cho tôi biết là khi trời mưa to cần lưu ý gì khi lái xe
+1,người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc,hãy cho biết người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc
+0,một người đàn ông đeo mặt nạ và nhiều bộ quần áo khác nhau,người đàn ông khỏa thân
+0,một người đàn ông đeo mặt nạ và nhiều bộ quần áo khác nhau,người đàn ông là một tên tội phạm
+1,một người mặc một bộ trang phục kỳ lạ với chiếc lưỡi đỏ lè,trang phục có lưỡi đỏ
+0,một người mặc một bộ trang phục kỳ lạ với chiếc lưỡi đỏ lè lưỡi màu xanh lam,Không có gì
+0,một người mặc một bộ trang phục kỳ lạ với chiếc lưỡi đỏ lè,nó là rỗng
+1,một người đàn ông giúp một cậu bé lái xe đẩy hàng,một người đàn ông và cậu bé với một chiếc xe đẩy
+0,một người đàn ông giúp một cậu bé lái xe đẩy hàng,hai cô gái trẻ trộm xe đẩy
+0,người đàn ông và trẻ em cưỡi trên xe đẩy,một người cha và con trai của mình đua xe tại trung tâm vui chơi gia đình
+0,người đàn ông và trẻ em cưỡi trên xe đẩy,một người đàn ông dạy con trai mình cách thắt nút để lấy huy hiệu bằng khen
+1,người đàn ông và trẻ em cưỡi trên xe đẩy,hai người ngồi trên xe đẩy
+1,một ông già lái xe đẩy với một cậu bé,hai người trên một chiếc xe cơ giới nhỏ
+0,một ông già lái xe đẩy với một cậu bé,một người đàn ông đi xe đạp mini
+1,tấm thẻ rách rưới của chiếc xe buýt màu xanh đang rẽ một góc phố có vẻ lạc lõng giữa những cửa hàng dành cho người đi bộ và một người phụ nữ đơn độc đi xe đạp màu đỏ,một chiếc xe buýt màu xanh đang rẽ vào một góc
+0,tấm thẻ rách rưới của chiếc xe buýt màu xanh đang rẽ một góc phố có vẻ lạc lõng giữa những cửa hàng dành cho người đi bộ và một người phụ nữ đơn độc đi xe đạp màu đỏ,xe buýt đang chạy nhanh qua một góc cua
+0,tấm thẻ rách rưới của chiếc xe buýt màu xanh đang rẽ một góc phố có vẻ lạc lõng giữa những cửa hàng dành cho người đi bộ và một người phụ nữ đơn độc đi xe đạp màu đỏ,sandra bullock đã đi xe buýt và đang lái xe trên một con nhím trông kỳ lạ!
+0,một thanh niên mặc áo vàng đỏ vận hành máy móc trong nhà kho,người đàn ông trẻ đang nộp thủ tục giấy tờ
+0,một thanh niên mặc áo vàng đỏ vận hành máy móc trong nhà kho,chàng trai trẻ được cấp chứng chỉ về xe nâng hàng
+1,một thanh niên mặc áo vàng đỏ vận hành máy móc trong nhà kho,một thanh niên đang làm việc trong một nhà kho
+0,một số lượng lớn công nhân mặc áo bảo hộ sáng màu đứng xung quanh và gần một hố sụt lớn trên một con phố lát gạch,có thiệt hại cho đường phố
+1,một số lượng lớn công nhân mặc áo bảo hộ sáng màu đứng xung quanh và gần một hố sụt lớn trên một con phố lát gạch,những người đàn ông đang ở trong một thành phố
+0,một số lượng lớn công nhân mặc áo bảo hộ sáng màu đứng xung quanh và gần một hố sụt lớn trên một con phố lát gạch,tất cả những người đàn ông đang ngồi trên băng ghế
+1,công nhân xây dựng tập trung quanh một cái hố lớn giữa phố đông đúc,công nhân xây dựng bận rộn trên phố
+0,công nhân xây dựng tập trung quanh một cái hố lớn giữa phố đông đúc,công nhân xây dựng tập trung trên nền tháp
+0,một nhóm nhân viên khẩn cấp giám sát tình trạng xuống cấp nghiêm trọng trên đường phố thành phố,một nhóm nhân viên cấp cứu có xu hướng làm những người bị thương trên đường phố thành phố
+0,một nhóm nhân viên khẩn cấp giám sát tình trạng xuống cấp nghiêm trọng trên đường phố thành phố,một nhóm nhân viên cấp cứu giám sát tình trạng xuống cấp nghiêm trọng trên một con phố trong thành phố gây ra một số vụ tai nạn
+1,một nhóm nhân viên khẩn cấp giám sát tình trạng xuống cấp nghiêm trọng trên đường phố thành phố,một nhóm nhân viên khẩn cấp giám sát một dự án
+0,mọi người chen chúc quanh chiếc xe buýt đổ nát ở góc phố,mọi người vừa khởi hành một chuyến xe buýt đông đúc
+0,mọi người chen chúc quanh chiếc xe buýt đổ nát ở góc phố,mọi người đang lên xe của họ
+1,mọi người chen chúc quanh chiếc xe buýt đổ nát ở góc phố,mọi người tụ tập quanh xe buýt
+0,người đàn ông mỹ gốc phi đứng bên ngoài mặc áo sơ mi và áo khoác màu vàng cam sặc sỡ,người đàn ông không mặc áo sơ mi
+0,người đàn ông mỹ gốc phi đứng bên ngoài mặc áo sơ mi và áo khoác màu vàng cam sặc sỡ,bây giờ là ban ngày
+1,người đàn ông mỹ gốc phi đứng bên ngoài mặc áo sơ mi và áo khoác màu vàng cam sặc sỡ,người đàn ông mặc quần áo
+0,một người đàn ông mỹ gốc phi lớn tuổi đang cầm một thứ gì đó đi xuống đường,một người đàn ông đang ngồi trên một chiếc ghế dài
+1,một người đàn ông mỹ gốc phi lớn tuổi đang cầm một thứ gì đó đi xuống đường,một người đàn ông đang ở ngoài trời
+0,một người đàn ông mỹ gốc phi lớn tuổi đang cầm một thứ gì đó đi xuống đường,một người đàn ông đang đi bộ đến một nhà hàng
+0,một người đàn ông mặc áo khoác màu cam đang nhìn trước máy ảnh,một người đàn ông trong tù
+1,một người đàn ông mặc áo khoác màu cam đang nhìn trước máy ảnh,một người đàn ông mặc áo cam
+0,một người đàn ông mặc áo khoác màu cam đang nhìn trước máy ảnh,một người đàn ông chỉ mặc một bộ áo liền quần màu xanh lá cây
+0,một người đàn ông lớn tuổi mặc áo khoác màu cam đang nhìn xung quanh,một ông già đang săn voi
+1,một người đàn ông lớn tuổi mặc áo khoác màu cam đang nhìn xung quanh,một ông già nhìn xung quanh
+0,một người đàn ông lớn tuổi mặc áo khoác màu cam đang nhìn xung quanh,một ông già đang nhìn xung quanh trong rừng
+0,tám đứa trẻ rám nắng làm mặt trên cây,trẻ em đang chơi trò chơi board game bên trong
+0,tám đứa trẻ rám nắng làm mặt trên cây,tấn trẻ trèo cây vui chơi mỗi ngày
+1,tám đứa trẻ rám nắng làm mặt trên cây,tám đứa trẻ đang ở bên ngoài
+0,trẻ em tạo dáng trên cây,người già đang nhảy dù
+0,trẻ em tạo dáng trên cây,có anh chị em trong một cây thông
+1,trẻ em tạo dáng trên cây,người ở ngoài trời trên cây
+0,trẻ em tạo dáng trên cây,trẻ em trên cây lớn
+1,trẻ em tạo dáng trên cây,trẻ em đang ở trên cây
+1,trẻ em tạo dáng trên cây,trẻ em trên cây
+1,trẻ em tạo dáng trên cây,trẻ em ở trên cây
+1,trẻ em tạo dáng trên cây,có những đứa trẻ ở ngoài trời
+0,trẻ em tạo dáng trên cây,trẻ em đang vui vẻ khi leo cây trong công viên
+0,trẻ em tạo dáng trên cây,những người đàn ông đang đẻ trong một ngôi nhà trên cây
+0,trẻ em tạo dáng trên cây,trẻ em đang tạo dáng
+0,trẻ em tạo dáng trên cây,trẻ em trong một bát súp
+0,trẻ em tạo dáng trên cây,trẻ em đang ngồi vào bàn học trong lớp
+0,trẻ em tạo dáng trên cây,những đứa trẻ trên cây đang làm những khuôn mặt và cử chỉ vui nhộn để chụp ảnh
+0,trẻ em tạo dáng trên cây,những đứa trẻ đang ở trong nhà trên một chiếc ghế dài
+1,con chó đen trắng đang đứng trên bãi cỏ há to miệng,một con chó đứng trên cỏ
+0,con chó đen trắng đang đứng trên bãi cỏ há to miệng,một con mèo nằm trên bãi cỏ và chờ đợi
+0,con chó đen trắng đang đứng trên bãi cỏ há to miệng,một con chó đứng trên bãi cỏ và đợi chủ nhân của nó
+0,một đám trẻ đang trèo lên cây và ôm nó lên,một đám trẻ đang tranh cãi bên trong một tòa nhà
+0,một đám trẻ đang trèo lên cây và ôm nó lên,những đứa trẻ đang sử dụng cái cây như một điểm thuận lợi
+1,một đám trẻ đang trèo lên cây và ôm nó lên,một nhóm trẻ em đang ở bên ngoài
+0,một con chó nâu nhảy trong không trung trên đồng bằng nâu,một con chó nâu buồn đang nhảy trong không trung trên đồng bằng nâu
+0,một con chó nâu nhảy trong không trung trên đồng bằng nâu,một con mèo nâu nhảy trong không trung trên đồng bằng nâu
+1,một con chó nâu nhảy trong không trung trên đồng bằng nâu,một con chó nhảy trên không trên đồng bằng nâu
+1,một con chó nâu nhảy lên để bắt một quả bóng,một con chó đang chơi với một quả bóng
+0,một con chó nâu nhảy lên để bắt một quả bóng,chủ nhân của anh ấy đã ném cho anh ấy quả bóng
+0,một con chó nâu nhảy lên để bắt một quả bóng,chú chó cần một quả bóng mới vì tuần trước nó bị mất bóng
+0,một con chó nâu nhảy lên không trung để bắt bóng,con chó đang chơi với một con chó khác
+0,một con chó nâu nhảy lên không trung để bắt bóng,chú chó đang ăn
+1,một con chó nâu nhảy lên không trung để bắt bóng,con vật đang chơi
+1,mọi người đứng xung quanh và nhìn chằm chằm vào lối vào,những người đang ở ngoài trời
+0,mọi người đứng xung quanh và nhìn chằm chằm vào lối vào,những người đang ở trong nhà của họ
+0,mọi người đứng xung quanh và nhìn chằm chằm vào lối vào,những người đang chờ mua vé
+1,một người phụ nữ cầm hoa đỏ đứng ở lối vào của một tòa nhà,một người phụ nữ đứng ở lối vào của một tòa nhà
+0,một người phụ nữ cầm hoa đỏ đứng ở lối vào của một tòa nhà,một người phụ nữ đang cầm những bông hoa màu đỏ
+0,một người phụ nữ cầm hoa đỏ đứng ở lối vào của một tòa nhà,người đàn ông ăn hết khoai tây chiên
+1,một nhóm người chờ đợi bên ngoài tòa nhà một số người mang theo hoa,mọi người đang đợi
+0,một nhóm người chờ đợi bên ngoài tòa nhà một số người mang theo hoa,ô tô qua cầu
+0,một nhóm người chờ đợi bên ngoài tòa nhà một số người mang theo hoa,phù dâu và phù rể đợi vào tòa nhà
+0,một người phụ nữ cầm hoa hồng đứng trước khu vực nhập cảnh trong khi những người khác đang xếp hàng,người phụ nữ ở một bia mộ
+1,một người phụ nữ cầm hoa hồng đứng trước khu vực nhập cảnh trong khi những người khác đang xếp hàng,ai đó đang cầm hoa hồng
+0,một người phụ nữ cầm hoa hồng đứng trước khu vực nhập cảnh trong khi những người khác đang xếp hàng,người phụ nữ đang cầm một quả bóng
+0,mọi người đang tập luyện bằng xi măng trong rừng,những người chở xe tải xi măng trên đường mòn trong rừng
+1,mọi người đang tập luyện bằng xi măng trong rừng,mọi người làm việc trong rừng
+0,mọi người đang tập luyện bằng xi măng trong rừng,những người ngủ trong lều trong rừng
+0,một tập hợp lớn những người tiệc tùng trên thuyền,những người đang say
+0,một tập hợp lớn những người tiệc tùng trên thuyền,những con thuyền đang chìm
+1,một tập hợp lớn những người tiệc tùng trên thuyền,có nhiều hơn một chiếc thuyền
+0,một cô gái mặc váy hồng đang đứng trên đầu,một cô gái đang tập giữ thăng bằng
+1,một cô gái mặc váy hồng đang đứng trên đầu,một cô gái mặc một chiếc váy màu hồng
+0,một cô gái mặc váy hồng đang đứng trên đầu,một cô gái mặc một chiếc váy đỏ
+0,hai đứa trẻ tóc vàng một trai một gái cầm gậy và mỉm cười,hai đứa trẻ tóc vàng mặc áo xanh một cậu bé và một cô gái cầm gậy thuốc nổ và mỉm cười
+1,hai đứa trẻ tóc vàng một trai một gái cầm gậy và mỉm cười,hai người đang cầm đồ vật và biểu cảm trên khuôn mặt
+0,hai đứa trẻ tóc vàng một trai một gái cầm gậy và mỉm cười,hai đứa trẻ tóc vàng một trai một gái đang cầm bóng rổ và cau mày
+0,cô bé và cậu bé đang giải trí khi đám đông quan sát,cô bé và cậu bé đang khóc
+1,cô bé và cậu bé đang giải trí khi đám đông quan sát,mọi người xem bọn trẻ được giải trí
+0,cô bé và cậu bé đang giải trí khi đám đông quan sát,một chú hề biểu diễn cho anh trai và em gái khi những người còn lại trong bữa tiệc theo dõi
+1,hai đứa trẻ tóc vàng nhỏ cầm gậy khi đứng trong đám đông ở thành phố,hai đứa trẻ trong đám đông với một cây gậy
+0,hai đứa trẻ tóc vàng nhỏ cầm gậy khi đứng trong đám đông ở thành phố,hai ông già dùng gậy đánh nhau
+0,hai đứa trẻ tóc vàng nhỏ cầm gậy khi đứng trong đám đông ở thành phố,hai anh em ruột trong đám đông cầm cây gậy
+1,hai đứa trẻ nhỏ đang chơi đồ chơi trong khi đám đông nhìn vào,trẻ em đang chơi
+0,hai đứa trẻ nhỏ đang chơi đồ chơi trong khi đám đông nhìn vào,một cậu bé và một cô gái đang chơi
+0,hai đứa trẻ nhỏ đang chơi đồ chơi trong khi đám đông nhìn vào,một người đàn ông và một người phụ nữ đang chơi với đồ chơi
+0,cậu bé được bao quanh bởi một đống lá,cậu bé thích chơi trong lá
+1,cậu bé được bao quanh bởi một đống lá,lá bao quanh cậu bé
+0,cậu bé được bao quanh bởi một đống lá,không có lá cho cậu bé chơi
+0,một cậu bé mặc áo khoác ngồi trong đống lá,một cô gái mặc váy chơi với lá
+0,một cậu bé mặc áo khoác ngồi trong đống lá,một cậu bé mặc áo khoác ngồi trong đống lá chết
+1,một cậu bé mặc áo khoác ngồi trong đống lá,một cậu bé mặc áo khoác đang ngồi
+1,mùa thu cậu bé chơi trong đống lá,một cậu bé chơi trong lá mùa thu
+0,mùa thu cậu bé chơi trong đống lá,một cậu bé thu thập bọ từ tán lá mùa thu
+0,mùa thu cậu bé chơi trong đống lá,cô gái tết tóc
+0,một đứa trẻ nhỏ bị vùi trong lá rụng đến cổ,đứa trẻ đang ở nhà thờ
+1,một đứa trẻ nhỏ bị vùi trong lá rụng đến cổ,đứa trẻ đang chơi trò chơi ngoài trời
+0,một đứa trẻ nhỏ bị vùi trong lá rụng đến cổ,những đứa trẻ cha mẹ đang chôn anh ta trong lá
+1,một số người đi xe đạp mặc các màu sắc khác nhau đi xe đạp trên vỉa hè,mọi người đang đi xe đạp
+0,một số người đi xe đạp mặc các màu sắc khác nhau đi xe đạp trên vỉa hè,mọi người đang chơi khúc côn cầu trong công viên
+0,một số người đi xe đạp mặc các màu sắc khác nhau đi xe đạp trên vỉa hè,mọi người đang đạp xe đến bãi biển
+0,cậu bé chơi ngoài trời trong lá,cậu bé nhảy vào đống lá
+1,cậu bé chơi ngoài trời trong lá,một đứa trẻ ngoài trời
+0,cậu bé chơi ngoài trời trong lá,hai cô gái đu ở sân chơi
+0,một cặp vợ chồng trẻ nhìn vào mắt nhau khi đi thang cuốn trong siêu thị mua sắm,cặp đôi đã kết hôn
+0,một cặp vợ chồng trẻ nhìn vào mắt nhau khi đi thang cuốn trong siêu thị mua sắm,cặp đôi đang trong thang máy
+1,một cặp vợ chồng trẻ nhìn vào mắt nhau khi đi thang cuốn trong siêu thị mua sắm,cặp đôi bên nhau
+0,một người đàn ông và một người phụ nữ đang trên thang cuốn nhìn nhau,thang cuốn ở trung tâm mua sắm
+0,một người đàn ông và một người phụ nữ đang trên thang cuốn nhìn nhau,hai người đang ở trong thang máy
+1,một người đàn ông và một người phụ nữ đang trên thang cuốn nhìn nhau,hai người đang ở trên một thang cuốn
+0,một người đàn ông và một người phụ nữ đi trên thang cuốn giao tiếp bằng mắt,hai người chơi nhảy ếch trên cánh đồng
+1,một người đàn ông và một người phụ nữ đi trên thang cuốn giao tiếp bằng mắt,hai người đang nhìn chằm chằm vào nhau trên một chiếc máy kích thích
+0,một người đàn ông và một người phụ nữ đi trên thang cuốn giao tiếp bằng mắt,một người đàn ông và một người phụ nữ nhận ra nhau khi băng qua thang cuốn
+0,một cặp vợ chồng đi thang cuốn,một cặp vợ chồng đi thang cuốn ở trung tâm mua sắm
+0,một cặp vợ chồng đi thang cuốn,một người đàn ông độc thân ngồi ở dưới cùng của thang cuốn
+1,một cặp vợ chồng đi thang cuốn,một cặp vợ chồng đi thang cuốn
+1,hai con chó đen và trắng đang chơi với nhau bên ngoài,có nhiều hơn một con chó
+0,hai con chó đen và trắng đang chơi với nhau bên ngoài,những con chó đang chạy về phía một quả bóng te nít
+0,hai con chó đen và trắng đang chơi với nhau bên ngoài,những con chó đang ngủ trên chiếu của họ
+0,một nhóm trẻ em chơi trong trung tâm vui chơi,trẻ em chạy quanh trung tâm vui chơi
+0,một nhóm trẻ em chơi trong trung tâm vui chơi,một người đàn ông uống bia
+1,một nhóm trẻ em chơi trong trung tâm vui chơi,trẻ em chơi cùng nhau trong một tòa nhà
+0,một người nhảy giữa căn phòng trên lầu xanh trong khi những người khác nhìn ra cửa sổ,nhóm người đang leo thang thoát hiểm để thoát khỏi người phụ nữ bắn thủng sàn nhà
+1,một người nhảy giữa căn phòng trên lầu xanh trong khi những người khác nhìn ra cửa sổ,có một vài người trong phòng
+0,một người nhảy giữa căn phòng trên lầu xanh trong khi những người khác nhìn ra cửa sổ,mọi người đang nhìn ra cửa sổ để bạn của họ trở về trong khi một người họ vừa nhìn thấy một con nhện và đang cố gắng bóp chết nó
+1,một đứa trẻ nhảy từ phòng tập leo núi trong nhà trong khi những đứa trẻ khác trèo qua các phần khác của cấu trúc,một nhóm trẻ em đang chơi trong nhà
+0,một đứa trẻ nhảy từ phòng tập leo núi trong nhà trong khi những đứa trẻ khác trèo qua các phần khác của cấu trúc,một số trẻ em đang chơi trò đuổi bắt ngoài trời
+0,một đứa trẻ nhảy từ phòng tập leo núi trong nhà trong khi những đứa trẻ khác trèo qua các phần khác của cấu trúc,một đứa trẻ đang rơi từ một phòng tập thể dục trong rừng và sẽ bị thương nặng
+0,cô gái nhảy lầu trong căn phòng sáng tối,một người đàn ông đang dắt con rùa của mình
+1,cô gái nhảy lầu trong căn phòng sáng tối,một cô gái bên trong
+0,cô gái nhảy lầu trong căn phòng sáng tối,một cô gái chơi trong tầng hầm
+1,bé gái nhảy từ nhà trẻ lên nệm cao su trong nhà trẻ,một người nhảy từ nhà vui chơi lên nệm cao su trong nhà trẻ
+0,bé gái nhảy từ nhà trẻ lên nệm cao su trong nhà trẻ,một cậu bé nhảy từ nhà chơi lên nệm cao su trong nhà trẻ
+0,bé gái nhảy từ nhà trẻ lên nệm cao su trong nhà trẻ,một cô gái buồn nhảy từ một khu vui chơi lên nệm cao su trong một cơ sở giữ trẻ
+0,một người đàn ông châu á cầm nhiều túi nhìn qua đường,người đàn ông châu á đốn củi cạnh hàng cây
+1,một người đàn ông châu á cầm nhiều túi nhìn qua đường,một người đàn ông châu á cầm một đống túi nhìn trên đường phố đông đúc
+0,một người đàn ông châu á cầm nhiều túi nhìn qua đường,một người đàn ông châu á xách nhiều bao gạo bắt đầu băng qua đường bên ngoài
+0,cô gái trẻ trượt xuống cầu trượt màu cam,cô gái đang ở trên khỉ
+1,cô gái trẻ trượt xuống cầu trượt màu cam,người trên slide là một cô gái
+0,cô gái trẻ trượt xuống cầu trượt màu cam,cô gái đang ở trong một sân chơi
+1,một cô gái nhỏ mặc áo vàng trượt xuống một slide màu cam,một cô gái mặc áo vàng đi xuống cầu trượt
+0,một cô gái nhỏ mặc áo vàng trượt xuống một slide màu cam,một cô gái mặc áo vàng đi xuống một đường trượt màu cam ngoằn ngoèo
+0,cô bé trượt xuống cầu trượt sân chơi màu cam,trang trình bày màu đỏ
+1,cô bé trượt xuống cầu trượt sân chơi màu cam,trang trình chiếu ở bên ngoài
+0,cô bé trượt xuống cầu trượt sân chơi màu cam,cầu trượt cao
+0,một cô gái trẻ mặc áo vàng trượt xuống một đường trượt cong màu đỏ ở sân chơi,một cô gái trẻ đang chơi trên cầu trượt
+1,một cô gái trẻ mặc áo vàng trượt xuống một đường trượt cong màu đỏ ở sân chơi,một cô gái trẻ đang trên sân chơi
+0,một cô gái trẻ mặc áo vàng trượt xuống một đường trượt cong màu đỏ ở sân chơi,không có trẻ em chơi trên sân chơi
+0,một cô gái trẻ trên cầu trượt màu cam,một cô gái trẻ đang hạnh phúc
+0,một cô gái trẻ trên cầu trượt màu cam,một cậu bé chơi
+1,một cô gái trẻ trên cầu trượt màu cam,một cô gái trẻ chơi
+1,bốn người đứng trước xe buýt,mọi người đang đứng trước phương tiện giao thông
+0,bốn người đứng trước xe buýt,mọi người đang ngủ trên giường
+0,một người đàn ông đứng trên đường phố,một đứa trẻ chơi trong xe
+0,một người đàn ông đứng trên đường phố,một người đàn ông trên đường phố dừng lại
+1,một người đàn ông đứng trên đường phố,một người đàn ông trên đường phố
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,người đàn ông đang giả bị thương
+1,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông bị thương trên sàn trong khi những người khác đứng xem
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một vụ tai nạn xe hơi dành cho người đi bộ gần đây đã xảy ra
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đi xe mô tô có áo khoác đen
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,người phụ nữ ngã xe đạp
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông chết trên sàn nhà sau khi bị xe đâm trong khi mọi người cười nhạo xác chết của anh ta
+1,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đi xe máy ngồi bên ngoài
+1,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông đang đặt cọc trên mặt đất
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,ô tô phóng đi
+1,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông đang ôm đầu
+1,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,người đàn ông bị thương
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông đang nằm trên giường của mình
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người đàn ông bị thương trên sàn nhà trong khi những người khác đứng nhìn anh ta chờ các bác sĩ đến
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,chiếc xe đạp bị hỏng rất nặng
+0,một người đàn ông trên một chiếc xe đạp bị một phương tiện tông phải ngồi ôm đầu trong khi những người khác đứng xem,một người lái xe mô tô đang đạp xe của anh ấy
+0,một người đàn ông đứng trước xe buýt và một chiếc xe đạp trên mặt đất,một người đàn ông đứng trước chiếc xe đạp bị ngã của mình
+1,một người đàn ông đứng trước xe buýt và một chiếc xe đạp trên mặt đất,một người đàn ông đứng trước xe buýt và một chiếc xe đạp
+0,một người đàn ông đứng trước xe buýt và một chiếc xe đạp trên mặt đất,một người đàn ông đứng trước tắc xi
+0,người xem nghi vấn tài xế xe buýt sau khi một người đàn ông đi xe đạp bị đâm,những kẻ dòm ngó tấn công tài xế xe buýt
+0,hiện trường vụ tai nạn xe buýt đâm phải người đi xe đạp,các túi khí xe đạp đã không triển khai
+0,hiện trường vụ tai nạn xe buýt đâm phải người đi xe đạp,đầu người đi xe đạp nằm trong kính chắn gió
+1,hiện trường vụ tai nạn xe buýt đâm phải người đi xe đạp,có mảnh kính vỡ trên mặt đất
+0,một người đàn ông và một người phụ nữ đi bộ trên một con phố thành phố,một cậu bé đang cố gắng sang đường một mình
+0,một người đàn ông và một người phụ nữ đi bộ trên một con phố thành phố,hai người mặc áo hoodie đang đi bộ bên đường
+1,một người đàn ông và một người phụ nữ đi bộ trên một con phố thành phố,một người đàn ông và bạn gái của anh ấy đang tay trong tay đi dạo trên một con đường
+0,một người đàn ông và một người phụ nữ đang đi ngang qua một bức tường đầy graffiti với hai chiếc ô tô màu bạc đang đậu trên đường,người đàn ông và người phụ nữ đi bằng hai chiếc xe hơi màu nâu
+0,một người đàn ông và một người phụ nữ đang đi ngang qua một bức tường đầy graffiti với hai chiếc ô tô màu bạc đang đậu trên đường,một người đàn ông và một người phụ nữ đang đi dạo trong một khu ổ chuột
+1,một người đàn ông và một người phụ nữ đang đi ngang qua một bức tường đầy graffiti với hai chiếc ô tô màu bạc đang đậu trên đường,một người đàn ông và một người phụ nữ đang đi bộ
+1,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,ông già và phụ nữ trẻ đang đi bộ trên vỉa hè
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,bà già đang đi bộ một mình trên vỉa hè vắng vẻ
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,một cặp trẻ em chạy qua một con phố
+1,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,người đàn ông trẻ và người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè bên cạnh một chiếc ví có vẽ bậy lên đó
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,hai đứa trẻ trốn trong bụi cây
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,mẹ và con trai đi dạo qua một thành phố
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,một người đàn ông và bà già của mình đi bộ qua một khu phố ổ chuột
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,đó là một thác nước đuổi theo một bà già và một người đàn ông trẻ
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,mọi người đang đi dạo qua một biệt thự ở pháp
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,người phụ nữ là bạn thân của người đàn ông trẻ tuổi
+1,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,hai người một già một trẻ đi xuống vỉa hè
+0,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,một người đàn ông và bà của anh ta cùng nhau đi bộ xuống vỉa hè qua một bức tường
+1,một người đàn ông trẻ tuổi và một người phụ nữ lớn tuổi đang đi bộ dọc theo vỉa hè cạnh bức tường có hình vẽ bậy trên đó,đàn ông và phụ nữ đi bộ xuống vỉa hè

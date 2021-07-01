@@ -1,0 +1,1 @@
+{"bpe_path": "/content/vn_sbert_deploy/bpe", "vncorenlp_path": "/content/vncorenlp/VnCoreNLP-1.1.1.jar", "do_lower_case": false}

@@ -1,0 +1,167 @@
+0,không
+1,một
+2,hai
+3,ba
+4,bốn
+5,năm
+6,sáu
+7,bảy
+8,tám
+9,chín
+10,mười
+11,mười một
+12,mười hai
+13,mười ba
+14,mười bốn
+15,mười lăm
+16,mười sáu
+17,mười bảy,mười bẩy
+18,mười tám
+19,mười chín
+20,hai mươi
+21,hai mươi mốt,hai mốt
+22,hai mươi hai,hai hai
+23,hai ba,hai mươi ba
+24,hai tư,hai mươi tư,hai mươi bốn
+25,hai lăm,hai mươi lăm
+26,hai sáu,hai mươi sáu
+27,hai bảy,hai mươi bảy,hai bẩy,hai mươi bẩy
+28,hai tám,hai mươi tám
+29,hai chín,hai mươi chín
+30,ba mươi
+31,ba mốt,ba mươi mốt
+32,ba hai,ba mươi hai
+33,ba ba,ba mươi ba
+34,ba tư,ba mươi tư,ba mươi bốn
+35,ba lăm,ba mươi lăm
+36,ba sáu,ba mươi sáu
+37,ba bảy,ba mươi bảy,ba bẩy,ba mươi bẩy
+38,ba tám,ba mươi tám
+39,ba chín,ba mươi chín
+40,bốn mươi
+41,bốn mươi mốt,bốn mốt
+42,bốn hai,bốn mươi hai
+43,bốn ba,bốn mươi ba
+44,bốn bốn,bốn mươi bốn,bốn tư,bốn mươi ty
+45,bốn lăm,bốn mươi lăm
+46,bốn sáu,bốn mươi sáu
+47,bốn bảy,bốn mươi bảy,bốn bẩy,bốn mươi bẩy
+48,bốn tám,bốn mươi tám
+49,bốn chín,bốn mươi chín
+50,năm mươi
+51,năm mươi mốt,năm mốt
+52,năm hai,năm mươi hai
+53,năm ba,năm mươi ba
+54,năm tư ,năm mươi tư,năm mươi bốn
+55,năm lăm,năm mươi lăm
+56,năm sáu,năm mươi sáu
+57,năm bảy,năm mươi bảy,năm bẩy,năm mươi bẩy
+58,năm tám,năm mươi tám
+59,năm chín,năm mươi chín
+60,sáu mươi
+61,sáu mươi mốt,sáu mốt
+62,sáu hai,sáu mươi hai
+63,sáu ba,sáu mươi ba
+64,sáu tư,sáu mươi tư,sáu mươi bốn
+65,sáu lăm,sáu mươi lăm
+66,sáu sáu,sáu mươi sáu
+67,sáu bảy,sáu mươi bảy,sáu mươi bẩy,sáu bẩy
+68,sáu tám,sáu mươi tám
+69,sáu chín ,sáu mươi chín
+70,bảy mươi,bẩy mươi
+71,bảy mươi mốt,bẩy mươi mốt,bảy mốt,bẩy mốy
+72,bảy hai,bảy mươi hai,bẩy hai,bẩy mươi hay
+73,bảy ba,bảy mươi ba,bẩy ba ,bẩy mươi by
+74,bảy tư,bảy mươi tư,bẩy mươi tư,bẩy tư,bảy mươi bốn,bẩy mươi bốn,bẩy bốn
+75,bảy lăm,bẩy mươi lăm,bảy mươi lăm,bẩy lăy
+76,bẩy sáu,bảy sáu,bẩy mươi sáu,bảy mươi sáy
+77,bảy bảy,bảy mươi bảy,bẩy bẩy,bẩy mươi bẩy
+78,bảy mươi tám,bảy tám,bẩy mươi tám,bẩy táy
+79,bảy chín,bảy mươi chín,bẩy mươi chín,bẩy chíy
+80,tám mươi
+81,tám mốt,tám mươi mốt
+82,tám hai,tám mươi hai
+83,tám ba ,tám mươi ba
+84,tám tư ,tám mươi tư,tám mươi bốn
+85,tám lăm,tám mươi lắm
+86,tám sáu,tám mươi sáu
+87,tám bảy,tám mươi bảy,tám mươi bẩy,tám bẩy
+88,tám tám,tám mươi tám
+89,tám mươi chín,tám chín
+90,chín mươi
+91,chín mốt,chín mươi mốt
+92,chín hai ,chín mươi hai
+93,chín ba,chín mươi ba
+94,chín tư,chín mươi tư,chín mươi bốn
+95,chín lăm,chín mươi lăm
+96,chín sáu,chín mươi sáu
+97,chín bảy ,chín mươi bảy,chín bẩy,chín mươi bẩy
+98,chín tám,chín mươi tám
+99,chín chín,chín mươi chín
+100,một trăm
+ai,người nào
+ai,đối tượng nào
+b,bê
+bao nhiêu,mấy
+bị mất an toàn,không đảm bảo an toàn
+c,xê
+chạy,phóng,di chuyển
+cho biết,cho tôi biết,giải thích,giải thích cho tôi
+d,dê,dờ
+đ,đê,đờ
+định nghĩa,khái niệm
+đối tượng nào,ai
+đường giao nhau,giao lộ
+đường qua khu dân cư,đường dân sinh
+đường tỉnh,tỉnh lộ
+g,gờ
+giải thích,giải thích cho tôi
+giao thông đường bộ ,giao thông
+h,hát
+hàng nguy hiểm,hàng gây nguy hiểm
+k,ca
+kg,ki lô gam
+khái niệm,định nghĩa
+khổ giới hạn,khung giới hạn
+khối lượng,trọng lượng,cân nặng
+kĩ thuật,kỹ thuật
+km,ki lô mét
+km/h,ki lô mét trên giờ
+l,lờ
+lí,lý
+lĩnh vực giao thông đường bộ,giao thông đường bộ
+lý,lí
+m,mờ
+máy kéo,xe kéo
+n,nờ
+người điều khiển phương tiện,người điều khiển phương tiện giao thông,người điều khiển xe,người lái xe
+người lái xe,người điều khiển xe
+nội địa,trong nước
+nước ngoài,ngoại quốc
+p,pê
+phạm vi đất,khu vực đất
+phần đường xe chạy,làn đường xe chạy
+phương tiện giao thông cơ giới,xe cơ giới
+phương tiện giao thông thô sơ,xe thô sơ
+q,qui,quy
+qui định,quy định
+quy hoạch,qui hoạch
+quy hoạch,qui hoạch
+quy tắc,quy định,qui tắc,qui định
+r,rờ
+s,ét
+t,tê
+thông minh,hiện đại
+tỉ,tỷ
+tỷ,tỉ
+ùn tắc,ách tắc,tắc nghẽn
+v,vê
+vận tải,vận chuyển
+w,vê kép
+x,ích
+xe đểu,xe kém chất lượng,xe không đảm bảo an toàn
+xe máy,xe gắn máy,xe mô tô
+xe ô tô chở hàng,xe chở hàng,xe hàng
+xe ô tô khách,xe khách,xe chở khách
+xe ô tô khách thành phố,xe khách thành phố
+xử phạt hành chính,xử phạt

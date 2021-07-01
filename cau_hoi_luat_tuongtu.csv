@@ -1,0 +1,967 @@
+similarity,sentence1,sentence2
+1,Khái niệm đường bộ được hiểu như thế nào là đúng,hãy cho biết khái niệm đường bộ 
+1,Khái niệm đường bộ được hiểu như thế nào là đúng,giải thích khái niệm đường bộ như thế nào là đúng
+0,Khái niệm đường bộ được hiểu như thế nào là đúng,xe máy có thuộc loại phương tiện đường bộ không
+0,Khái niệm đường bộ được hiểu như thế nào là đúng,xe đạp có phải loại phương tiện đường sắt không
+1,Khái niệm Công trình đường bộ được hiểu như thế nào là đúng,hãy giải thích khái niệm Công trình đường bộ
+1,Khái niệm Công trình đường bộ được hiểu như thế nào là đúng,Khái niệm Công trình đường bộ được hiểu như thế nào
+0,Khái niệm Công trình đường bộ được hiểu như thế nào là đúng,tại sao không được lấn chiếm lòng đường
+0,Khái niệm Công trình đường bộ được hiểu như thế nào là đúng,lấn chiếm lòng đường bị phạt bao nhiêu
+1,Khái niệm Phần đường xe chạy được hiểu như thế nào là đúng,hãy giải thích khái niệm Phần đường xe chạy
+1,Khái niệm Phần đường xe chạy được hiểu như thế nào là đúng,Khái niệm Phần đường xe chạy được hiểu như thế nào
+0,Khái niệm Phần đường xe chạy được hiểu như thế nào là đúng,sử dụng xe quá cũ thì bị phạt bao nhiêu
+0,Khái niệm Phần đường xe chạy được hiểu như thế nào là đúng,ô tô quá giấy phép lưu hành bị xử phạt như thế nào
+1,Khái niệm Làn đường được hiểu như thế nào là đúng,Khái niệm Làn đường được hiểu như thế nào
+1,Khái niệm Làn đường được hiểu như thế nào là đúng,hãy giải thích khái niệm Làn đường
+0,Khái niệm Làn đường được hiểu như thế nào là đúng,trẻ em dưới 16 tuổi đi xe máy thì bị phạt như thế nào
+0,Khái niệm Làn đường được hiểu như thế nào là đúng,độ tuổi bao nhiêu thì được phép sử dụng xe máy
+1,Khái niệm Khổ giới hạn của đường bộ được hiểu như thế nào là đúng,hãy giải thích khái niệm Khổ giới hạn của đường bộ
+1,Khái niệm Khổ giới hạn của đường bộ được hiểu như thế nào là đúng,Khái niệm Khổ giới hạn của đường bộ được hiểu như thế nào
+0,Khái niệm Khổ giới hạn của đường bộ được hiểu như thế nào là đúng,giờ hành chính được quy định như thế nào
+0,Khái niệm Khổ giới hạn của đường bộ được hiểu như thế nào là đúng,sử dụng giờ hành chính vào việc trái pháp luật thì phạt bao nhiêu 
+1,Khái niệm Dải phân cách được hiểu như thế nào là đúng,Khái niệm Dải phân cách được hiểu như thế nào
+1,Khái niệm Dải phân cách được hiểu như thế nào là đúng,hãy cho biết nội dung khái niệm Dải phân cách
+0,Khái niệm Dải phân cách được hiểu như thế nào là đúng,không tuân thủ quy định cộng đồng thì bị xử phạt bao nhiêu
+0,Khái niệm Dải phân cách được hiểu như thế nào là đúng,chống đối người thi hành công vụ bị xử lí như thế nào
+1,Có mấy loại dải phân cách,hãy cho biết có mấy loại dải phân cách
+1,Có mấy loại dải phân cách,Có các loại dải phân cách nào
+0,Có mấy loại dải phân cách,đèn giao thông để làm gì
+0,Có mấy loại dải phân cách,biển báo chỉ đường để làm gì 
+1,Trong Luật giao thông đường bộ khái niệm Đường cao tốc được hiểu như thế nào là đúng,hãy giải thích khái niệm Đường cao tốc trong Luật giao thông đường bộ 
+1,Trong Luật giao thông đường bộ khái niệm Đường cao tốc được hiểu như thế nào là đúng,Trong Luật giao thông đường bộ khái niệm Đường cao tốc 
+0,Trong Luật giao thông đường bộ khái niệm Đường cao tốc được hiểu như thế nào là đúng,biển báo phía trước có công trường đang thi công trông như thế nào 
+0,Trong Luật giao thông đường bộ khái niệm Đường cao tốc được hiểu như thế nào là đúng,vỉa hè để làm gì 
+1, Phương tiện giao thông đường bộ gồm những loại nào,hãy cho biết Phương tiện giao thông đường bộ gồm những loại nào
+1, Phương tiện giao thông đường bộ gồm những loại nào,hãy kể tên các loại Phương tiện giao thông đường bộ 
+0, Phương tiện giao thông đường bộ gồm những loại nào,đi qua vòng xuyến theo hướng nào 
+0, Phương tiện giao thông đường bộ gồm những loại nào,khi nào được phép băng qua đường 
+1, Phương tiện giao thông cơ giới đường bộ gồm những loại nào,hãy cho biết Phương tiện giao thông cơ giới đường bộ gồm những loại nào
+1, Phương tiện giao thông cơ giới đường bộ gồm những loại nào,hãy kể tên các loại Phương tiện giao thông cơ giới đường bộ 
+0, Phương tiện giao thông cơ giới đường bộ gồm những loại nào,phương tiện giao thông đường sắt gồm những loại nào 
+0, Phương tiện giao thông cơ giới đường bộ gồm những loại nào,luật giao thông đường thuỷ quy định như thế nào 
+1, Phương tiện giao thông thô sơ đường bộ gồm những loại nào,hãy cho biết Phương tiện giao thông thô sơ đường bộ gồm những loại nào
+1, Phương tiện giao thông thô sơ đường bộ gồm những loại nào,hãy kể tên các loại Phương tiện giao thông thô sơ đường bộ 
+0, Phương tiện giao thông thô sơ đường bộ gồm những loại nào,đi bộ ở làn đường nào là đúng 
+0, Phương tiện giao thông thô sơ đường bộ gồm những loại nào,đi xe trên vỉa hè là đúng hay sai 
+1, Phương tiện tham gia giao thông đường bộ gồm những loại nào,hãy tìm hiểu Phương tiện tham gia giao thông đường bộ gồm những loại nào
+1, Phương tiện tham gia giao thông đường bộ gồm những loại nào,hãy kể tên các loại Phương tiện tham gia giao thông đường bộ 
+0, Phương tiện tham gia giao thông đường bộ gồm những loại nào,đi xe máy ở làn đường nào là đúng 
+0, Phương tiện tham gia giao thông đường bộ gồm những loại nào,có được đi xe máy ở làn đường của ô tô không 
+1, Người tham gia giao thông đường bộ gồm những thành phần nào,hãy cho biết Người tham gia giao thông đường bộ gồm những thành phần nào
+1, Người tham gia giao thông đường bộ gồm những thành phần nào,hãy kể tên các thành phần Người tham gia giao thông đường bộ 
+0, Người tham gia giao thông đường bộ gồm những thành phần nào,gây tai nạn thì phải làm gì 
+0, Người tham gia giao thông đường bộ gồm những thành phần nào,bỏ trốn khi gây tai nạn thì bị phạt bao nhiêu 
+1, Người điều khiển phương tiện tham gia giao thông gồm những thành phần nào,hãy tìm hiểu Người điều khiển phương tiện tham gia giao thông gồm những thành phần nào
+1, Người điều khiển phương tiện tham gia giao thông gồm những thành phần nào,hãy kể tên những thành phần Người điều khiển phương tiện tham gia giao thông 
+0, Người điều khiển phương tiện tham gia giao thông gồm những thành phần nào,đi xe đạp có cần thiết phải đội mũ bảo hiểm không
+0, Người điều khiển phương tiện tham gia giao thông gồm những thành phần nào,đi xe đạp không đội mũ bảo hiểm thì có bị phạt không 
+1, Người điều khiển giao thông gồm những thành phần nào,hãy cho biết Người điều khiển giao thông gồm những thành phần nào
+1, Người điều khiển giao thông gồm những thành phần nào,hãy kể tên những thành phần Người điều khiển giao thông 
+0, Người điều khiển giao thông gồm những thành phần nào,đi bộ có phải đang tham gia giao thông không 
+0, Người điều khiển giao thông gồm những thành phần nào,đi bộ có phải điều khiển giao thông không 
+1,Người tham gia giao thông phải làm gì để đảm bảo an toàn giao thông đường bộ,hãy cho biết người tham gia giao thông phải làm gì để đảm bảo an toàn giao thông đường bộ
+1,Người tham gia giao thông phải làm gì để đảm bảo an toàn giao thông đường bộ,hãy kể tên những việc người tham gia giao thông phải làm để đảm bảo an toàn giao thông đường bộ
+0,Người tham gia giao thông phải làm gì để đảm bảo an toàn giao thông đường bộ,đua xe trên đường giao thông bị phạt bao nhiêu 
+0,Người tham gia giao thông phải làm gì để đảm bảo an toàn giao thông đường bộ,khi nào cơ quan quản lý giao thông được phép thu giữ phương tiện giao thông 
+1,Bảo đảm an toàn giao thông đường bộ là trách nhiệm của ai,hãy cho biết bảo đảm an toàn giao thông đường bộ là trách nhiệm của ai
+1,Bảo đảm an toàn giao thông đường bộ là trách nhiệm của ai,Bảo đảm an toàn giao thông đường bộ có phải là trách nhiệm của toàn dân không 
+0,Bảo đảm an toàn giao thông đường bộ là trách nhiệm của ai,nộp phí phạt khi vi phạm luật giao thông như thế nào 
+0,Bảo đảm an toàn giao thông đường bộ là trách nhiệm của ai,tiền phạt do vi phạm luật giao thông do ai thu giữ 
+1,Mọi hành vi vi phạm Luật giao thông đường bộ được xử lý như thế nào,hãy cho biết mọi hành vi vi phạm Luật giao thông đường bộ được xử lý như thế nào
+1,Mọi hành vi vi phạm Luật giao thông đường bộ được xử lý như thế nào,Mọi hành vi vi phạm Luật giao thông đường bộ được xử lý theo cán bộ cảnh sát giao thông là đúng hay sai 
+0,Mọi hành vi vi phạm Luật giao thông đường bộ được xử lý như thế nào,vượt đèn đỏ sẽ gây ra những hậu quả gì 
+0,Mọi hành vi vi phạm Luật giao thông đường bộ được xử lý như thế nào,đèn vàng có chức năng gì 
+1,Người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,hãy cho biết người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm
+1,Người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,hãy tìm hiểu người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị phạt theo quy định 
+0,Người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,đèn cao áp quy định độ cao như thế nào 
+0,Người lái xe đang điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,tại sao không được mở cửa thoát hiểm mấy bay khi không cần thiết 
+1,Người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,hãy tìm hiểu người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm
+1,Người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,Người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá quy định cho phép thì xử lý thế nào 
+0,Người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,không uống rượu có nồng độ cao thì có được lái xe không 
+0,Người lái xe đang điều khiển xe trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị nghiêm cấm,hỏng xe trên đường cao tốc thì phải làm thế nào 
+1,Người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông,hãy cho biết người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông
+1,Người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông,Người tham gia giao thông đi đúng làn đường dành cho phương tiện mình đang sử dụng có đúng quy tắc giao thông không
+0,Người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông,đi qua đường biên giới như thế nào 
+0,Người tham gia giao thông phải đi như thế nào là đúng quy tắc giao thông,Quy tắc giao thông quy định như thế nào 
+1,Biển báo hiệu đường bộ gồm những nhóm nào ý nghĩa của từng nhóm,hãy cho biết biển báo hiệu đường bộ gồm những nhóm nào ý nghĩa của từng nhóm
+1,Biển báo hiệu đường bộ gồm những nhóm nào ý nghĩa của từng nhóm,hãy liệt kê những nhóm biển báo hiệu đường ý nghĩa của từng nhóm là gì 
+0,Biển báo hiệu đường bộ gồm những nhóm nào ý nghĩa của từng nhóm,xả rác bừa bãi ra đường bị phạt bao nhiêu 
+0,Biển báo hiệu đường bộ gồm những nhóm nào ý nghĩa của từng nhóm,vì sao không được tự ý cản trở giao thông 
+1,Người lái xe phải làm gì khi điều kiển xe vào đường cao tốc,hãy cho biết người lái xe phải làm gì khi điều kiển xe vào đường cao tốc
+1,Người lái xe phải làm gì khi điều kiển xe vào đường cao tốc,người lái xe phải điều kiển xe vào đường cao tốc như thế nào 
+0,Người lái xe phải làm gì khi điều kiển xe vào đường cao tốc,những loại xe nào được di chuyển trên đường cao tốc 
+0,Người lái xe phải làm gì khi điều kiển xe vào đường cao tốc,xe đạp có được đi trên đường cao tốc không 
+1,Người lái xe phải làm gì khi điều kiển xe ra khỏi đường cao tốc,hãy cho biết người lái xe phải làm gì khi điều kiển xe ra khỏi đường cao tốc
+1,Người lái xe phải làm gì khi điều kiển xe ra khỏi đường cao tốc,người lái xe phải điều kiển xe ra khỏi đường cao tốc như thế nào 
+0,Người lái xe phải làm gì khi điều kiển xe ra khỏi đường cao tốc,đi đường cao tốc có nhanh hơn đi đường quốc lộ không 
+0,Người lái xe phải làm gì khi điều kiển xe ra khỏi đường cao tốc,đi bằng đường nào là nhanh nhất 
+1,Khi điều khiển xe trên đường cao tốc những việc làm nào không cho phép,hãy cho biết khi điều khiển xe trên đường cao tốc những việc làm nào không cho phép
+1,Khi điều khiển xe trên đường cao tốc những việc làm nào không cho phép,Khi điều khiển xe trên đường cao tốc những việc làm không cho phép là những việc gì 
+0,Khi điều khiển xe trên đường cao tốc những việc làm nào không cho phép,đi quá sát xe đầu kéo thì xảy ra chuyện gì 
+0,Khi điều khiển xe trên đường cao tốc những việc làm nào không cho phép,rẽ không xi nhan thì sao 
+1,Người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ phải tuân thủ những điểm gì là đúng quy tắc giao thông,hãy cho biết người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ phải tuân thủ những điểm gì là đúng quy tắc giao thông
+1,Người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ phải tuân thủ những điểm gì là đúng quy tắc giao thông,hãy kể rõ những điểm đúng quy tắc giao thông cho người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ
+0,Người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ phải tuân thủ những điểm gì là đúng quy tắc giao thông,cầu vượt dành cho những loại phương tiện giao thông nào
+0,Người điều khiển phưong tiện tham gia giao thông trong hầm đường bộ phải tuân thủ những điểm gì là đúng quy tắc giao thông,ô tô có được đi trên cầu vượt không 
+1,Trường hợp xe kéo xe và kéo rơmoóc những hành vi nào bị cấm,hãy cho biết trường hợp xe kéo xe và kéo rơmoóc những hành vi nào bị cấm
+1,Trường hợp xe kéo xe và kéo rơmoóc những hành vi nào bị cấm,Trường hợp xe kéo xe hay kéo rơmoóc bị cấm
+0,Trường hợp xe kéo xe và kéo rơmoóc những hành vi nào bị cấm,luật giao thông có chứa luật cấm đi xe máy quá cũ không 
+0,Trường hợp xe kéo xe và kéo rơmoóc những hành vi nào bị cấm,dùng còi ô tô lắp vào còi xe máy có vi phạm pháp luật không 
+1,Người tham gia giao thông khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại phải có những nghĩa vụ gì,hãy cho biết người tham gia giao thông khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại phải có những nghĩa vụ gì
+1,Người tham gia giao thông khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại phải có những nghĩa vụ gì,Người tham gia giao thông cần phải làm gì khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại
+0,Người tham gia giao thông khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại phải có những nghĩa vụ gì,tại sao xe buýt không được chở quá số người quy định 
+0,Người tham gia giao thông khi phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm hại phải có những nghĩa vụ gì,xe máy chở 5 người trở lên thì sao 
+1,Các xe tham gia giao thông đường bộ phi bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào trong các điều ghi dưới đây,hãy cho biết các xe tham gia giao thông đường bộ phi bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào trong các điều ghi dưới đây
+1,Các xe tham gia giao thông đường bộ phi bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào trong các điều ghi dưới đây,trong các điều dưới đây các xe tham gia giao thông đường bộ phải bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào 
+0,Các xe tham gia giao thông đường bộ phi bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào trong các điều ghi dưới đây,đi ở đoạn đường tối cần làm gì 
+0,Các xe tham gia giao thông đường bộ phi bảo đảm các tiêu chuẩn chất lượng an toàn kỹ thuật bảo vệ môi trường nào trong các điều ghi dưới đây,nên làm gì để tránh va chạm khi đi trong đường ngõ
+1,Chủ xe và người lái xe bánh xích xe quá khổ quá tải có trách nhiệm gì khi cho xe tham gia giao thông đường bộ,hãy cho biết chủ xe và người lái xe bánh xích xe quá khổ quá tải có trách nhiệm gì khi cho xe tham gia giao thông đường bộ
+1,Chủ xe và người lái xe bánh xích xe quá khổ quá tải có trách nhiệm gì khi cho xe tham gia giao thông đường bộ,nêu trách nhiệm của hủ xe và người lái xe bánh xích xe quá khổ quá tải khi cho xe tham gia giao thông đường bộ
+0,Chủ xe và người lái xe bánh xích xe quá khổ quá tải có trách nhiệm gì khi cho xe tham gia giao thông đường bộ,đường quá nhiều ổ gà có thể gây ra những hậu quả gì 
+0,Chủ xe và người lái xe bánh xích xe quá khổ quá tải có trách nhiệm gì khi cho xe tham gia giao thông đường bộ,chất lượng đường giao thông kém có gây tai nạn không 
+1,những hành vi nào sau đây bị cấm,hãy cho biết những hành vi nào sau đây bị cấm
+1,những hành vi nào sau đây bị cấm,những hành vi sau đây bị cấm có bị cấm không 
+0,những hành vi nào sau đây bị cấm,pháp luật có cấm vận chuyển hàng qua biên giới không 
+0,những hành vi nào sau đây bị cấm,kiện hàng được gửi tới từ nước ngoài được xử lý như thế nào 
+1,các hành vi nào sau đây bị nghiêm cấm,hãy cho biết các hành vi nào sau đây bị nghiêm cấm
+1,các hành vi nào sau đây bị nghiêm cấm,các hành vi sau đây có bị nghiêm cấm hay không 
+0,các hành vi nào sau đây bị nghiêm cấm,vứt rác bừa bãi ra đường có thể gây ra những hậu quả gì 
+0,các hành vi nào sau đây bị nghiêm cấm,khi xảy ra tắc nghẽn giao thông thì phải làm thế nào 
+1,trong hoạt động vận tải đường bộ các hành vi nào sau đây bị nghiêm cấm,trong hoạt động vận tài hành khách những hành vi bị cấm
+1,trong hoạt động vận tải đường bộ các hành vi nào sau đây bị nghiêm cấm,trong hoạt động vận tải đường bộ các hành vi sau đây có bị nghiêm cấm hay không 
+0,trong hoạt động vận tải đường bộ các hành vi nào sau đây bị nghiêm cấm,người tham gia giao thông cần lưu ý gì khi lái xe 
+0,trong hoạt động vận tải đường bộ các hành vi nào sau đây bị nghiêm cấm,tại sao cần đem theo giấy tờ xe khi tham gia giao thông 
+1,trong hoạt động vận tài hành khách những hành vi bị cấm,hãy cho biết trong hoạt động vận tài hành khách những hành vi bị cấm
+1,trong hoạt động vận tài hành khách những hành vi bị cấm,trong hoạt động vận tài hành khách hãy chỉ rõ những hành vi bị cấm là hành vi nào
+0,trong hoạt động vận tài hành khách những hành vi bị cấm,đi bộ ở làn đường nào là đúng 
+0,trong hoạt động vận tài hành khách những hành vi bị cấm,đi xe không phanh có thể gây ra những hậu quả gì 
+1,hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp,hãy cho biết hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp thì bị xử phạt như thế nào 
+1,hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp,hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp có bị truy tố hình sự hay không 
+0,hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp,bộ luật giao thông đường hàng không quy định như thế nào 
+0,hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp,ngồi trên ô tô có phải thắt dây an toàn không 
+1,sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm,hãy cho biết sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm là hành vi nào 
+1,sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm,sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm thuộc điều bao nhiêu và khoản nào 
+0,sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm,vô tình gây tai nạn thì có bị truy tố hình sự không 
+0,sau khi xảy ra tai nạn giao thông những hành vi bị nghiêm cấm,cố ý gây tai nạn thì bị xử phạt như thế nào 
+1,hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép có bị nghiêm cấm không,hãy cho biết hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép có bị nghiêm cấm không
+1,hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép có bị nghiêm cấm không,hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép bị nghiêm cấm như thế nào 
+0,hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép có bị nghiêm cấm không,loại phương tiện nào không được phép sử dụng trên đường giao thông 
+0,hành vi sử dụng lòng đường lè đường trái phép sử dụng hè phố trái phép có bị nghiêm cấm không,điều khiển xe máy không có biển số thì sao 
+1,việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ,hãy cho biết việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ
+1,việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ,việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng có được quy định trong luật giao thông đường bộ không 
+0,việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ,làm biển số xe giả thì bị phạt bao nhiêu 
+0,việc sản xuất mua bán sử dụng biển số xe cơ giới xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ,đăng ký biển số xe như thế nào 
+1,người lái xe không được vượt xe khác khi gặp những trường hợp nào,hãy tìm hiểu người lái xe không được vượt xe khác khi gặp những trường hợp nào
+1,người lái xe không được vượt xe khác khi gặp những trường hợp nào,trong những trường hợp nào thì người lái xe không được vượt xe khác 
+0,người lái xe không được vượt xe khác khi gặp những trường hợp nào,vượt xe khác mà không có tín hiệu báo trước thì có thể xảy ra chuyện gì 
+0,người lái xe không được vượt xe khác khi gặp những trường hợp nào,quy định về tốc độ khi tham gia giao thông như thế nào 
+1,ở những nơi nào không được quay đầu xe,hãy cho biết ở những nơi nào không được quay đầu xe
+1,ở những nơi nào không được quay đầu xe,những nơi không được quay đầu xe được quy định như thế nào 
+0,ở những nơi nào không được quay đầu xe,gửi xe ở đâu là đúng luật 
+0,ở những nơi nào không được quay đầu xe,đỗ xe tại khu vực cấm thì bị phạt bao nhiêu 
+1,ở những nơi nào không được lùi xe,hãy cho biết ở những nơi nào không được lùi xe
+1,ở những nơi nào không được lùi xe,luật pháp quy định những nơi không được lùi xe như thế nào 
+0,ở những nơi nào không được lùi xe,lấn chiếm vỉa hè thì bị phạt bao nhiêu 
+0,ở những nơi nào không được lùi xe,biển số xe màu vàng dành cho những đơn vị nào 
+1,khi điều khiển xe trên đường cao tốc có được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường không,khi điều khiển xe trên đường cao tốc xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường có được chạy không 
+1,khi điều khiển xe trên đường cao tốc có được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường không,hãy cho biết khi điều khiển xe trên đường cao tốc có được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường không
+0,khi điều khiển xe trên đường cao tốc có được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường không,sử dụng vỉa hè như thế nào là đúng 
+0,khi điều khiển xe trên đường cao tốc có được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường quay đầu xe cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo sơn trên mặt đường không,đất vỉa hè thuộc sở hữu của tư nhân hay của nhà nước 
+1,điều khiển phương tiện giao thông trên đường phố có được dừng xe đỗ xe trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không,hãy cho biết điều khiển phương tiện giao thông trên đường phố có được dừng xe đỗ xe trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không
+1,điều khiển phương tiện giao thông trên đường phố có được dừng xe đỗ xe trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không,có được dừng đỗ xe điều khiển khi phương tiện giao thông trên đường phố trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không
+0,điều khiển phương tiện giao thông trên đường phố có được dừng xe đỗ xe trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không,ánh sáng đèn xe được quy định như thế nào 
+0,điều khiển phương tiện giao thông trên đường phố có được dừng xe đỗ xe trên đường xe điện trên miệng cống thoát nước miệng hầm của đường điện thoại điện cao thế chỗ dành riêng cho xe chữa cháy lấy nước không,còi xe được quy định như thế nào 
+1,khi xe kéo xe và xe kéo ro mooc có được phép kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô không,hãy cho biết khi xe kéo xe và xe kéo ro mooc có được phép kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô không
+1,khi xe kéo xe và xe kéo ro mooc có được phép kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô không,khi xe kéo xe và xe kéo ro mooc mà kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô thì là đúng hay sai luật 
+0,khi xe kéo xe và xe kéo ro mooc có được phép kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô không,trong trường hợp nào cảnh sát giao thông được phép thu giữ phương tiện của người vi phạm 
+0,khi xe kéo xe và xe kéo ro mooc có được phép kéo thêm ro mooc hoặc xe khác hoặc chở người trên xe được kéo kéo theo xe thô sơ xe gắn máy xe mô tô không,cảnh sát giao thông có được phép thu tiền phạt của người vi phạm không 
+1,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông không,hãy cho biết người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông không
+1,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông không,trong trường hợp nào người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông 
+0,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông không,loại phương tiện giao thông nào được phép vượt đèn đỏ 
+0,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép sử dụng xe để kéo đẩy các xe khác vật khác khi tham gia giao thông không,được phép vượt đèn đỏ trong những trường hợp nào 
+1,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được sử dụng ô bám kéo hoặc đẩy các phương tiện khác không,hãy cho biết người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được sử dụng ô bám kéo hoặc đẩy các phương tiện khác không
+1,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được sử dụng ô bám kéo hoặc đẩy các phương tiện khác không,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông sử dụng ô bám kéo hoặc đẩy các phương tiện khác có thể gây ra những hậu quả gì 
+0,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được sử dụng ô bám kéo hoặc đẩy các phương tiện khác không,xe xả quá nhiều khí thải là do đâu 
+0,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được sử dụng ô bám kéo hoặc đẩy các phương tiện khác không,điều khiển xe không cẩn thận thì có thể xảy ra chuyện gì 
+1,người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không,hãy cho biết người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không
+1,người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không,người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông mang vác vật cồng kềnh có thể gây ra hậu quả gì 
+0,người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không,gây tai nạn phải bồi thường cho nạn nhân bao nhiêu 
+0,người ngồi trên e mô tô hai bánh xe mô tô ba bánh xe gắn máy khi tham gia giao thông có được mang vác vật cồng kềnh hay không,nạn nhân của tai nạn giao thông sẽ gặp những thiệt hại gì 
+1,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông không,hãy cho biết người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông không
+1,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông không,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông mà đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông thì bị phạt bao nhiêu 
+0,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông không,những hành vi nào là gây mất trật tự giao thông 
+0,người ngồi trên xe mô tô hai bánh xe gắn máy khi tham gia giao thông có được đứng trên yên giá đèo hành hoặc ngồi trên tay lái các hành vi khác gây mất trật tự an toàn giao thông không,tại sao lại xảy ra tắc đường 
+1,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật không,hãy cho biết khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật không
+1,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật không,tại sao khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật 
+0,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật không,khi nào được nhận giấy phép lái xe 
+0,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy việc buông cả hai tay hoặc đi xe một bánh đối với xe hai bánh bằng hai bánh đối với xe ba bánh chạy quá tốc độ quy định là trái quy định pháp luật không,tại sao phải có giấy phép lái xe trước tham gia giao thông 
+1,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy có được sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất và các hành vi gây mất trật tự an toàn giao thông không,hãy cho biết khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy có được sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất và các hành vi gây mất trật tự an toàn giao thông không
+1,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy có được sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất và các hành vi gây mất trật tự an toàn giao thông không,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy mà sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất có phải là các hành vi gây mất trật tự an toàn giao thông không
+0,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy có được sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất và các hành vi gây mất trật tự an toàn giao thông không,xe lăn có được tham gia giao thông không 
+0,khi điều khiển xe mô tô hai bánh xe mô tô ba bánh xe gắn máy có được sử dụng xe để kéo đẩy xe khác và chở vật cồng kềnh để chân chống quẹt xuống đất và các hành vi gây mất trật tự an toàn giao thông không,xe điện 3 bánh có phải là 1 loại phương tiện giao thông không 
+1,việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có được phép hay không,hãy cho biết việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có được phép hay không
+1,việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có được phép hay không,việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có trái pháp luật hay không 
+0,việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có được phép hay không,hút thuốc tại khu vực cấm bị phạt bao nhiêu 
+0,việc họp chợ tụ tập đông người trái phép thả rông súc vật trên đường bộ có được phép hay không,Lái xe không chú ý nhìn đường có thể gây ra hậu quả gì 
+1,bảo đảm trật tự an toàn giao thông đường bộ là trách nhiệm của ai,hãy cho biết bảo đảm trật tự an toàn giao thông đường bộ là trách nhiệm của ai
+1,bảo đảm trật tự an toàn giao thông đường bộ là trách nhiệm của ai,bảo đảm trật tự an toàn giao thông đường bộ có phải là trách nhiệm của toàn dân không 
+0,bảo đảm trật tự an toàn giao thông đường bộ là trách nhiệm của ai,khi nào được phép vượt đèn đỏ. 
+0,bảo đảm trật tự an toàn giao thông đường bộ là trách nhiệm của ai,điều khiển loại xe nào thì không cần đội mũ bảo hiểm 
+1,người tham giai giao thông phải chấp hành những quy tắc nào,hãy chỉ rõ người tham gia giao thông phải chấp hành những quy tắc nào
+1,người tham giai giao thông phải chấp hành những quy tắc nào,những quy tắc mà người tham giai giao thông phải chấp hành là gì 
+0,người tham giai giao thông phải chấp hành những quy tắc nào,tại sao đi ca nô phải mặc áo phao 
+0,người tham giai giao thông phải chấp hành những quy tắc nào,sử dụng còi xe như thế nào là trái pháp luật 
+1,tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện như thế nào,hãy cho biết tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện như thế nào
+1,tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện như thế nào,tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện những quy định gì 
+0,tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện như thế nào,người đi bộ cần làm gì khi đèn tín hiệu xanh 
+0,tại nơi đường giao nhau khi đèn điều khiển giao thông có tín hiệu vàng người điều khiển phương tiện phải thực hiện như thế nào,quy định khi đi đường cao tốc là gì 
+1,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào,hãy cho biết tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào
+1,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông sẽ hiểu như thế nào 
+0,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào,khi rẽ đường mà xe không có xi nhan thì cần làm gì 
+0,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào,tín hiệu nào để người điều khiển phương tiện giao thông biết là phải dừng lại 
+1,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào,hãy cho biết tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào
+1,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào,hãy tìm hiểu tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào thì an toàn 
+0,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào,khi nào cảnh sát giao thông phải can thiệp vào hướng di chuyển của xe cộ
+0,tại nơi đường giao nhau khi người điểu khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham giao giao thông phải đi như thế nào,giao thông bị hỗn loạn thì phải làm gì để giải quyết 
+1,trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào,hãy cho biết trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào
+1,trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào,trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông có được làm theo hiệu lệnh của người đó không 
+0,trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào,Có được phép phóng nhanh khi đường vắng không 
+0,trên đường giao thông khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn giao thông hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào,Lái xe với tốc độ cao trên đoạn đường vắng thì bị phạt bao nhiêu 
+1,tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của biển báo nào,hãy cho biết tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của biển báo nào
+1,tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của biển báo nào,tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông có được chấp hành hiệu lệnh của cả 2 loại biển báo không 
+0,tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của biển báo nào,vận chuyển hàng nhập lậu thì bị phạt bao nhiêu 
+0,tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành hiệu lệnh của biển báo nào,sản xuất hàng giả thì bị xử lí như nào 
+1,trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi như thế nào,hãy cho biết trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi như thế nào
+1,trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi như thế nào,trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi ở làn đường nào là đúng 
+0,trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi như thế nào,xe di chuyển đường dài cần lưu ý điều gì 
+0,trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường người điều khiển phương tiện phải cho xe đi như thế nào,tại sao không được đứng ở gần đường ray khi tàu sắp đến gần 
+1,trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông,hãy cho biết trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông
+1,trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông,quy tắc giao thông quy định đi trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng
+0,trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông,đi sai làn đường quy định thì bị xử phạt bao nhiêu 
+0,trên đường một chiều có vạch kẻ phân làn đường xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông,đi lên dải phân cách có phải là sai làn đường không 
+1,trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào,hãy cho biết trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào
+1,trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào,trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông đi như thế nào là đúng 
+0,trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào,thả tay khi điều khiển phương tiện giao thông có thể gây ra những hậu quả gì 
+0,trên làn đường có nhiều làn đường người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào,cột mốc để làm gì 
+1,khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế người lái xe muốn vượt xe khác thì phải xử lý như thế nào,hãy cho biết khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế người lái xe muốn vượt xe khác thì phải xử lý như thế nào
+1,khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế người lái xe muốn vượt xe khác thì phải xử lý như thế nào,người lái xe muốn vượt xe khác khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế thì phải xử lý như thế nào
+0,khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế người lái xe muốn vượt xe khác thì phải xử lý như thế nào,công trường đang thi công trên lòng đường cần lưu ý những gì 
+0,khi điều khiển xe chạy trên đoạn đường vòng đầu dốc và các vị trí có tầm nhìn hạn chế người lái xe muốn vượt xe khác thì phải xử lý như thế nào,lái xe không tuân thủ các quy định về an toàn giao thông thì bị phạt bao nhiêu 
+1,khi vượt xe khác người lái xe phải thực hiện như thế nào,hãy cho biết khi vượt xe khác người lái xe phải thực hiện như thế nào
+1,khi vượt xe khác người lái xe phải thực hiện như thế nào,khi muốn vượt xe khác người lái xe phải thực hiện những tín hiệu gì để báo hiệu 
+0,khi vượt xe khác người lái xe phải thực hiện như thế nào,xảy ra tai nạn giao thông ở khu vực đang thi công là do đâu
+0,khi vượt xe khác người lái xe phải thực hiện như thế nào,tại sao phải ra tín hiệu chỉ dẫn lối đi cho người tham gia giao thông 
+1,khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điề kiện an toàn người lái xe phải làm gì,hãy cho biết khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điề kiện an toàn người lái xe phải làm gì
+1,khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điề kiện an toàn người lái xe phải làm gì,khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điều kiện an toàn người lái xe phải thực hiện những tín hiệu gì
+0,khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điề kiện an toàn người lái xe phải làm gì,tại sao phải đặt đèn giao thông tại các nhã tư 
+0,khi điều khiển xe chạy trên đường biết có xe sau xin vượt nếu đủ điề kiện an toàn người lái xe phải làm gì,rải đinh ra đường có vi phạm pháp luật không 
+1,xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào,khi nào xe sau có thể vượt lên bên phải xe khác đang chạy phía trước
+1,xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào,hãy cho biết xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào
+0,xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào,trường hợp nào người gây tai nạn không bị truy tố hình sự 
+0,xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào,cần phải có điều kiện gì thì được di chuyển trên đường cao tốc 
+1,trong khu dân cư nơi nào cho phép người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe,hãy cho biết trong khu dân cư nơi nào cho phép người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe
+1,trong khu dân cư nơi nào cho phép người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe,trong khu dân cư người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe tại khu vực nào 
+0,trong khu dân cư nơi nào cho phép người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe,xe bị chết máy trên đoạn đường dốc thì phải làm sao 
+0,trong khu dân cư nơi nào cho phép người lái xe người điều khiển xe máy chuyên dùng được quay đầu xe,cơ quan trợ giúp giao thông để làm gì 
+1,người lái xe phải làm gì khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt,hãy cho biết người lái xe phải làm gì khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt
+1,người lái xe phải làm gì khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt,người lái xe khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt thì phải làm gì 
+0,người lái xe phải làm gì khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt,vượt xe như thế nào để giữ an toàn 
+0,người lái xe phải làm gì khi quay đầu xe trên cầu gầm cầu vượt đường ngầm hay khu vực đường bộ giao nhau cùng mức với đường sắt,tại sao phải xi nhan để xin đường 
+1,khi muốn chuyển hướng người lái xe phải thực hiện như thế nào,hãy cho biết khi muốn chuyển hướng người lái xe phải thực hiện như thế nào
+1,khi muốn chuyển hướng người lái xe phải thực hiện như thế nào,khi muốn chuyển hướng người lái xe phải làm gì
+0,khi muốn chuyển hướng người lái xe phải thực hiện như thế nào,trạm chờ xe buýt quy định thời gian như thế nào
+0,khi muốn chuyển hướng người lái xe phải thực hiện như thế nào,xe như thế nào là đạt tiêu chuẩn tham gia giao thông an toàn 
+1,khi lùi người lái xe phải làm gì để đảm bảo an toàn,hãy cho biết khi lùi người lái xe phải làm gì để đảm bảo an toàn
+1,khi lùi người lái xe phải làm gì để đảm bảo an toàn,khi lùi người lái xe phải đảm bảo an toàn như thế nào 
+0,khi lùi người lái xe phải làm gì để đảm bảo an toàn,đường trơn thì phải làm thế nào 
+0,khi lùi người lái xe phải làm gì để đảm bảo an toàn,đường quá trơn có gây tai nạn không 
+1,khi tránh xe đi ngược chiều các xe phải nhường đường như thế nào là đúng,hãy cho biết khi tránh xe đi ngược chiều các xe phải nhường đường như thế nào là đúng
+1,khi tránh xe đi ngược chiều các xe phải nhường đường như thế nào là đúng,khi tránh xe đi ngược chiều các xe phải làm gì nhường đường đúng
+0,khi tránh xe đi ngược chiều các xe phải nhường đường như thế nào là đúng,đi xe đạp xin đường như thế nào 
+0,khi tránh xe đi ngược chiều các xe phải nhường đường như thế nào là đúng,cái gì làm đường trơn
+1,ban đêm xe cơ giới đi ngược chiều gặp nhau đèn chiếu sáng phải được sử dụng như thế nào,hãy cho biết ban đêm xe cơ giới đi ngược chiều gặp nhau đèn chiếu sáng phải được sử dụng như thế nào
+1,ban đêm xe cơ giới đi ngược chiều gặp nhau đèn chiếu sáng phải được sử dụng như thế nào,ban đêm xe cơ giới đi ngược chiều gặp nhau người lái xe phải sử dụng đèn chiếu sáng như thế nào 
+0,ban đêm xe cơ giới đi ngược chiều gặp nhau đèn chiếu sáng phải được sử dụng như thế nào,xe cấp cứu có được phép chạy quá tốc độ không 
+0,ban đêm xe cơ giới đi ngược chiều gặp nhau đèn chiếu sáng phải được sử dụng như thế nào,quy định về việc đua xe có nội dung như thế nào 
+1,trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau như thế nào,hãy cho biết trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau như thế nào
+1,trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau như thế nào,trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau bằng cách nào để không gây tai nạn 
+0,trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau như thế nào,có được vượt xe bên phải không 
+0,trên đường không phân chia thành hai chiều xe chạy riêng biệt hai xe đi ngược chiều tránh nhau như thế nào,vượt xe bên phải hay trái là đúng 
+1,bên trái đường một chiều người lái xe có được dừng đỗ xe hay không,hãy cho biết bên trái đường một chiều người lái xe có được dừng đỗ xe hay không
+1,bên trái đường một chiều người lái xe có được dừng đỗ xe hay không,bên trái đường một chiều người lái xe dừng đỗ xe là đúng hay sai 
+0,bên trái đường một chiều người lái xe có được dừng đỗ xe hay không,trang phục của cảnh sát giao thông như thế nào 
+0,bên trái đường một chiều người lái xe có được dừng đỗ xe hay không,cảnh sát giao thông có được mặc thường phục khi đang làm nhiệm vụ không 
+1,người lái xe được dừng xe đỗ xe trong những trường hợp nào,hãy cho biết người lái xe được dừng xe đỗ xe trong những trường hợp nào
+1,người lái xe được dừng xe đỗ xe trong những trường hợp nào,khi nào người lái xe được dừng xe đỗ xe 
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,có phải mọi lề đường đều được phép đỗ xe không 
+0,người lái xe được dừng xe đỗ xe trong những trường hợp nào,trong trường hợp nào cảnh sát giao thông được phép mặc thường phục khi đang làm nhiệm vụ 
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,hãy cho biết người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào
+1,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện những quy tắc gì
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,vận chuyển người vượt biên trái phép thì bị xử phạt như thế nào 
+0,người điều khiển phương tiện khi muốn dừng hoặc đỗ xe trên đường bộ phải thực hiện như thế nào,che giấu người vượt biên trái phép thì bị phạt bao nhiêu 
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,hãy cho biết khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào
+1,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,khi dừng xe đỗ xe tại nơi được phép trên đường phố có những quy định gì dành cho người điều khiển phương tiện 
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,vừa lái xe vừa nghe điện thoại là đúng hay sai 
+0,khi dừng xe đỗ xe tại nơi được phép trên đường phố người điều khiển phương tiện phải tuân theo những quy định nào,sử dụng điện thoại trong lúc đang lái xe có vi phạm luật giao thông đường bộ không 
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,hãy cho biết khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+1,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,vừa lái xe vừa đeo tai nghe nhạc có nguy hiểm không 
+0,khi xếp hàng hoá phía trước và phía sau của xe ô tô chở hàng tham gia giao thông ban ngày và ban đêm phải có cờ đèn báo hiệu như thế nào là đúng quy tắc giao thông,còi xe quá to gây ảnh hưởng gì đến an toàn giao thông 
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,hãy cho biết xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào
+1,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,khi nào xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,vận chuyển người trái phép là như thế nào
+0,xe vận tải có thùng cố định bảo đảm an toàn giao thông được phép chở người trong những trường hợp nào,xe buýt hoạt động vào những khung giờ nào trong ngày
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,hãy cho biết những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông
+1,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,những loại xe khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông là những loại nào
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,tại sao xe mang biển số màu xanh và đỏ được phép vượt đèn đỏ 
+0,những loại xe nào khi đi làm nhiệm vụ khẩn cấp có tín hiệu còi cờ đèn theo quy định không bị hạn chế tốc độ có thể đi vào đường ngược chiều các đường khác có thể đi được và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông,tại sao xe mang biển số màu trắng lại không được phép vượt đèn đỏ 
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,hãy trình bày khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì
+1,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,khi có tín hiệu của xe ưu tiên hành động nào người tham gia giao thông phải làm
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,ngồi trên xe buýt cần lưu ý những gì 
+0,khi có tín hiệu của xe ưu tiên người tham gia giao phải làm gì,quy định số lượng người ngồi trên xe buýt như thế nào 
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,hãy cho biết thứ tự xe được ưu tiên đi trước khi qua đường giao nhau như thế nào 
+1,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau được quy định như thế nào 
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,tại sao phải phạt nặng những hành vi cản trở giao thông 
+0,thứ tự xe được ưu tiên đi trước khi qua đường giao nhau,tội chống đối người thi hành công vụ là nặng hay nhẹ 
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,hãy cho biết khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn
+1,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,khi qua nhà qua cầu phao người lái xe cần lưu ý những điều gì để bảo đảm an toàn
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,trọng tải xe vận chuyển được quy định như thế nào 
+0,khi qua nhà qua cầu phao người lái xe phải làm gì để bảo đảm an toàn,xe chở quá khối lượng hàng hoá cho phép sẽ gây ra những hậu quả gì 
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,hãy cho biết tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào
+1,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến khi nào người điều khiển phương tiện phải nhường đường 
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,khi lái xe xuống dốc cần lưu ý những gì 
+0,tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào,quy định đường một chiều như thế nào 
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,hãy cho biết tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào
+1,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,tại nơi đường giao nhau khi nào người lái xe đang đi trên đường không ưu tiên phải nhường đường 
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,cần làm gì để giải quyết vấn đề tắc nghẽn giao thông 
+0,tại nơi đường giao nhau người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào,ổ gà trên mặt đường là do đâu
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,hãy cho biết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông
+1,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến việc nhường đường được người điều khiển phương tiện thực hiện như thế nào là đúng quy tắc giao thông
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,ô tô phóng quá nhanh trên đường gây ra những hậu quả gì 
+0,tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông,biển số xe thuộc các khu vực khác nhau thì có thể giống nhau không 
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,hãy cho biết trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước
+1,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện được quyền ưu tiên đi trước phải thoả mãn những điều kiện gì 
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,tại sao biển số xe của các tỉnh phải khác nhau 
+0,trên đoạn đường giao nhau cùng mức với đường sắt cầu đường bộ đi chung với đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước,xe máy có được phép đi lên đường ray không 
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,hãy cho biết tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+1,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,tìm hiểu nội dung vấn đề tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,có bao nhiêu ga tàu trên cả nước 
+0,tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu người tham gia giao thông phải dừng lại ngay và giữ khoảng cách tối thiểu bao nhiêu mét tính từ ray gần nhất,cảng hàng không nào của nước ta là cảng hàng không quốc tế 
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,hãy cho biết người lái xe phải làm gì khi đều khiển xe vào đường cao tốc
+1,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,những việc người lái xe phải làm khi đều khiển xe vào đường cao tốc là gì 
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,tại sao không được ném gạch đá xuống đường cao tốc 
+0,người lái xe phải làm gì khi đều khiển xe vào đường cao tốc,khi trời mưa to cần lưu ý gì khi lái xe 
+1,người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc,hãy cho biết người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc
+1,người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc,những việc người lái xe phải làm khi điều khiển xe ra khỏi đường cao tốc là gì 
+0,người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc,khi xuống đường cao tốc cần đi theo chỉ dẫn nào
+0,người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc,không biết đường xuống từ đường cao tốc thì phải làm thế nào 
+1,trên đường cao tốc người lái xe phải dừng xe đỗ xe như thế nào,hãy cho biết trên đường cao tốc người lái xe phải dừng xe đỗ xe như thế nào
+1,trên đường cao tốc người lái xe phải dừng xe đỗ xe như thế nào,trên đường cao tốc người lái xe phải dừng xe đỗ xe theo quy định nào
+0,trên đường cao tốc người lái xe phải dừng xe đỗ xe như thế nào,cần làm gì để giảm thiểu tai nạn giao thông 
+0,trên đường cao tốc người lái xe phải dừng xe đỗ xe như thế nào,đi đến đoạn đường đang thi công cần tuân theo những quy định nào 
+1,người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h có được đi vào đường cao tốc không,hãy cho biết người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h có được đi vào đường cao tốc không
+1,người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h có được đi vào đường cao tốc không,đường cao tốc có cho phép người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h đi vào không
+0,người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h có được đi vào đường cao tốc không,khi nào được phép đi trái đường 
+0,người đi bộ xe thô sơ xe gắn má xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70km/h có được đi vào đường cao tốc không,phanh gấp có thể gây ra những hậu quả gì 
+1,người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào,hãy cho biết người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào
+1,người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào,người điều khiển phương tiện tham gia giao thông trong hầm đường bộ phải thực hiện những quy tắc nào ngoài việc phải tuân thủ các quy tắc giao thông 
+0,người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào,tại sao không có bằng lái xe thì không được điều khiển phương tiện giao thông 
+0,người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào,xe tăng có được đi trên đường không 
+1,xe quá tải trọng quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào,hãy cho biết xe quá tải trọng quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào
+1,xe quá tải trọng quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào,những quy định nào dành cho xe quá tải trọng quá khổ giới hạn tham gia giao thông 
+0,xe quá tải trọng quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào,ô tô có được đi trên đường băng không 
+0,xe quá tải trọng quá khổ giới hạn tham gia giao thông cần tuân thủ quy định nào,tại sao để thú nuôi tự do chạy ra đường 
+1,việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào,hãy cho biết việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào
+1,việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào,có những cách nào giải quyết việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực 
+0,việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào,tại sao không được đá banh dưới lòng đường 
+0,việc nối kéo với xe được kéo trong trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì phải dùng cách nào,lấn chiếm lề đường là vi phạm quy định gì 
+1,xe kéo rơ rooc khi tham gia giao thông phải tuân thủ những điều kiện nào,hãy cho biết xe kéo rơ rooc khi tham gia giao thông phải tuân thủ những điều kiện nào
+1,xe kéo rơ rooc khi tham gia giao thông phải tuân thủ những điều kiện nào,có những điều kiện nào xe kéo rơ rooc khi tham gia giao thông phải tuân thủ 
+0,xe kéo rơ rooc khi tham gia giao thông phải tuân thủ những điều kiện nào,tại sao phải kiểm tra nồng độ cồn của người tham gia giao thông 
+0,xe kéo rơ rooc khi tham gia giao thông phải tuân thủ những điều kiện nào,uống rượu nhưng phải lái xe thì làm thế nào 
+1,xe ô tô kéo xe khác như thế nào là đúng quy tắc giao thông,hãy cho biết xe ô tô kéo xe khác như thế nào là đúng quy tắc giao thông
+1,xe ô tô kéo xe khác như thế nào là đúng quy tắc giao thông,việc xe ô tô kéo xe khác được quy định với những nội dung gì
+0,xe ô tô kéo xe khác như thế nào là đúng quy tắc giao thông,người có thị lực kém lái xe có nguy hiểm không 
+0,xe ô tô kéo xe khác như thế nào là đúng quy tắc giao thông,người khuyết tật tham gia giao thông như thế nào 
+1,người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách khi nào,những lúc nào người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách 
+1,người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách khi nào,hãy cho biết người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách khi nào
+0,người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách khi nào,đội mũ bảo hiểm như thế nào là đúng 
+0,người ngồi trên xe mô tô 2 bánh xe mô tô 3 bánh xe gắn máy phải đội mũ bảo hiểm caid quai đúng quy cách khi nào,mũ bảo hiểm kém chất lượng có được phép sử dụng không 
+1,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người trong những trường hợp nào,hãy cho biết người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người trong những trường hợp nào
+1,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người trong những trường hợp nào,khi nào người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người 
+0,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người trong những trường hợp nào,xe máy có được chở 3 người không 
+0,người điều khiển xe mô tô hai bánh ba bánh xe gắn máy có được phép chở tối đa 2 người trong những trường hợp nào,xử lý xe tải chở quá nhiều hàng hóa như thế nào 
+1,người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy có được đi dàn hàng ngang không,hãy cho biết người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy có được đi dàn hàng ngang không
+1,người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy có được đi dàn hàng ngang không,người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy đi dàn hàng ngang là đúng hay sai 
+0,người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy có được đi dàn hàng ngang không,ngồi trên tàu hoả cần lưu ý những gì 
+0,người điều khiển xe mô tô hai bánh 3 bánh xe gắn máy có được đi dàn hàng ngang không,có cần đội mũ bảo hiểm khi ngồi trên máy bay không 
+1,người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) có được không,hãy cho biết người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) có được không
+1,người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) có được không,người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy có được phép đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) không
+0,người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) có được không,trên tàu điện quy định ghế ngồi như thế nào 
+0,người điều khiển xe mô tô 2 bánh 3 bánh xe gắn máy đi xe vào phần đường dành cho người đi bộ và phương tiện khác sử dụng ô điện thoại di động thiết bị âm thanh ( trừ thiết bị trợ thính) có được không,có được ngồi vào vị trí dành cho người cao tuổi trên tàu điện không 
+1,người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách khi nào,hãy cho biết người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách khi nào
+1,người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách khi nào,quy định người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách như thế nào 
+0,người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách khi nào,kim chỉ vận tốc trên xe để làm gì 
+0,người điều khiển người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng cách khi nào,vận tốc tối đa dành cho xe máy là bao nhiêu 
+1,cơ quan nào quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý,hãy cho biết cơ quan nào quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý
+1,cơ quan nào quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý,cơ quan quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý là cơ quan nào
+0,cơ quan nào quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý,lái xe khi trời mưa như thế nào là an toàn 
+0,cơ quan nào quy định các đoạn đường cấp đi đường đi 1 chiều nơi cấm dừng cấm đỗ cấm quay đầu xe lắp đặt báo hiệu đường bộ thuộc địa phương quản lý,đang lái xe mà xuất hiện giông bão thì phải làm gì để đảm bảo an toàn 
+1,người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì,hãy cho biết người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì
+1,người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì,những trách nhiệm gì mà người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn phải giải quyết 
+0,người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì,cảnh sát giao thông cần phải làm gì khi có tai nạn giao thông xảy ra 
+0,người điều khiển phương tiện và những người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì,công trường thi công có góp phần làm ô nhiễm môi trường không 
+1,những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì,hãy cho biết những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì
+1,những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì,nêu những trách nhiệm của người có mặt tại nơi xảy ra vụ tai nạn giao thông
+0,những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì,người bỏ chạy sau khi gây tai nạn giao thông có thể bị phạt tù bao lâu 
+0,những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì,ô nhiễm ánh sáng là gì 
+1,khi điều khiển xe chạy trên đường người lái xe phải mang theo các loại giấy tờ gì,hãy cho biết khi điều khiển xe chạy trên đường người lái xe phải mang theo các loại giấy tờ gì
+1,khi điều khiển xe chạy trên đường người lái xe phải mang theo các loại giấy tờ gì,khi điều khiển xe chạy trên đường những loại giấy tờ mà người lái xe phải mang theo là gì 
+0,khi điều khiển xe chạy trên đường người lái xe phải mang theo các loại giấy tờ gì,quy định về dừng xe đỗ xe trên đường như thế nào 
+0,khi điều khiển xe chạy trên đường người lái xe phải mang theo các loại giấy tờ gì,ô tô chạy xăng có gây ô nhiễm môi trường không 
+1,người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm phải có trách nhiệm gì,trách nhiệm của người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm là gì 
+1,người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm phải có trách nhiệm gì,hãy cho biết người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm phải có trách nhiệm gì
+0,người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm phải có trách nhiệm gì,máy bán hàng tự nơi công cộng được quy định sử dụng như thế nào 
+0,người phát hiện công trình đường bộ bị hư hỏng hoặc bị xâm phạm hành lanh an toàn đường bộ bị lấn chiếm phải có trách nhiệm gì,đi xe đạp có góp phần gây ô nhiễm môi trường không 
+1,khi tập lái xe ô tô người và xe tập lái phải đảm bảo các điều kiện gì,hãy cho biết khi tập lái xe ô tô người và xe tập lái phải đảm bảo các điều kiện gì
+1,khi tập lái xe ô tô người và xe tập lái phải đảm bảo các điều kiện gì,khi tập lái xe ô tô các điều kiện gì mà người và xe tập lái phải đảm bảo 
+0,khi tập lái xe ô tô người và xe tập lái phải đảm bảo các điều kiện gì,sử dụng máy xúc như thế nào để đảm bảo an toàn 
+0,khi tập lái xe ô tô người và xe tập lái phải đảm bảo các điều kiện gì,xe lu có được phép lưu thông trên đường không 
+1,người có giấy phép lái xe hạng B2 được điều khiển loại xe nào,hãy cho biết người có giấy phép lái xe hạng B2 được điều khiển loại xe nào
+1,người có giấy phép lái xe hạng B2 được điều khiển loại xe nào,loại xe nào dành cho người có giấy phép lái xe hạng B2 
+0,người có giấy phép lái xe hạng B2 được điều khiển loại xe nào,đáp ứng đủ những điều kiện nào thì nhận được giấy phép lái xe 
+0,người có giấy phép lái xe hạng B2 được điều khiển loại xe nào,giấy phép lái xe có quy định độ tuổi không 
+1,người có giấy phép lái xe hạng C được điều khiển loại xe nào,hãy cho biết người có giấy phép lái xe hạng C được điều khiển loại xe nào
+1,người có giấy phép lái xe hạng C được điều khiển loại xe nào,loại xe nào dành cho người có giấy phép lái xe hạng C
+0,người có giấy phép lái xe hạng C được điều khiển loại xe nào,phân loại giấy phép lái xe theo tiêu chuẩn nào
+0,người có giấy phép lái xe hạng C được điều khiển loại xe nào,xe lửa chạy bằng gì
+1,người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) trong trường hợp nào,hãy cho biết người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) trong trường hợp nào
+1,người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) trong trường hợp nào,khi nào người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) nào
+0,người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) trong trường hợp nào,lá cây phong có màu gì
+0,người lái xe phải giảm tốc độ đến mức không gây nguy hiểm ( có thể dừng lại một cách an toàn) trong trường hợp nào,tại sao cà rốt màu cam 
+1,khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ người lái xe phải xử lý như thế nào,người lái xe phải xử lý như thế nào khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ
+1,khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ người lái xe phải xử lý như thế nào,hãy cho biết khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ người lái xe phải xử lý như thế nào
+0,khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ người lái xe phải xử lý như thế nào,cây cối ở lề đường được trồng như thế nào 
+0,khi gặp một đoàn xe một đoàn xe tang hay gặp một đoàn người có tổ chức theo đội ngũ người lái xe phải xử lý như thế nào,ai chịu trách nhiệm cho việc chăm sóc cây xanh công cộng 
+1,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2),hãy cho biết người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2)
+1,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2),người ở độ tuổi nào thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2)
+0,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2),tại sao xe có trọng tải lớn gây hư hại đường ,
+0,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải máy kéo có trọng tải từ 3.5 tấn trở lên, xe hạng B2 kéo rơ mooc( FB2),dụng cụ tập thể dục công cộng được quy định sử dụng như thế nào ,
+1,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi,hãy cho biết người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi
+1,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi,nguời ở độ tuổi nào trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi
+0,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi,18 tuổi đã được phép sử dụng xe máy chưa,
+0,người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh xe mô tô ba bánh có dung tích xi lanh từ 50cm3 trở lên và các loại xe có kết cấu tương tự, xe ô tô tải xe máy kéo có trọng tải dưới 3.5 tấn xe ô tô trở người đến 9 chỗ ngồi,có được tự ý lái xe của bệnh viện không ,
+1,tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường như thế nào là đúng,hãy cho biết tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường như thế nào là đúng
+1,tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường như thế nào là đúng,tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường cho ai
+0,tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường như thế nào là đúng,tại sao nam châm lại hút hoặc đẩy nhau
+0,tại ngã ba hoặc ngã tư không có đảo an toàn người lái xe phải nhường đường như thế nào là đúng,bị rết cắn thì có bị trúng độc không 
+1,người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải đủ bao nhiêu tuổi trở lên,hãy cho biết người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải đủ bao nhiêu tuổi trở lên
+1,người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải đủ bao nhiêu tuổi trở lên,người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải ở độ tuổi nào trở lên
+0,người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải đủ bao nhiêu tuổi trở lên,họp chợ được quy định tổ chức ở những khu vực nào 
+0,người lái xe ô tô chở người trên 30 chỗi ngồi ( hạng E) lái xe hạng D kéo rơ mooc( FD) phải đủ bao nhiêu tuổi trở lên,nơi nào thích hợp để mở một tiệm photo 
+1,tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) là bao nhiêu tuổi,hãy cho biết tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) là bao nhiêu tuổi
+1,tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) là bao nhiêu tuổi,bao nhiêu tuổi là tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) 
+0,tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) là bao nhiêu tuổi,tại sao phải mặc đồng phục khi đến trường 
+0,tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi ( hạng E) là bao nhiêu tuổi,trang phục đồng phục để làm gì 
+1,người lái xe chở người từ 10 đến 30 chỗ ngồi ( hạng D) lái xe hạng C kéo rơ mooc (FC) phải đủ bao nhiêu tuổi trở lên,hãy cho biết người lái xe chở người từ 10 đến 30 chỗ ngồi ( hạng D) lái xe hạng C kéo rơ mooc (FC) phải đủ bao nhiêu tuổi trở lên
+1,người lái xe chở người từ 10 đến 30 chỗ ngồi ( hạng D) lái xe hạng C kéo rơ mooc (FC) phải đủ bao nhiêu tuổi trở lên,độ tuổi nào thì người lái xe chở người từ 10 đến 30 chỗ ngồi ( hạng D) lái xe hạng C kéo rơ mooc (FC) 
+0,người lái xe chở người từ 10 đến 30 chỗ ngồi ( hạng D) lái xe hạng C kéo rơ mooc (FC) phải đủ bao nhiêu tuổi trở lên,toán học được ứng dụng như thế nào 
+1,người đủ 16 tuổi được điều khiển các loại xe nào,hãy cho biết người đủ 16 tuổi được điều khiển các loại xe nào
+1,người đủ 16 tuổi được điều khiển các loại xe nào,các loại xe nào người đủ 16 tuổi được điều khiển 
+0,người đủ 16 tuổi được điều khiển các loại xe nào,cáp treo được sử dụng như thế nào 
+0,người đủ 16 tuổi được điều khiển các loại xe nào,cây hoa tuylip có hoa màu gì
+1,việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện ở đâu và như thế nào,hãy cho biết việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện ở đâu và như thế nào
+1,việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện ở đâu và như thế nào,việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện vào thời điển nào và địa điểm ở đâu 
+0,việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện ở đâu và như thế nào,cơ chế hoạt động của đồng hồ báo thức như thế nào 
+0,việc sát hạch cấp giấy phép lái xe ô tô phải thực hiện ở đâu và như thế nào,ghép cành nhằm mục đích gì 
+1,người có giấy phép lái xe hạng FC được điều khiển các loại xe nào,hãy cho biết người có giấy phép lái xe hạng FC được điều khiển các loại xe nào
+1,người có giấy phép lái xe hạng FC được điều khiển các loại xe nào,các loại xe nào dành cho người có giấy phép lái xe hạng FC được điều khiển
+0,người có giấy phép lái xe hạng FC được điều khiển các loại xe nào,tập thể dục có lợi ích gì
+0,người có giấy phép lái xe hạng FC được điều khiển các loại xe nào,chế độ ăn như thế nào để bảo đảm sức khỏe 
+1,người có giấy phép lái xe hạng FE được điều khiển các loại xe nào,hãy cho biết người có giấy phép lái xe hạng FE được điều khiển các loại xe nào
+1,người có giấy phép lái xe hạng FE được điều khiển các loại xe nào,các loại xe nào người có giấy phép lái xe hạng FE được điều khiển 
+0,người có giấy phép lái xe hạng FE được điều khiển các loại xe nào,khẩu trang dùng để làm gì 
+0,người có giấy phép lái xe hạng FE được điều khiển các loại xe nào,tại sao chúng ta phải ngủ 
+1,khi điều khiển xe cơ giới người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào,hãy cho biết khi điều khiển xe cơ giới người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào
+1,khi điều khiển xe cơ giới người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào,khi điều khiển xe cơ giới khi nào người lái xe phải bật đèn tín hiệu báo rẽ 
+0,khi điều khiển xe cơ giới người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào,tại sao phải đi giày khi đi bộ 
+0,khi điều khiển xe cơ giới người lái xe phải bật đèn tín hiệu báo rẽ trong trường hợp nào,động cơ xăng để làm gì 
+1,trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe có được phép vượt xe khác không,hãy cho biết trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe có được phép vượt xe khác không
+1,trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe có được phép vượt xe khác không,trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe vượt xe khác là đúng hay sai 
+0,trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe có được phép vượt xe khác không,nước trong đường ống được dẫn đi như thế nào 
+0,trong trường hợp xe bị vượt bất ngờ tăng tốc độ phát hiện có xe đi ngược chiều người lái xe có được phép vượt xe khác không,dòng điện được đo bằng gì
+1,trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải người lái xe phải làm gì nếu xe của mình đang đi trên làn đường bên trái,hãy cho biết trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải người lái xe phải làm gì nếu xe của mình đang đi trên làn đường bên trái
+1,trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải người lái xe phải làm gì nếu xe của mình đang đi trên làn đường bên trái,trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải nếu xe của mình đang đi trên làn đường bên trái thì người lái xe cần phải làm gì 
+0,trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải người lái xe phải làm gì nếu xe của mình đang đi trên làn đường bên trái,có được phép đi bộ dưới lòng đường không 
+0,trên đường một chiều trước khi đến vạch người đi bộ qua đường có một xe tải đang đứng trước làn đường bên phải người lái xe phải làm gì nếu xe của mình đang đi trên làn đường bên trái,đi xe đạp trên vỉa hè công viên có được không 
+1,khi lái xe trên đường vắng mà cảm thấy buồn ngủ người lái xe nên chọn cách xử lý như thế nào,hãy cho biết khi lái xe trên đường vắng mà cảm thấy buồn ngủ người lái xe nên chọn cách xử lý như thế nào
+1,khi lái xe trên đường vắng mà cảm thấy buồn ngủ người lái xe nên chọn cách xử lý như thế nào,người lái xe phải xử lý thế nào khi lái xe trên đường vắng mà cảm thấy buồn ngủ 
+0,khi lái xe trên đường vắng mà cảm thấy buồn ngủ người lái xe nên chọn cách xử lý như thế nào,xây nhà không có móng nhà thì sao 
+0,khi lái xe trên đường vắng mà cảm thấy buồn ngủ người lái xe nên chọn cách xử lý như thế nào,bình ga bị hở khi tiếp xúc với lửa thì có cháy không 
+1,trên đường cao tốc người lái xe xử lý như thế nào khi vượt quá lối ra của đường định rẽ,hãy cho biết trên đường cao tốc người lái xe xử lý như thế nào khi vượt quá lối ra của đường định rẽ
+1,trên đường cao tốc người lái xe xử lý như thế nào khi vượt quá lối ra của đường định rẽ,trên đường cao tốc người lái xe cần làm gì khi vượt quá lối ra của đường định rẽ 
+0,trên đường cao tốc người lái xe xử lý như thế nào khi vượt quá lối ra của đường định rẽ,những đường nào ô tô không được phép đi vào 
+0,trên đường cao tốc người lái xe xử lý như thế nào khi vượt quá lối ra của đường định rẽ,xe đạp bị cấm ở những khu vực nào 
+1,khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian bao nhiêu năm,hãy cho biết khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian bao nhiêu năm
+1,khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian bao nhiêu năm,khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian tối đa là bao lâu theo luật pháp 
+0,khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian bao nhiêu năm,vừa đi xe máy vừa sử dụng dù che mưa là đúng hay sai 
+0,khi phát hiện hành vi giả khai báo mất hoặc tẩy xoá làm sai lệch các thông tin trên giấy phép lái xe sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả có hành vi cố tình gian dối để được đổi cấp mới cấp lại giấy phép lái xe ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc không được cấp giấy phép lái xe trong thời gian bao nhiêu năm,có nên lái xe khi trời đang mưa quá to không 
+1,người lái xe mô tô xử lý như thế nào khi cho xe mô tô phái sau vượt,hãy cho biết người lái xe mô tô xử lý như thế nào khi cho xe mô tô phái sau vượt
+1,người lái xe mô tô xử lý như thế nào khi cho xe mô tô phái sau vượt,người lái xe mô tô phải làm gì khi cho xe mô tô phái sau vượt
+0,người lái xe mô tô xử lý như thế nào khi cho xe mô tô phái sau vượt,cây đào cần được chăm sóc như thế nào để nở hoa đẹp 
+0,người lái xe mô tô xử lý như thế nào khi cho xe mô tô phái sau vượt,loại nấm nào không được ăn 
+1,khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe xử lý như thế nào,hãy cho biết khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe xử lý như thế nào
+1,khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe xử lý như thế nào,khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe cần làm gì để đảm bảo an toàn giao thông và đúng pháp luật 
+0,khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe xử lý như thế nào,đồ dùng điện tử phải đáp ứng các yêu cầu gì để đảm bảo an toàn 
+0,khi xe ô tô đi ngược chiều đến rất gần xe ô tô phía sau cùng chiều cố tình vượt người lái xe xử lý như thế nào,trung tâm thương mại quy định việc đỗ xe như thế nào 
+1,khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe xử lý như thế nào,hãy cho biết khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe xử lý như thế nào
+1,khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe xử lý như thế nào,khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe phải làm gì để đảm bảo an toàn cho mình và những người khác 
+0,khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe xử lý như thế nào,nhà vệ sinh công cộng quy định việc sử dụng như thế nào 
+0,khi xe ô tô bị hỏng tại vị trí giao nhau giữa đường bộ và đường sắt người lái xe xử lý như thế nào,những loại hàng nhái nào là hợp pháp 
+1,để đảm bảo an toàn khi tham gia giao thông người lái xe mô tô cần thực hiện như thế nào,hãy tìm hiểu để đảm bảo an toàn khi tham gia giao thông người lái xe mô tô cần thực hiện như thế nào
+1,để đảm bảo an toàn khi tham gia giao thông người lái xe mô tô cần thực hiện như thế nào,để đảm bảo an toàn khi tham gia giao thông những quy tắc nào dành cho người lái xe mô tô 
+0,để đảm bảo an toàn khi tham gia giao thông người lái xe mô tô cần thực hiện như thế nào,cầu chì có vai trò quan trọng như thế nào 
+0,để đảm bảo an toàn khi tham gia giao thông người lái xe mô tô cần thực hiện như thế nào,cần phải làm gì khi bị rắn cắn 
+1,đường bộ trong khu vực đông dân cư gồm những đường nào,hãy cho biết đường bộ trong khu vực đông dân cư gồm những đường nào
+1,đường bộ trong khu vực đông dân cư gồm những đường nào,những đường nào là đường bộ trong khu vực đông dân cư
+0,đường bộ trong khu vực đông dân cư gồm những đường nào,ai được phép sử dụng súng 
+0,đường bộ trong khu vực đông dân cư gồm những đường nào,mua bán súng trái phép bị xử phạt như thế nào 
+1,xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu,hãy cho biết xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu
+1,xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu,tốc độ tối đa dành cho xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông là bao nhiêu
+0,xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu,mức độ tổn thương của nạn nhân có quyết định bản án của bị cáo không 
+0,xe máy kéo xe công nông xe lam xe lôi máy xe xích lô máy xe ba gác máy xe máy chuyên dùng và các loại xe tương tự ( loại đang được phép hoạt động) tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu,trong trường hợp nào người gây ấn bị xử án tử hình 
+1,trên đường bộ trong khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ tối đa cho phếp là 40km/h,hãy cho biết trên đường bộ trong khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ tối đa cho phếp là 40km/h
+1,trên đường bộ trong khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ tối đa cho phếp là 40km/h,trên đường bộ trong khu vực đông dân cư tham gia giao thông với tốc độ tối đa cho phếp là 40km/h dành cho những loại xe nào 
+0,trên đường bộ trong khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ tối đa cho phếp là 40km/h,tại sao không được đứng dưới tán cây khi trời mưa to 
+0,trên đường bộ trong khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ tối đa cho phếp là 40km/h,tại sao phải ngắt điện khi trời mưa bão 
+1,trên đường bộ khi vực đông dân cư loại xe cơ giới nào tham gia giao thông với tốc độ cho phép là 50km/h,hãy cho biết trên đường bộ khi vực đông dân cư loại xe cơ giới nào tham gia giao thông với tốc độ cho phép là 50km/h
+1,trên đường bộ khi vực đông dân cư loại xe cơ giới nào tham gia giao thông với tốc độ cho phép là 50km/h,trên đường bộ khi vực đông dân cư tham gia giao thông với tốc độ cho phép là 50km/h là dành cho loại xe cơ giới nào 
+0,trên đường bộ khi vực đông dân cư loại xe cơ giới nào tham gia giao thông với tốc độ cho phép là 50km/h,thế giới chống nạn phân biệt chủng tộc như thế nào 
+0,trên đường bộ khi vực đông dân cư loại xe cơ giới nào tham gia giao thông với tốc độ cho phép là 50km/h,khi nào đèn điện cao áp được bật
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 60km/h,hãy cho biết trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 60km/h
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 60km/h,trên đường bộ ngoài khu vực đông dân cư tham gia giao thông với tốc độ cho phép tối đa là 60km/h là dành cho loại xe nào 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 60km/h,đường cao tốc quy định tốc độ như thế nào 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 60km/h,quy định làn đường trên đường cao tốc như thế nào 
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 70km/h,hãy cho biết trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 70km/h
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 70km/h,trên đường bộ ngoài khu vực đông dân cư tham gia giao thông với tốc độ cho phép tối đa là 70km/h dành cho loại xe nào 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 70km/h,tại sao phải dừng xe khi có dấu hiệu yêu cầu dừng của cảnh sát giao thông 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 70km/h,những đoạn đường nào được phép rẽ phải khi đèn đỏ 
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 80km/h,hãy cho biết trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 80km/h
+1,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 80km/h,trên đường bộ ngoài khu vực đông dân cư tham gia giao thông với tốc độ cho phép tối đa là 80km/h là dành cho loại xe nào 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 80km/h,vị trí của người lái xe ở đâu trên ô tô 
+0,trên đường bộ ngoài khu vực đông dân cư loại xe nào tham gia giao thông với tốc độ cho phép tối đa là 80km/h,người lái xe cần đảm bảo những điều kiện gì trước khi tham gia giao thông 
+1,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,hãy cho biết trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu
+1,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách tối thiểu là bao nhiêu để đảm bảo an toàn với xe đang chạy phía trước 
+0,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,trẻ em được học tiếng anh bắt đầu từ khi nào 
+0,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ đến 60km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,đi xe máy vào nơi ngập úng thì xe có bị chết máy không 
+1,trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,hãy cho biết trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu
+1,trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách tối thiểu là bao nhiêu để đảm bảo an toàn với xe đang chạy phía trước 
+0,trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,tại sao ve lại kêu vào mùa hè 
+0,trên đường cao tốc trừ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giới đang chạy với tốc độ trên 80k/h đến 100km/h người lái xe phải uy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,mưa phùn xuất hiện vào mùa nào 
+1,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,hãy cho biết trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu
+1,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách tối thiểu là bao nhiêu để đảm bảoan toàn với xe đang chạy phía trước 
+0,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,tiêu chuẩn lương thực của trẻ em 6 tuổi 1 tháng là bao nhiêu 
+0,trên đương cao tốc từ khi nhập làn và tách làn với điều kiện mặt đường khô ráo xe cơ giớ đang chạy với tốc độ trên 100km/h đến 120km/h người lái xe phải duy trì khoảng cách an toàn với xe đang chạy phía trước tối thiểu là bao nhiêu,cần làm gì để giảm thiểu ô nhiễm môi trường 
+1,người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm trong các trường hợp nào,hãy cho biết người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm trong các trường hợp nào
+1,người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm trong các trường hợp nào,khi nào người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm 
+0,người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm trong các trường hợp nào,tại sao ngồi trên ô tô không cần đội mũ bảo hiểm 
+0,người lái xe phải giảm tốc độ thấp hơn tốc độ tối đa cho phép đến mức không nguy hiểm trong các trường hợp nào,làm thế nào để cải thiện chất lượng môi trường 
+1,khái niệm xe quá tải trọng của đường bộ được hiểu như thế nào,hãy giải thích khái niệm xe quá tải trọng của đường bộ được hiểu như thế nào
+1,khái niệm xe quá tải trọng của đường bộ được hiểu như thế nào,định nghĩa thế nào về khái niệm xe quá tải trọng của đường bộ 
+0,khái niệm xe quá tải trọng của đường bộ được hiểu như thế nào,ai là người nghĩ ra ý tưởng về đèn giao thông 
+0,khái niệm xe quá tải trọng của đường bộ được hiểu như thế nào,máy tính cây do ai sáng tạo ra 
+1,vận tải đa phương thức được hiểu như thế nào,hãy cho biết vận tải đa phương thức được hiểu như thế nào
+1,vận tải đa phương thức được hiểu như thế nào,nêu khái niệm về vận tải đa phương thức
+0,vận tải đa phương thức được hiểu như thế nào,đi xe buýt có được phép sử dụng thiết bị quay phim không 
+0,vận tải đa phương thức được hiểu như thế nào,khi nào được phép sử dụng điện thoại trong giờ học 
+1,khái niệm 'hàng nguy hiểm' được hiểu như thế nào,hãy cho biết khái niệm 'hàng nguy hiểm' được hiểu như thế nào
+1,khái niệm 'hàng nguy hiểm' được hiểu như thế nào,nêu định nghĩa về khái niệm 'hàng nguy hiểm' 
+0,khái niệm 'hàng nguy hiểm' được hiểu như thế nào,tại sao khi ngủ lại mơ
+0,khái niệm 'hàng nguy hiểm' được hiểu như thế nào,tại sao túi ni lông lại được dùng phổ biến 
+1,trong trường hợp đặt biệt xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường nhưng phải xin phép cơ quan nào,hãy cho biết trong trường hợp đặt biệt xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường nhưng phải xin phép cơ quan nào
+1,trong trường hợp đặt biệt xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường nhưng phải xin phép cơ quan nào,trong trường hợp đặt biệt cơ quan nào cấp phép cho xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường
+0,trong trường hợp đặt biệt xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường nhưng phải xin phép cơ quan nào,tại sao người Việt lại thích ăn cơm tẻ 
+0,trong trường hợp đặt biệt xe quá tải trọng quá khổ giới hạn của đường bộ xe bánh xích có thể lưu hành trên đường nhưng phải xin phép cơ quan nào,xích lô xuất hiện ở nước ta từ khi nào 
+1,hoạt động vận tải đường bộ được hiểu như thế nào,hãy cho biết hoạt động vận tải đường bộ được hiểu như thế nào
+1,hoạt động vận tải đường bộ được hiểu như thế nào,hay giải thích khái niệm về hoạt động vận tải đường bộ 
+0,hoạt động vận tải đường bộ được hiểu như thế nào,có bao nhiêu loại ghế ngồi 
+0,hoạt động vận tải đường bộ được hiểu như thế nào,bàn có những loại hình thù nào
+1,thời gian làm việc trong một ngày của người lái xe được quy định là bao nhiêu,hãy cho biết thời gian làm việc trong một ngày của người lái xe được quy định là bao nhiêu
+1,thời gian làm việc trong một ngày của người lái xe được quy định là bao nhiêu,thời gian làm việc quy định bao nhiêu giờ trong một ngày dành cho người lái xe
+0,thời gian làm việc trong một ngày của người lái xe được quy định là bao nhiêu,múi giờ ở các quốc gia thay đổi như thế nào 
+0,thời gian làm việc trong một ngày của người lái xe được quy định là bao nhiêu,quy định về múi giờ trên thế giới ra sao 
+1,kinh doanh vận tải hành khách bằng xe ô tô bao gồm những loại hình nào,hãy cho biết kinh doanh vận tải hành khách bằng xe ô tô bao gồm những loại hình nào
+1,kinh doanh vận tải hành khách bằng xe ô tô bao gồm những loại hình nào,những loại hình nào có trong kinh doanh vận tải hành khách bằng xe ô tô
+0,kinh doanh vận tải hành khách bằng xe ô tô bao gồm những loại hình nào,lịch sử Việt Nam có liên quan đến Trung Quốc không 
+0,kinh doanh vận tải hành khách bằng xe ô tô bao gồm những loại hình nào,ai là người đọc bản Tuyên ngôn độc lập năm 1945
+1,hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách hay không,hãy tìm hiểu hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách như thế nào 
+1,hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách hay không,hãy cho biết hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách hay không 
+0,hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách hay không,hàng quán lề đường được quy định sử dụng vỉa hè như thế nào
+0,hàng nguy hiểm hàng có mùi hôi thối hoặc động vật hàng hoá khác có ảnh hưởng đến sức khoẻ hành khách được nhận chở trên xe khách hay không,tại sao người dân phải nộp thuế 
+1,người vận tải người lái xe khách phải chấp hành những quy định nào,hãy cho biết người vận tải người lái xe khách phải chấp hành những quy định nào
+1,người vận tải người lái xe khách phải chấp hành những quy định nào,những quy định nào mà người vận tải người lái xe khách phải chấp hành 
+0,người vận tải người lái xe khách phải chấp hành những quy định nào,mùa xuân có mưa rào không 
+0,người vận tải người lái xe khách phải chấp hành những quy định nào,hãy giải thích khái niệm về mưa ngâu 
+1,người kinh doanh vận tải hành khách có những nghĩa vụ nào theo quy định,hãy cho biết người kinh doanh vận tải hành khách có những nghĩa vụ nào theo quy định
+1,người kinh doanh vận tải hành khách có những nghĩa vụ nào theo quy định,những quy định nào mà người kinh doanh vận tải hành khách có nghĩa vụ phải thực hiện 
+0,người kinh doanh vận tải hành khách có những nghĩa vụ nào theo quy định,có được ném vật xuống hồ nước công cộng không
+0,người kinh doanh vận tải hành khách có những nghĩa vụ nào theo quy định,xe vận tải hành hóa chạy đêm cần chú ý những gì 
+1,Người kinh doanh vận tại hành khách có những quyền hạn nào theo quy định,hãy cho biết người kinh doanh vận tại hành khách có những quyền hạn nào theo quy định
+1,Người kinh doanh vận tại hành khách có những quyền hạn nào theo quy định,theo luật pháp thì người kinh doanh vận tại hành khách có những quyền hạn nào 
+0,Người kinh doanh vận tại hành khách có những quyền hạn nào theo quy định,ngủ vào khung giờ nào là tốt nhất 
+0,Người kinh doanh vận tại hành khách có những quyền hạn nào theo quy định,cần uống bao nhiêu nước mỗi ngày là đạt tiêu chuẩn 
+1,Hành khách có các quyền gì khi đi trên xe vận tải hành khách,hãy cho biết hành khách có các quyền gì khi đi trên xe vận tải hành khách
+1,Hành khách có các quyền gì khi đi trên xe vận tải hành khách,quyền lợi của hành khách khi đi trên xe vận tải hành khách là gì 
+0,Hành khách có các quyền gì khi đi trên xe vận tải hành khách,đá cầu đem lại lợi ích gì cho sức khỏe 
+0,Hành khách có các quyền gì khi đi trên xe vận tải hành khách,ung thư ảnh hưởng xấu đến sức khỏe như thế nào 
+1,hành khách có các nghĩa vụ gì khi đi trên xe vận tải hành khách,hãy cho biết hành khách có các nghĩa vụ gì khi đi trên xe vận tải hành khách
+1,hành khách có các nghĩa vụ gì khi đi trên xe vận tải hành khách,nghĩa vụ của các hành khách khi đi trên xe vận tải hành khách là gì 
+0,hành khách có các nghĩa vụ gì khi đi trên xe vận tải hành khách,mũ bảo hiểm được sản xuất như thế nào 
+0,hành khách có các nghĩa vụ gì khi đi trên xe vận tải hành khách,đèn cồn cháy được là nhờ đâu 
+1,việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành các quy định nào,hãy cho biết việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành các quy định nào
+1,việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành các quy định nào,các quy định nào mà việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành 
+0,việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành các quy định nào,màu sắc được pha như thế nào 
+0,việc vận chuyển hàng hoá bằng xe ô tô phải chấp hành các quy định nào,ánh sáng trăng được truyền như thế nào 
+1,người kinh doanh vận tải hàng hoá có các quyền gì theo quy định của pháp luật,hãy cho biết người kinh doanh vận tải hàng hoá có các quyền gì theo quy định của pháp luật
+1,người kinh doanh vận tải hàng hoá có các quyền gì theo quy định của pháp luật,quy định của pháp luật cho người kinh doanh vận tải hàng hoá có các quyền như thế nào 
+0,người kinh doanh vận tải hàng hoá có các quyền gì theo quy định của pháp luật,sách được xuất bản như thế nào 
+0,người kinh doanh vận tải hàng hoá có các quyền gì theo quy định của pháp luật,sách trong thư viện được sắp xếp thế nào cho khoa học 
+1,người kinh doanh vận tải hàng hoá có các nghĩa vụ gì theo quy định của pháp luật,hãy cho biết người kinh doanh vận tải hàng hoá có các nghĩa vụ gì theo quy định của pháp luật
+1,người kinh doanh vận tải hàng hoá có các nghĩa vụ gì theo quy định của pháp luật,người kinh doanh vận tải hàng hoá có các nghĩa vụ như thế nào là đúng theo quy định của pháp luật
+0,người kinh doanh vận tải hàng hoá có các nghĩa vụ gì theo quy định của pháp luật,hình trên áo được in ấn như thế nào 
+0,người kinh doanh vận tải hàng hoá có các nghĩa vụ gì theo quy định của pháp luật,tại sao quảng cáo rất quan trọng trong việc bán hàng 
+1,người thuê vận tải hàng hôas có các quyền hạn gì theo quy định,hãy cho biết người thuê vận tải hàng hóa có các quyền hạn gì theo quy định
+1,người thuê vận tải hàng hôas có các quyền hạn gì theo quy định,có những quy định gì dành cho người thuê vận tải hàng hóa theo quy định
+0,người thuê vận tải hàng hôas có các quyền hạn gì theo quy định,môn giáo dục công dân bổ sung kĩ năng gì cho học sinh 
+0,người thuê vận tải hàng hôas có các quyền hạn gì theo quy định,tại sao con người có cảm xúc 
+1,người thuê vận tải hàng hoá có các nghĩa vụ gì theo quy định,hãy cho biết người thuê vận tải hàng hoá có các nghĩa vụ gì theo quy định
+1,người thuê vận tải hàng hoá có các nghĩa vụ gì theo quy định,có những quy định gì dành cho người thuê vận tải hàng hoá theo quy định
+0,người thuê vận tải hàng hoá có các nghĩa vụ gì theo quy định,rèn luyện cơ thể như thế nào là khoa học 
+0,người thuê vận tải hàng hoá có các nghĩa vụ gì theo quy định,điện thoại nào có ứng dụng theo dõi sức khỏe 
+1,người nhận hàng cố các quyền gì,hãy cho biết người nhận hàng có các quyền gì 
+1,người nhận hàng cố các quyền gì,các quyền nào dành cho người nhận hàng 
+0,người nhận hàng cố các quyền gì,tại sao lá xanh lại chứa chất diệp lục
+0,người nhận hàng cố các quyền gì,tại sao cần biết tôn trọng người khác 
+1,người nhận hàng cố các nghĩa vụ gì,hãy cho biết người nhận hàng cố các nghĩa vụ gì 
+1,người nhận hàng cố các nghĩa vụ gì,người nhận hàng phải thực hiện các nghĩa gì 
+0,người nhận hàng cố các nghĩa vụ gì,khi nào được phép đi xe trong sân trường 
+0,người nhận hàng cố các nghĩa vụ gì,vàng bạc và đồng khác nhau như thế nào 
+1,hàng siêu trường siêu trọng được hiểu như thế nào,nêu khái niệm hàng siêu trường siêu trọng 
+1,hàng siêu trường siêu trọng được hiểu như thế nào,hãy cho biết hàng siêu trường siêu trọng được hiểu như thế nào
+0,hàng siêu trường siêu trọng được hiểu như thế nào,kính cận và kính lão khác nhau như thế nào 
+0,hàng siêu trường siêu trọng được hiểu như thế nào,vợt cầu lông và vợt tennis có giống nhau không 
+1,việc vận chuyển động vật sống phải tuân theo những quy tắc nào,hãy cho biết việc vận chuyển động vật sống phải tuân theo những quy tắc nào
+1,việc vận chuyển động vật sống phải tuân theo những quy tắc nào,những quy tắc nào mà việc vận chuyển động vật sống phải tuân theo 
+0,việc vận chuyển động vật sống phải tuân theo những quy tắc nào,lái xe an toàn là như thế nào
+0,việc vận chuyển động vật sống phải tuân theo những quy tắc nào,từ khi nào nghệ thuật xăm hình xuất hiện ở nước ta 
+1,xe vận chuyển hàng nguy hiểm phải chấp hành những quy định nào,hãy cho biết xe vận chuyển hàng nguy hiểm phải chấp hành những quy định nào
+1,xe vận chuyển hàng nguy hiểm phải chấp hành những quy định nào,những quy định nào mà xe vận chuyển hàng nguy hiểm phải chấp hành 
+0,xe vận chuyển hàng nguy hiểm phải chấp hành những quy định nào,nữ sinh được phép mặc áo dài đi học vào những dịp nào 
+0,xe vận chuyển hàng nguy hiểm phải chấp hành những quy định nào,lí do làm mắt bị cận thị là gì 
+1,trong đô thị người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện những quy định gì,hãy cho biết trong đô thị người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện những quy định gì
+1,trong đô thị người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện những quy định gì,trong đô thị những quy định gì mà người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện 
+0,trong đô thị người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện những quy định gì,tại sao người già bị suy giảm thị lực 
+0,trong đô thị người lái xe buýt xe taxi khách xe taxi tải xe chở hàng phải thực hiện những quy định gì,giày đá bóng và giày thời trang khác nhau như thế nào 
+1,xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện những quy định gì,hãy cho biết xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện những quy định gì
+1,xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện những quy định gì,những quy định gì mà xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện
+0,xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện những quy định gì,mùa gặt là mùa nào trong 4 mùa trong năm
+0,xe vệ sinh môi trường xe ô tô chở phế thải vật liệu rời khi hoạt động vận tải trong đồ thị phải thực hiện những quy định gì,mèo con mới sinh sau bao nhiêu ngày thì mở mắt 
+1,đạo đức cơ bản của mỗi con người của người láii xe thể hiện ở những điểm nào,những điểm nào ở đạo đức cơ bản của mỗi con người của người lái xe được thực hiện 
+1,đạo đức cơ bản của mỗi con người của người láii xe thể hiện ở những điểm nào,hãy cho biết đạo đức cơ bản của mỗi con người của người láii xe thể hiện ở những điểm nào
+0,đạo đức cơ bản của mỗi con người của người láii xe thể hiện ở những điểm nào,khi đi trên đường dốc mà bị mất phanh thì lái xe phải làm thế nào 
+0,đạo đức cơ bản của mỗi con người của người láii xe thể hiện ở những điểm nào,tại sao trong khách sạn đồ dùng màu trắng được sử dụng nhiều
+1,Một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh là,hãy cho biết một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh là gì 
+1,Một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh là,Một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh được thể hiện như thế nào 
+0,Một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh là,sóng truyền hình được truyền đi như thế nào 
+0,Một số nét đẹp truyền thống của con người việt nam theo tư tưởng hồ chí minh là,tại sao nên uống nước ấm khi trời lạnh 
+1,khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải được hiểu như thế nào,hãy cho biết khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải được hiểu như thế nào 
+1,khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải được hiểu như thế nào,nêu định nghĩa về khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải
+0,khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải được hiểu như thế nào,nên làm gì khi cơ thể bị mất nước quá nhiều
+0,khái niệm về đạo đức nghề nghiệp của người lái xe kinh doanh vận tải được hiểu như thế nào,tại sao túi giấy không được sử dụng nhiều bằng túi ni lông 
+1,Người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp sẽ thu được kết quả như thế nào,hãy cho biết người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp sẽ thu được kết quả như thế nào 
+1,Người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp sẽ thu được kết quả như thế nào,những kết quả tốt nào sẽ đến với người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp 
+0,Người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp sẽ thu được kết quả như thế nào,tai nghe không dây hay tai nghe có dây được sử dụng rộng rãi hơn 
+0,Người lái xe kinh doanh vận tải thực hiện tốt việc rèn luyện nang cao chất lượng đạo đức nghề nghiệp sẽ thu được kết quả như thế nào,tại sao Bắc cực lại ít mưa 
+1,hãy nêu trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe,hãy cho biết trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe là gì
+1,hãy nêu trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe,trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe gồm có những nội dung gì 
+0,hãy nêu trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe,cơm hay bánh mì chứa nhiều tinh bột hơn
+0,hãy nêu trách nhiệm cơ bản của các tổ chức trong quản lí giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe,thịt gà hay đậu phụ chứa nhiều chất đạm hơn
+1,Người lái xe khách xe buýt cần thực hiện những nhiệm vụ gì dưới đây,hãy cho biết người lái xe khách xe buýt cần thực hiện những nhiệm vụ gì dưới đây
+1,Người lái xe khách xe buýt cần thực hiện những nhiệm vụ gì dưới đây,hãy chỉ ra những nhiệm vụ mà người lái xe khách xe buýt cần thực hiện 
+0,Người lái xe khách xe buýt cần thực hiện những nhiệm vụ gì dưới đây,mùa nào trong năm có vải thiều 
+0,Người lái xe khách xe buýt cần thực hiện những nhiệm vụ gì dưới đây,thuốc ngủ có gây độc hại cho cơ thể không 
+1,người lái xe vận tải hàng hóa cần thực hiện những nhiệm vụ gì đưới đây,hãy cho biết người lái xe vận tải hàng hóa cần thực hiện những nhiệm vụ gì đưới đây
+1,người lái xe vận tải hàng hóa cần thực hiện những nhiệm vụ gì đưới đây,đâu là những nhiệm vụ mà người lái xe vận tải hàng hóa cần thực hiện 
+0,người lái xe vận tải hàng hóa cần thực hiện những nhiệm vụ gì đưới đây,sóng wifi được truyền đi như thế nào 
+0,người lái xe vận tải hàng hóa cần thực hiện những nhiệm vụ gì đưới đây,cáp quang được dùng để làm gì 
+1,người lái xe kinh doanh vận tải cân thực hiện những công việc gì để thường xuyên rèn luyện nâng cao dạo đức nghề nghiệp,hãy cho biết nngười lái xe kinh doanh vận tải cân thực hiện những công việc gì để thường xuyên rèn luyện nâng cao dạo đức nghề nghiệp 
+1,người lái xe kinh doanh vận tải cân thực hiện những công việc gì để thường xuyên rèn luyện nâng cao dạo đức nghề nghiệp,để thường xuyên nâng cao rèn luyện đạo đức nghề nghiệp người lái xe kinh doanh vận tải cân thực hiện những công việc gì 
+0,người lái xe kinh doanh vận tải cân thực hiện những công việc gì để thường xuyên rèn luyện nâng cao dạo đức nghề nghiệp,tại sao tiếng Việt lại khó học hơn tiếng Anh 
+0,người lái xe kinh doanh vận tải cân thực hiện những công việc gì để thường xuyên rèn luyện nâng cao dạo đức nghề nghiệp,những địa điểm nào ở Việt Nam được công nhận là di sản văn hóa thế giới 
+1,Ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì dưới đây,hãy cho biết ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì dưới đây
+1,Ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì dưới đây,Ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì ngoài những điều nêu ở đây 
+0,Ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì dưới đây,người lao công cần phải làm những công việc gì 
+0,Ngoài các phẩm chất của con người mới xã hội chủ nghĩa người lái xe cần phải có phẩm chất đạo đức nghề nghiệp gì dưới đây,tiêu chuẩn để đánh giá một người lao động tốt là gì 
+1,người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây,hãy cho biết người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây
+1,người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây,những quy định gì mà người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có trách nhiệm thực hiện 
+0,người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây,mỗi người cần phải có những phẩm chất đạo đức cơ bản nào 
+0,người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây,làm tình nguyện viên có những ưu nhược điểm gì 
+1,Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng,hãy cho biết khái niệm về văn hóa giao thông được hiểu như thế nào là đúng 
+1,Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng,nêu định nghĩa chính xác về khái niệm về văn hóa giao thông 
+0,Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng,là thanh niên nên hay không nên làm tình nguyện viên 
+0,Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng,đọc sách có lợi như thế nào 
+1,Trên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô xử lí thế naoflaf có văn hóa giao thông,hãy cho biết trên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô xử lí thế nào là có văn hóa giao thông
+1,Trên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô xử lí thế naoflaf có văn hóa giao thông,như thế nào là hành vi có văn hóa khi tên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô 
+0,Trên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô xử lí thế naoflaf có văn hóa giao thông,nên làm gì để cải thiện chất lượng giấc ngủ 
+0,Trên làn đường dành cho ô tô có vùng nước lớn có nhiều người đi xe trên làn dường bên cạnh người lái xe ô tô xử lí thế naoflaf có văn hóa giao thông,khi bị mất ngủ khó ngủ cần làm gì để khắc phục 
+1,Người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi nào trong các hành vi sau,hãy cho biết người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi nào trong các hành vi sau
+1,Người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi nào trong các hành vi sau,trong các hành vi sau người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi xấu hay tốt 
+0,Người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi nào trong các hành vi sau,giấc ngủ trưa đem lại lợi ích gì cho con người 
+0,Người lái xe cố tình vi phạm luật giao thông đường bộ không phân biệt làn đường vạch phân làn phóng nhanh vượt ẩu vượt đèn đỏ đi vào đường cấm đường một chiều được coi là hành vi nào trong các hành vi sau,loại axit nào gây bỏng da 
+1,Khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết thương máu chảy ra số lượng ít bạn phải làm gì,hãy cho biết khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết thương máu chảy ra số lượng ít bạn phải làm gì
+1,Khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết thương máu chảy ra số lượng ít bạn phải làm gì,phải làm gì để đảm bảo an toàn khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết 
+0,Khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết thương máu chảy ra số lượng ít bạn phải làm gì,nắng buổi sáng có gây hại cho da không 
+0,Khi sơ cứu người bị tai nạn giao thông đường bộ có vết thuong chảy máu ngoài đỏ sẫm trào trên bề mặt vết thương máu chảy ra số lượng ít bạn phải làm gì,huyết tương có màu đỏ hay màu vàng 
+1,Khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp bạn phải làm gì,hãy cho biết khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp bạn phải làm gì
+1,Khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp bạn phải làm gì,phải làm gì khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp 
+0,Khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp bạn phải làm gì,cua và ghe khác nhau như thế nào 
+0,Khi sơ cứu người bị nạn giao thông đường bộ có vết thương chảy máu ngoài màu đỏ tươi phun thành tia và phun mạnh khi mạch đạp bạn phải làm gì,tại sao mùa hè không có thuyết
+1,Trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng các điều kiện nào,hãy cho biết trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng các điều kiện nào
+1,Trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng các điều kiện nào,những điều kiện nào trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng 
+0,Trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng các điều kiện nào,hãy nêu luật chơi môn golf
+0,Trong các hành vi dưới đây người lái xe có văn hóa giao thông phải đáp ứng các điều kiện nào,sân golf thường được thiết kế như thế nào 
+1,Trong các hành vi dưới đây người lái xe có văn hóa khi tham gia giao thông phải đáp ứng các điều kiện nào,Trong các hành vi dưới đây người lái xe có văn hóa khi tham gia giao thông phải đáp ứng các điều kiện gì để đảm bảo an toàn 
+1,Trong các hành vi dưới đây người lái xe có văn hóa khi tham gia giao thông phải đáp ứng các điều kiện nào,trong các hành vi dưới đây những điều kiện nào người lái xe có văn hóa khi tham gia giao thông phải đáp ứng 
+0,Trong các hành vi dưới đây người lái xe có văn hóa khi tham gia giao thông phải đáp ứng các điều kiện nào,nhiệt kế có đo được nhiệt độ không khí không 
+0,Trong các hành vi dưới đây người lái xe có văn hóa khi tham gia giao thông phải đáp ứng các điều kiện nào,nhiệt độ không khí được đo bằng dụng cụ gì 
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,hãy cho biết trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,Trong các hành vi dưới đây ứng xử của người lái xe mô tô có văn hóa giao thông phải được thể hiện như thế nào 
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,tại sao khi dùng lâu điện thoại bị nóng
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,khi nào có khói mà không có lửa 
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,hãy cho biết trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,Trong các hành vi dưới đây ứng xử của người lái xe mô tô có là văn hóa giao thông 
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,màu đỏ được kết hợp bởi những màu sắc nào 
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,như thế nào là tiết kiệm đ
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,hãy cho biết trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào
+1,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,Trong các hành vi dưới đây những ứng xử nào là của người lái xe mô tô có văn hóa giao thông 
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,ống khói ô tô xe máy để làm gì 
+0,Trong các hành vi dưới đây người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào,tại sao cần phải có lò sưởi trong nhà 
+1,Trong các hành vi dưới đây người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào,hãy cho biết trong các hành vi dưới đây người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào
+1,Trong các hành vi dưới đây người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào,trong các hành vi dưới đây cách ứng xử như thế nào là cần có ở người lái xe ô tô để có văn hóa giao thông 
+0,Trong các hành vi dưới đây người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào,trứng gà bổ dưỡng như thế nào 
+0,Trong các hành vi dưới đây người lái xe ô tô có văn hóa giao thông phải ứng xử như thế nào,thời điểm nào trong ngày có ánh nắng độc hại nhất
+1,Người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì,hãy cho biết người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì
+1,Người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì,các điều kiện nào ở người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo 
+0,Người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì,tập thể dục tất cả các ngày trong tuần có tốt không 
+0,Người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì,tại sao tập yoga tốt cho sức khỏe 
+1,Khi xảy ra tai nạn giao thông người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây,hãy cho biết khi xảy ra tai nạn giao thông người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây
+1,Khi xảy ra tai nạn giao thông người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây,Khi xảy ra tai nạn giao thông những công việc gì người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện 
+0,Khi xảy ra tai nạn giao thông người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây,lò vi sóng hoạt động theo cơ chế như thế nào 
+0,Khi xảy ra tai nạn giao thông người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì dưới đây,hãy nêu nguyên lý hoạt động của động cơ điezel
+1,Khi xảy ra tai nạn giao thông có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn phải thực hiện các công việc gì,hãy cho biết khi xảy ra tai nạn giao thông có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn phải thực hiện các công việc gì
+1,Khi xảy ra tai nạn giao thông có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn phải thực hiện các công việc gì,Khi xảy ra tai nạn giao thông các công việc gì phải thực hiện nếu có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn 
+0,Khi xảy ra tai nạn giao thông có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn phải thực hiện các công việc gì,sơ cứu cho người bị thương như thế nào là đúng 
+0,Khi xảy ra tai nạn giao thông có người bị thương nghiệm trọng người lái xe và người có mặt tai nạn hiện trường tai nạn phải thực hiện các công việc gì,khi bị gãy tay cần bó bột như thế nào 
+1,Khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì,hãy cho biết khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì
+1,Khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì,cần phải làm gì khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn 
+0,Khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì,sơ cứu tại chỗ cho người bị đuối nước như thế nào
+0,Khi sơ cứu ban đầu cho người bị tai nạn giao thông đường bộ không còn hô hấp người lái xe và người có mặt tại hiện trường vụ tai nạn phải thực hiện các công việc gì,sợi tơ được dệt như thế nào 
+1,Khi vào số để tiến hoặc lùi xe ô tô có số tự động người lái xe phải thực hiện các thao tác nào để đảm bảo an toàn,hãy cho biết khi vào số để tiến hoặc lùi xe ô tô có số tự động người lái xe phải thực hiện các thao tác nào để đảm bảo an toàn
+1,Khi vào số để tiến hoặc lùi xe ô tô có số tự động người lái xe phải thực hiện các thao tác nào để đảm bảo an toàn,Khi vào số để tiến hoặc lùi xe ô tô có số tự động các thao tác đảm bảo an toàn mà người lái xe phải thực hiện là gì 
+0,Khi vào số để tiến hoặc lùi xe ô tô có số tự động người lái xe phải thực hiện các thao tác nào để đảm bảo an toàn,thuốc lá ảnh hưởng đến phổi như thế nào 
+0,Khi vào số để tiến hoặc lùi xe ô tô có số tự động người lái xe phải thực hiện các thao tác nào để đảm bảo an toàn,thuốc lào có gây hại cho phổi không 
+1,Khi nhả phanh tay người lái xe cần phải thực hiện các thao tác nào,hãy cho biết khi nhả phanh tay người lái xe cần phải thực hiện các thao tác nào
+1,Khi nhả phanh tay người lái xe cần phải thực hiện các thao tác nào,Khi nhả phanh tay các thao tác nào mà người lái xe cần phải thực hiện 
+0,Khi nhả phanh tay người lái xe cần phải thực hiện các thao tác nào,hãy nêu nguyên lý hoạt động của quạt máy hơi nước 
+0,Khi nhả phanh tay người lái xe cần phải thực hiện các thao tác nào,quạt máy hơi nước được sản xuất từ những vật liệu gì 
+1,Khi khởi hành ô tô trên đường bằng người lái xe cần thực hiện các thao tác nào theo trình tự dưới đây,hãy cho biết khi khởi hành ô tô trên đường bằng người lái xe cần thực hiện các thao tác nào theo trình tự dưới đây
+1,Khi khởi hành ô tô trên đường bằng người lái xe cần thực hiện các thao tác nào theo trình tự dưới đây,Khi khởi hành ô tô trên đường bằng các thao tác nào mà người lái xe cần thực hiện 
+0,Khi khởi hành ô tô trên đường bằng người lái xe cần thực hiện các thao tác nào theo trình tự dưới đây,luật bản quyền về sở hữu trí tuệ quy định như thế nào 
+0,Khi khởi hành ô tô trên đường bằng người lái xe cần thực hiện các thao tác nào theo trình tự dưới đây,sản phẩm lưu hành trên thị trường mà không có đăng ký sở hữu trí tuệ thì sao 
+1,Khi quay đầu xe người lái xe cần phải quan sát và thực hiện các thao tác nào,hãy cho biết khi quay đầu xe người lái xe cần phải quan sát và thực hiện các thao tác nào
+1,Khi quay đầu xe người lái xe cần phải quan sát và thực hiện các thao tác nào,Khi quay đầu xe các thao tác nào mà người lái xe cần phải quan sát và thực hiện
+0,Khi quay đầu xe người lái xe cần phải quan sát và thực hiện các thao tác nào,công suất tối đa của máy giặt là bao nhiêu 
+0,Khi quay đầu xe người lái xe cần phải quan sát và thực hiện các thao tác nào,máy điều hoà cần phải được sản xuất như thế nào để giảm tải điện năng 
+1,Khi tránh nhau trên đường hẹp người lái xe cần phải chú ý những điểm nào,hãy cho biết khi tránh nhau trên đường hẹp người lái xe cần phải chú ý những điểm nào
+1,Khi tránh nhau trên đường hẹp người lái xe cần phải chú ý những điểm nào,Khi tránh nhau trên đường hẹp những điểm nào người lái xe cần phải chú ý 
+0,Khi tránh nhau trên đường hẹp người lái xe cần phải chú ý những điểm nào,ai nên thực hiện phẫu thuật chỉnh hình 
+0,Khi tránh nhau trên đường hẹp người lái xe cần phải chú ý những điểm nào,tại sao bệnh gan lại gây vàng da
+1,Khi điều khiển ô tô lên dốc cao người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển ô tô lên dốc cao người lái xe cần thực hiện các thao tác nào
+1,Khi điều khiển ô tô lên dốc cao người lái xe cần thực hiện các thao tác nào,Khi điều khiển ô tô lên dốc cao các thao tác nào người lái xe cần thực hiện 
+0,Khi điều khiển ô tô lên dốc cao người lái xe cần thực hiện các thao tác nào,tại sao gạo nếp khi nấu lại dẻo hơn gạo tẻ
+0,Khi điều khiển ô tô lên dốc cao người lái xe cần thực hiện các thao tác nào,cách ngân hàng hoạt động là gì 
+1,Khi điều khiển ô tô xuống dốc cao người lái xe cần thực hiện các thao tác nào dưới đây,hãy cho biết khi điều khiển ô tô xuống dốc cao người lái xe cần thực hiện các thao tác nào dưới đây
+1,Khi điều khiển ô tô xuống dốc cao người lái xe cần thực hiện các thao tác nào dưới đây,Khi điều khiển ô tô xuống dốc cao các thao tác mà người lái xe cần thực hiện là gì 
+0,Khi điều khiển ô tô xuống dốc cao người lái xe cần thực hiện các thao tác nào dưới đây,thức ăn của mèo phải gồm những chất dinh dưỡng gì để đảm bảo đủ chất cho mèo 
+0,Khi điều khiển ô tô xuống dốc cao người lái xe cần thực hiện các thao tác nào dưới đây,có cần phải tẩy giun cho mèo theo định kì không 
+1,Khi xuống dốc muốn dừng xe người lái xe cần thực hiện các thao tác nào,hãy cho biết khi xuống dốc muốn dừng xe người lái xe cần thực hiện các thao tác nào
+1,Khi xuống dốc muốn dừng xe người lái xe cần thực hiện các thao tác nào,Khi xuống dốc muốn dừng xe các thao tác mà người lái xe cần thực hiện là gì 
+0,Khi xuống dốc muốn dừng xe người lái xe cần thực hiện các thao tác nào,bộ nhớ ram của máy tính thường là bao nhiêu
+0,Khi xuống dốc muốn dừng xe người lái xe cần thực hiện các thao tác nào,không tập thể thao thường xuyên sẽ gây ra những bệnh gì
+1,Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì,hãy cho biết khi điều khiển xe trên đường vòng thì những thao tác nào người lái xe cần phải thực hiện 
+1,Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì,Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì để đảm bảo an toàn giao thông 
+0,Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì,một ngày ngủ bao lâu là hợp lí
+0,Khi điều khiển xe trên đường vòng người lái xe cần phải làm gì,bữa sáng nên ăn gì để đảm bảo đủ chất dinh dưỡng 
+1,Khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau các thao tác nào người lái xe cần thực hiện 
+1,Khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,Khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác gì để đảm bảo an toàn giao thông 
+0,Khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,nên uống nước vào những thời điểm nào trong ngày
+0,Khi điều khiển xe ô tô rẽ phải ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,đi xe đạp có ích như thế nào cho sức khỏe và môi trường 
+1,Khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào
+1,Khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,Khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau các thao tác mà người lái xe cần thực hiện là gì
+0,Khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,ngủ ngày quá nhiều có tốt cho sức khỏe không 
+0,Khi điều khiển xe ô tô rẽ trái ở chỗ đường giao nhau người lái xe cần thực hiện các thao tác nào,thời gian đi học của học sinh được quy định như thế nào 
+1,Khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường người lái xe cần thực hiện các thao tác nào
+1,Khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường người lái xe cần thực hiện các thao tác nào,Khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường các thao tác mà người lái xe cần thực hiện là gì 
+0,Khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường người lái xe cần thực hiện các thao tác nào,vải may được phân loại như thế nào 
+0,Khi điều khiển xe vượt qua rãnh lớn cắt ngang mặt đường người lái xe cần thực hiện các thao tác nào,có bao nhiêu loại đàn guitar 
+1,Khi điều khiển xe qua đường sắt người lái xe cần phải thực hiện các thao tác nào dưới đây,hãy cho biết khi điều khiển xe qua đường sắt người lái xe cần phải thực hiện các thao tác nào dưới đây
+1,Khi điều khiển xe qua đường sắt người lái xe cần phải thực hiện các thao tác nào dưới đây,Khi điều khiển xe qua đường sắt các thao tác mà người lái xe cần phải thực hiện là gì 
+0,Khi điều khiển xe qua đường sắt người lái xe cần phải thực hiện các thao tác nào dưới đây,tại sao trẻ em thích chơi cầu trượt 
+0,Khi điều khiển xe qua đường sắt người lái xe cần phải thực hiện các thao tác nào dưới đây,quần áo trẻ em khác với quần áo người lớn như thế nào 
+1,Khi điều khiển xe ô tô tự đổ người lái xe cần chú ý nững điểm gì,hãy cho biết khi điều khiển xe ô tô tự đổ người lái xe cần chú ý nững điểm gì
+1,Khi điều khiển xe ô tô tự đổ người lái xe cần chú ý nững điểm gì,Khi điều khiển xe ô tô tự đổ những điểm nào người lái xe cần chú ý
+0,Khi điều khiển xe ô tô tự đổ người lái xe cần chú ý nững điểm gì,các công ty sản xuất cùng một loại sản phẩm thì cạnh tranh như thế nào 
+0,Khi điều khiển xe ô tô tự đổ người lái xe cần chú ý nững điểm gì,khái niệm về lao động và sản xuất là gì 
+1,Khi điều khiển tăng số người lái xe ô tô cần chú ý những điểm gì,hãy cho biết khi điều khiển tăng số người lái xe ô tô cần chú ý những điểm gì
+1,Khi điều khiển tăng số người lái xe ô tô cần chú ý những điểm gì,Khi điều khiển tăng số những điểm gì mà người lái xe ô tô cần chú ý 
+0,Khi điều khiển tăng số người lái xe ô tô cần chú ý những điểm gì,mùa đông chim én bay đi đâu để tránh rét
+0,Khi điều khiển tăng số người lái xe ô tô cần chú ý những điểm gì,tại sao chim én phải đi tránh rét vào mùa đông 
+1,Khi điều khiển xe giảm số người lái xe cần chú ý những điểm gì,hãy cho biết khi điều khiển xe giảm số người lái xe cần chú ý những điểm gì
+1,Khi điều khiển xe giảm số người lái xe cần chú ý những điểm gì,Khi điều khiển xe giảm số những điểm nào người lái xe cần chú ý 
+0,Khi điều khiển xe giảm số người lái xe cần chú ý những điểm gì,tại sao không được cho tay vào ổ điện 
+0,Khi điều khiển xe giảm số người lái xe cần chú ý những điểm gì,đứng gần cột điện thì có bị sao không 
+1,Để giảm tốc độ khi ô tô đi xuống đường dốc dài người lái xe phải thực hiện các thao tác nào,hãy cho biết để giảm tốc độ khi ô tô đi xuống đường dốc dài người lái xe phải thực hiện các thao tác nào
+1,Để giảm tốc độ khi ô tô đi xuống đường dốc dài người lái xe phải thực hiện các thao tác nào,Để giảm tốc độ khi ô tô đi xuống đường dốc dài các thao tác nào mà người lái xe phải thực hiện 
+0,Để giảm tốc độ khi ô tô đi xuống đường dốc dài người lái xe phải thực hiện các thao tác nào,hãy nêu khái niệm về từ trường 
+0,Để giảm tốc độ khi ô tô đi xuống đường dốc dài người lái xe phải thực hiện các thao tác nào,đường sức từ có hình dạng như thế nào 
+1,Khi điều khiển ô tô qua đoạn đường ngập nước người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển ô tô qua đoạn đường ngập nước người lái xe cần thực hiện các thao tác nào
+1,Khi điều khiển ô tô qua đoạn đường ngập nước người lái xe cần thực hiện các thao tác nào,Khi điều khiển ô tô qua đoạn đường ngập nước các thao tác nào người lái xe cần thực hiện 
+0,Khi điều khiển ô tô qua đoạn đường ngập nước người lái xe cần thực hiện các thao tác nào,từ bao nhiêu tuổi thì thanh niên nam phải thực hiện nghĩa vụ quân sự 
+0,Khi điều khiển ô tô qua đoạn đường ngập nước người lái xe cần thực hiện các thao tác nào,những trường hợp nào được miễn thực hiện nghĩa vụ quân sự 
+1,Khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm người lái xe cần thực hiện các thao tác nào,Khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm các thao tác nào người lái xe cần thực hiện 
+1,Khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm người lái xe cần thực hiện các thao tác nào,hãy cho biết khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm người lái xe cần thực hiện các thao tác nào
+0,Khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm người lái xe cần thực hiện các thao tác nào,các trường hợp nào không cần thực hiện nghĩa vụ quân sự 
+0,Khi điều khiển ô tô tới gần xe chạy ngược chiều vào ban đêm người lái xe cần thực hiện các thao tác nào,sử dụng thuốc an thần quá liều lượng có thể gây tử vong không 
+1,Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì,hãy cho biết khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì
+1,Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì,có những điểm nào khi điều khiển xe ô tô trên đường trơn cần chú ý
+0,Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì,gạch xây nhà được làm bằng gì
+0,Khi điều khiển xe ô tô trên đường trơn cần chú ý những điểm gì,Giỗ tổ Hùng Vương là ngày bao nhiêu 
+1,Khi đã đỗ xe ô tô sát lề đường bên phải người lái xe phải thực hiện các thao tác nào dưới đây khi mở của xuống xe để đảm bảo an toàn,hãy cho biết khi đã đỗ xe ô tô sát lề đường bên phải người lái xe phải thực hiện các thao tác nào dưới đây khi mở của xuống xe để đảm bảo an toàn
+1,Khi đã đỗ xe ô tô sát lề đường bên phải người lái xe phải thực hiện các thao tác nào dưới đây khi mở của xuống xe để đảm bảo an toàn,Khi đã đỗ xe ô tô sát lề đường bên phải các thao tác nào người lái xe phải thực hiện khi mở của xuống xe để đảm bảo an toàn
+0,Khi đã đỗ xe ô tô sát lề đường bên phải người lái xe phải thực hiện các thao tác nào dưới đây khi mở của xuống xe để đảm bảo an toàn,quần thể thao khác quần âu như thế nào 
+0,Khi đã đỗ xe ô tô sát lề đường bên phải người lái xe phải thực hiện các thao tác nào dưới đây khi mở của xuống xe để đảm bảo an toàn,ghế gỗ có giống ghế nhựa không 
+1,Khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông người lái xe phải xử lý như thế nào,hãy cho biết khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông người lái xe phải xử lý như thế nào
+1,Khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông người lái xe phải xử lý như thế nào,Khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông có những thao tác nào người lái xe phải xử lý 
+0,Khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông người lái xe phải xử lý như thế nào,tại sao vào mùa đông cây cối lại thay lá
+0,Khi lái xe ô tô đường sắt không có rào chắn không có người điều khiển giao thông người lái xe phải xử lý như thế nào,đồ gốm được gia công như thế nào 
+1,Khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài người lái xe để cần số ở vị trí nào,hãy cho biết khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài người lái xe để cần số ở vị trí nào
+1,Khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài người lái xe để cần số ở vị trí nào,Khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài cần số phải được người lái xe để ở vị trí nào 
+0,Khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài người lái xe để cần số ở vị trí nào,các chi tiết máy được sản xuất ở đâu 
+0,Khi ô tô có hộp số tự động đi trên đường trên đượt lầy lội hoặc xuống dốc cao và dài người lái xe để cần số ở vị trí nào,viết các chương trình máy tính cần sử dụng những thuật toán nào
+1,Khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái người lái xe phải điều chỉnh cần số ở vị trí nào,hãy cho biết khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái người lái xe phải điều chỉnh cần số ở vị trí nào
+1,Khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái người lái xe phải điều chỉnh cần số ở vị trí nào,Khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái cần số phải được người lái xe điều chỉnh đến vị trí nào 
+0,Khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái người lái xe phải điều chỉnh cần số ở vị trí nào,đồng hồ báo thức chạy được nhờ pin gì 
+0,Khi động cơ ô tô đã khởi động muốn điều chỉnh ghế của người lái người lái xe phải điều chỉnh cần số ở vị trí nào,rubik có quy luật xoay như thế nào 
+1,Khi điều khiển ô tô có số tự động người lái xe sử dụng chân như thế nào là đúng,hãy cho biết khi điều khiển ô tô có số tự động người lái xe sử dụng chân như thế nào là đúng
+1,Khi điều khiển ô tô có số tự động người lái xe sử dụng chân như thế nào là đúng,Khi điều khiển ô tô có số tự động chân phải đước người lái xe sử dụng thế nào để thực hiện thao tác 
+0,Khi điều khiển ô tô có số tự động người lái xe sử dụng chân như thế nào là đúng,gương được làm ra như thế nào 
+0,Khi điều khiển ô tô có số tự động người lái xe sử dụng chân như thế nào là đúng,sáp thơm được sản xuất từ đâu
+1,Trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe như thế nào khi tầm nhìn bị hạn chế bởi sương mù,hãy cho biết trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe như thế nào khi tầm nhìn bị hạn chế bởi sương mù
+1,Trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe như thế nào khi tầm nhìn bị hạn chế bởi sương mù,Trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe khi tầm nhìn bị hạn chế bởi sương mù thì phải làm thế nào 
+0,Trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe như thế nào khi tầm nhìn bị hạn chế bởi sương mù,tại sao cầu thủ bóng đá khi ra sân lại đi tất cao
+0,Trong các trường hợp dưới đây để đảm bảo an toàn giao thông người lái xe điều khiển xe như thế nào khi tầm nhìn bị hạn chế bởi sương mù,sơ cứu chấn thương của cầu thủ bóng đá được thực hiện như thế nào 
+1,Khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe xử lý như thế nào,hãy cho biết khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe xử lý như thế nào
+1,Khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe xử lý như thế nào,Khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe cần phải làm gì để khắc phục vấn đề 
+0,Khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe xử lý như thế nào,có những thể loại sách nào dành cho trẻ em 6 tuổi 
+0,Khi đèn pha của xe đi ngược chiều gây chói mắt làm giảm khả năng quan sát trên đường người lái xe xử lý như thế nào,giá bán của 1m dây đèn led là bao nhiêu 
+1,Để đạt được hiệu quả nhanh cao nhất người lái xe mô tô phải sử dụng các kỹ năng như thế nào,hãy cho biết để đạt được hiệu quả nhanh cao nhất người lái xe mô tô phải sử dụng các kỹ năng như thế nào
+1,Để đạt được hiệu quả nhanh cao nhất người lái xe mô tô phải sử dụng các kỹ năng như thế nào,Để đạt được hiệu quả nhanh cao nhất các kỹ năng nào cần thiết cho người lái xe mô tô phải sử dụng 
+0,Để đạt được hiệu quả nhanh cao nhất người lái xe mô tô phải sử dụng các kỹ năng như thế nào,sử dụng loại ống hút nào thì thân thiện với môi trường hơn
+0,Để đạt được hiệu quả nhanh cao nhất người lái xe mô tô phải sử dụng các kỹ năng như thế nào,tại sao khi cọ xát đá cuội có thể tạo ra lửa 
+1,Khi lái xe ô tô trên mặt đường có nhiều ổ gà người lái xe phải thực hiện thao tác như thế nào,hãy cho biết khi lái xe ô tô trên mặt đường có nhiều ổ gà người lái xe phải thực hiện thao tác như thế nào
+1,Khi lái xe ô tô trên mặt đường có nhiều ổ gà người lái xe phải thực hiện thao tác như thế nào,Khi lái xe ô tô trên mặt đường có nhiều ổ gà các thao tác nào cần được người lái xe thực hiện 
+0,Khi lái xe ô tô trên mặt đường có nhiều ổ gà người lái xe phải thực hiện thao tác như thế nào,nhóm thực phẩm nào chứa nhiều chất đạm
+0,Khi lái xe ô tô trên mặt đường có nhiều ổ gà người lái xe phải thực hiện thao tác như thế nào,chất xơ chủ yếu có trong loại thực phẩm nào
+1,Khi điều khiển ô tô gặp mưa to hoặc sương mù người lái xe phải làm gì,hãy cho biết khi điều khiển ô tô gặp mưa to hoặc sương mù người lái xe phải làm gì
+1,Khi điều khiển ô tô gặp mưa to hoặc sương mù người lái xe phải làm gì,Khi điều khiển ô tô gặp mưa to hoặc sương mù những thao tác nào người lái xe cần phải thực hiện 
+0,Khi điều khiển ô tô gặp mưa to hoặc sương mù người lái xe phải làm gì,dấu hiệu nào cho biết cơ thể đang bị mất nước
+0,Khi điều khiển ô tô gặp mưa to hoặc sương mù người lái xe phải làm gì,có mấy loại băng dính 
+1,Xe ô tô tham gia giao thông đường bộ phải bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường nào ghi dưới đây,Xe ô tô tham gia giao thông đường bộ phải bảo đảm các yêu cầu nào trong quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường 
+1,Xe ô tô tham gia giao thông đường bộ phải bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường nào ghi dưới đây,hãy cho biết xe ô tô tham gia giao thông đường bộ phải bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường nào ghi dưới đây
+0,Xe ô tô tham gia giao thông đường bộ phải bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường nào ghi dưới đây,trẻ em được học nấu ăn từ khi nào 
+0,Xe ô tô tham gia giao thông đường bộ phải bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường nào ghi dưới đây,đâu là độ tuổi thích hợp để trẻ em học nói 
+1,Xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không,hãy cho biết xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không
+1,Xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không,có quy định nào về xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không 
+0,Xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không,trẻ em tập đi vào thời điểm nào là thích hợp 
+0,Xe ô tô tham gia giao thông trên đường bộ phải bắt buộc có đủ bộ phận giảm thanh giảm khói không,nến được tạo ra như thế nào 
+1,Xe ô tô tham gia giao thông trên đường bộ phải có đủ các loại đèn gì,hãy cho biết xe ô tô tham gia giao thông trên đường bộ phải có đủ các loại đèn gì
+1,Xe ô tô tham gia giao thông trên đường bộ phải có đủ các loại đèn gì,có các loại đèn nào mà xe ô tô tham gia giao thông trên đường bộ phải có đủ 
+0,Xe ô tô tham gia giao thông trên đường bộ phải có đủ các loại đèn gì,sắt nóng chảy ở nhiệt độ bao nhiêu 
+0,Xe ô tô tham gia giao thông trên đường bộ phải có đủ các loại đèn gì,đun nước trong bao lâu thì sôi 
+1,Hãy nên yêu cầu của kính chắn gió ô tô,Hãy cho biết yêu cầu của kính chắn gió ô tô
+1,Hãy nên yêu cầu của kính chắn gió ô tô,kính chắn gió ô tô có những yêu cầu gì 
+0,Hãy nên yêu cầu của kính chắn gió ô tô,cốc sứ được đúc như thế nào 
+0,Hãy nên yêu cầu của kính chắn gió ô tô,máy photo hoạt động như thế nào 
+1,Hãy nêu yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô,Hãy cho biết yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô gồm những gì 
+1,Hãy nêu yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô,yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô đòi hỏi những điều gì
+0,Hãy nêu yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô,máy tiện hoạt động thế nào 
+0,Hãy nêu yêu cầu an toàn kỹ thuật đối với bánh xe lắp cho ô tô,than có nhiều ở tỉnh thành nào của nước ta 
+1,Âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) là bao nhiêu,hãy cho biết âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) là bao nhiêu
+1,Âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) là bao nhiêu,Âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) được quy định như thế nào 
+0,Âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) là bao nhiêu,có bao nhiêu hãng thời trang hiện đang xuất hiện tại Việt Nam 
+0,Âm lượng của còi điện lắp trên ô tô (đo ở độ cao 1 2m với khoảng cách 2m tính từ đầu) là bao nhiêu,sống thanh giản là lối sống như thế nào 
+1,Mục đích của bảo dưỡng thường xuyên đối với xe ô tô có tác dụng gì,hãy cho biết mục đích của bảo dưỡng thường xuyên đối với xe ô tô có tác dụng gì
+1,Mục đích của bảo dưỡng thường xuyên đối với xe ô tô có tác dụng gì,vì sao phải có mục đích của bảo dưỡng thường xuyên đối với xe ô tô
+0,Mục đích của bảo dưỡng thường xuyên đối với xe ô tô có tác dụng gì,chăm sóc da hàng ngày có cần thiết hay không 
+0,Mục đích của bảo dưỡng thường xuyên đối với xe ô tô có tác dụng gì,tại sao phải tiêm phòng dại cho chó 
+1,Trong các nguyên nhân nếu dưới đây nguyên nhân nào làm động cơ ddiezeen không nổ,hãy cho biết trong các nguyên nhân nếu dưới đây nguyên nhân nào làm động cơ ddiezeen không nổ
+1,Trong các nguyên nhân nếu dưới đây nguyên nhân nào làm động cơ ddiezeen không nổ,nguyên nhân nào làm động cơ ddiezeen không nổ trong các nguyên nhân sau đây 
+0,Trong các nguyên nhân nếu dưới đây nguyên nhân nào làm động cơ ddiezeen không nổ,xe máy điện hay xe máy chạy xăng tiện dụng hơn 
+0,Trong các nguyên nhân nếu dưới đây nguyên nhân nào làm động cơ ddiezeen không nổ,tại sao răng chuột dài và nhọn 
+1,Hãy nêu yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô,Hãy cho biết những yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô
+1,Hãy nêu yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô,yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô gồm những gì 
+0,Hãy nêu yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô,bảng cửu chương quan trọng với học sinh tiểu học như thế nào 
+0,Hãy nêu yêu cầu về an toàn kỹ thuật đối với gạt nước lắp trên ô tô,trẻ em được học các phép toán từ khi nào 
+1,Hãy nêu yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô,Hãy cho biết các yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô
+1,Hãy nêu yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô,yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô gồm những yêu cầu gì 
+0,Hãy nêu yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô,nhà máy sản xuất nước mắm được vận hành như thế nào 
+0,Hãy nêu yêu cầu về an toàn kỹ thuật đối với dây đai an toàn lắp trên ô tô,các chương trình khuyến mãi được áp dụng hiệu quả nhất vào thời điểm nào 
+1,Thế nào là động cơ 4 kỳ,động cơ 4 kỳ là gì 
+1,Thế nào là động cơ 4 kỳ,hãy nêu khái niệm động cơ 4 kỳ
+0,Thế nào là động cơ 4 kỳ,tuổi thọ trung bình của mỗi người là bao nhiêu 
+0,Thế nào là động cơ 4 kỳ,vòng đời của châu chấu như thế nào 
+1,Thế nào là động cơ 2 kỳ,hãy cho biết khái niệm động cơ 2 kỳ
+1,Thế nào là động cơ 2 kỳ, động cơ 2 kỳ là gì 
+0,Thế nào là động cơ 2 kỳ,tại sao trâu không có răng hàm
+0,Thế nào là động cơ 2 kỳ,bò có ăn thịt không 
+1,Niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,hãy cho biết niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) là bao nhiêu năm
+1,Niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,5 năm có phải niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) không 
+0,Niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,chứng minh nhân dân được cấp phép cho công dân ở độ tuổi nào 
+0,Niên hạn sử dụng của ô tô tải (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,kì ấp trứng của gà mái là vào thời điểm nào 
+1,Niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,hãy cho biết niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) là bao nhiêu năm
+1,Niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,10 năm có phải niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) không 
+0,Niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,vòng đời trung bình của chó là bao lâu
+0,Niên hạn sử dụng của ô tô chở người trên 9 chỗ ngồi (tính bắt đầu từ năm sản xuất) là bao nhiêu năm,giống chó nào to và nặng nhất 
+1,Hãy nêu công dụng của động cơ ô tô,Hãy cho biết các công dụng của động cơ ô tô
+1,Hãy nêu công dụng của động cơ ô tô, công dụng của động cơ ô tô có những gì
+0,Hãy nêu công dụng của động cơ ô tô,tại sao chó sợ tiếng nổ
+0,Hãy nêu công dụng của động cơ ô tô,thế nào là ăn chay 
+1,Hãy nêu công dụng hệ thống truyền lực của ô tô,Hãy cho biết những công dụng của hệ thống truyền lực của ô tô
+1,Hãy nêu công dụng hệ thống truyền lực của ô tô,công dụng hệ thống truyền lực của ô tô như thế nào 
+0,Hãy nêu công dụng hệ thống truyền lực của ô tô,thế nào là nước tinh khiết 
+0,Hãy nêu công dụng hệ thống truyền lực của ô tô,nước sạch được sản xuất như thế nào 
+1,Hãy nêu công dụng ly hợp của ô tô,Hãy cho biết các công dụng ly hợp của ô tô
+1,Hãy nêu công dụng ly hợp của ô tô,công dụng ly hợp của ô tô gồm có những gì
+0,Hãy nêu công dụng ly hợp của ô tô,dao được mài dũa như thế nào 
+0,Hãy nêu công dụng ly hợp của ô tô,điện thoại cảm ứng do ai phát minh 
+1,Hãy nêu công dụng hộp số của ô tô,Hãy cho biết các công dụng của hộp số của ô tô
+1,Hãy nêu công dụng hộp số của ô tô,công dụng hộp số của ô tô có những gì 
+0,Hãy nêu công dụng hộp số của ô tô,tại sao trẻ em lại thích đồ chơi 
+0,Hãy nêu công dụng hộp số của ô tô,nên cho trẻ chơi cái gì để phát triển trí não
+1,Hãy nêu công dụng hệ thống lái của ô tô,Hãy cho biết công dụng hệ thống lái của ô tô
+0,Hãy nêu công dụng hệ thống lái của ô tô,nhóm thực phẩm nào có chứa nhiều canxi và vitamin D
+0,Hãy nêu công dụng hệ thống lái của ô tô,tại sao ốc sên bò chậm 
+1,Hãy nêu công dụng của hệ thống phanh của ô tô,Hãy liệt kê các công dụng của hệ thống phanh của ô tô
+1,Hãy nêu công dụng của hệ thống phanh của ô tô,Hãy bổ sung các công dụng của hệ thống phanh của ô tô còn thiếu trong bảng sau
+0,Hãy nêu công dụng của hệ thống phanh của ô tô,sữa mẹ hay sữa hộp tốt cho trẻ sơ sinh hơn 
+0,Hãy nêu công dụng của hệ thống phanh của ô tô,trẻ em dưới 6 tuổi nên được phát triển những kĩ năng gì
